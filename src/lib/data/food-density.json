@@ -1,0 +1,3950 @@
+{
+	"version": "1.0.0",
+	"itemCount": 357,
+	"categories": [
+		"Egg and egg products",
+		"Fish and fish products",
+		"Fruits",
+		"Grains and cereals",
+		"Herbs and spices",
+		"Legumes",
+		"Meat and meat products",
+		"Miscellaneous foods",
+		"Mixed dishes",
+		"Nuts and seeds",
+		"Snacks",
+		"Soups",
+		"Sweets",
+		"Tubers and products",
+		"Vegetables"
+	],
+	"items": [
+		{
+			"id": "barley-flour",
+			"name": "Barley, flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.61,
+				"max": 0.61,
+				"avg": 0.61
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "barley-flour-malted",
+			"name": "Barley, flour, malted",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.64,
+				"max": 0.64,
+				"avg": 0.64
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "barley-ground",
+			"name": "Barley, ground",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.38,
+				"max": 0.42,
+				"avg": 0.4
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "barley-malted",
+			"name": "Barley, malted",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.49,
+				"max": 0.49,
+				"avg": 0.49
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "barley-rolled",
+			"name": "Barley, rolled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.34,
+				"max": 0.38,
+				"avg": 0.36
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "barley-scoured",
+			"name": "Barley, scoured",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.66,
+				"max": 0.66,
+				"avg": 0.66
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "barley-whole",
+			"name": "Barley, whole",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.61,
+				"max": 0.69,
+				"avg": 0.6499999999999999
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "biscuits",
+			"name": "Biscuits",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.41,
+				"max": 0.53,
+				"avg": 0.47
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "bran",
+			"name": "Bran",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.56,
+				"max": 0.56,
+				"avg": 0.56
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "bread",
+			"name": "Bread",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.29,
+				"max": 0.29,
+				"avg": 0.29
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "bread-cornbread",
+			"name": "Bread, cornbread",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.433,
+				"max": 0.433,
+				"avg": 0.433
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "bread-roll-soft",
+			"name": "Bread, roll, soft",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.18,
+				"max": 0.18,
+				"avg": 0.18
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "bread-white",
+			"name": "Bread, white",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.42,
+				"max": 0.42,
+				"avg": 0.42
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "bread-white-sliced-prepacked",
+			"name": "Bread, white, sliced, prepacked",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.29,
+				"max": 0.29,
+				"avg": 0.29
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "breadcrumbs",
+			"name": "Breadcrumbs",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.45,
+				"max": 0.45,
+				"avg": 0.45
+			},
+			"source": "RC"
+		},
+		{
+			"id": "breakfast-cereal-cornflakes-dry-cereal",
+			"name": "Breakfast cereal, cornflakes (dry cereal)",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.117,
+				"max": 0.117,
+				"avg": 0.117
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "breakfast-cereal-muesli-w-fruits-nuts",
+			"name": "Breakfast cereal, muesli w/ fruits&nuts",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.37,
+				"max": 0.37,
+				"avg": 0.37
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "breakfast-cereal-raisin-bran",
+			"name": "Breakfast cereal, raisin bran",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.26,
+				"max": 0.26,
+				"avg": 0.26
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "breakfast-cereal-type-cheerios",
+			"name": "Breakfast cereal, type Cheerios",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.13,
+				"max": 0.13,
+				"avg": 0.13
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "breakfast-cereal-type-corn-flakes",
+			"name": "Breakfast cereal, type Corn flakes",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.1,
+				"max": 0.1,
+				"avg": 0.1
+			},
+			"source": "RC"
+		},
+		{
+			"id": "breakfast-cereal-type-crispix",
+			"name": "Breakfast cereal, type Crispix",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.13,
+				"max": 0.13,
+				"avg": 0.13
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "breakfast-cereal-type-frosted-flakes",
+			"name": "Breakfast cereal, type frosted flakes",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.18,
+				"max": 0.18,
+				"avg": 0.18
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "breakfast-cereal-type-just-right",
+			"name": "Breakfast cereal, type Just Right",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.24,
+				"max": 0.24,
+				"avg": 0.24
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "breakfast-cereal-type-rice-krispies",
+			"name": "Breakfast cereal, type rice krispies",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.12,
+				"max": 0.12,
+				"avg": 0.12
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "buckwheat-bran",
+			"name": "Buckwheat, bran",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.25,
+				"max": 0.25,
+				"avg": 0.25
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "buckwheat-flour",
+			"name": "Buckwheat, flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.66,
+				"max": 0.66,
+				"avg": 0.66
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "buckwheat-whole",
+			"name": "Buckwheat, whole",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.59,
+				"max": 0.66,
+				"avg": 0.625
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "bulrush-millet-fermented-flour",
+			"name": "Bulrush millet, fermented flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.56,
+				"max": 0.56,
+				"avg": 0.56
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "cake",
+			"name": "Cake",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.415,
+				"max": 0.415,
+				"avg": 0.415
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "cake-mix",
+			"name": "Cake mix",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-flour-white",
+			"name": "Corn/maize flour, white",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.55,
+				"max": 0.55,
+				"avg": 0.55
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "corn-maize-starch-loosely-packed",
+			"name": "Corn/maize starch, loosely packed",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.54,
+				"max": 0.54,
+				"avg": 0.54
+			},
+			"source": "TB"
+		},
+		{
+			"id": "corn-maize-sugar",
+			"name": "Corn/maize sugar",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.33,
+				"max": 0.33,
+				"avg": 0.33
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-boiled",
+			"name": "Corn/maize, boiled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.9,
+				"max": 0.9,
+				"avg": 0.9
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "corn-maize-boiled-with-fat",
+			"name": "Corn/maize, boiled with fat",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.9,
+				"max": 0.9,
+				"avg": 0.9
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "corn-maize-bran",
+			"name": "Corn/maize, bran",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.21,
+				"max": 0.21,
+				"avg": 0.21
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-chops-coarse",
+			"name": "Corn/maize, chops (coarse)",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.64,
+				"max": 0.7,
+				"avg": 0.6699999999999999
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-chops-fine",
+			"name": "Corn/maize, chops (fine)",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.58,
+				"max": 0.62,
+				"avg": 0.6
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-chops-medium",
+			"name": "Corn/maize, chops (medium)",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.61,
+				"max": 0.67,
+				"avg": 0.64
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-cobs",
+			"name": "Corn/maize, cobs",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.27,
+				"max": 0.27,
+				"avg": 0.27
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-cracked-coarse",
+			"name": "Corn/maize, cracked (coarse)",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.64,
+				"max": 0.64,
+				"avg": 0.64
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-fermented-flour",
+			"name": "Corn/maize, fermented flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.55,
+				"max": 0.55,
+				"avg": 0.55
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "corn-maize-meal",
+			"name": "Corn/maize, meal",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.64,
+				"max": 0.64,
+				"avg": 0.64
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-germ-flour",
+			"name": "Corn/maize, germ flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.56,
+				"max": 0.56,
+				"avg": 0.56
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-gluten-flour",
+			"name": "Corn/maize, gluten flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.51,
+				"max": 0.69,
+				"avg": 0.6
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-grits",
+			"name": "Corn/maize, grits",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.64,
+				"max": 0.69,
+				"avg": 0.665
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-ground",
+			"name": "Corn/maize, ground",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.54,
+				"max": 0.58,
+				"avg": 0.56
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-kibbled",
+			"name": "Corn/maize, kibbled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.32,
+				"max": 0.35,
+				"avg": 0.33499999999999996
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-mash",
+			"name": "Corn/maize, mash",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.72,
+				"max": 0.72,
+				"avg": 0.72
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-shelled",
+			"name": "Corn/maize, shelled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.72,
+				"max": 0.72,
+				"avg": 0.72
+			},
+			"source": "TB"
+		},
+		{
+			"id": "corn-maize-starch",
+			"name": "Corn/maize, starch",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.67,
+				"max": 0.67,
+				"avg": 0.67
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "corn-maize-starch-tightly-packed",
+			"name": "Corn/maize, starch, tightly packed",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.63,
+				"max": 0.63,
+				"avg": 0.63
+			},
+			"source": "TB"
+		},
+		{
+			"id": "corn-maize-white-boiled",
+			"name": "Corn/maize, white, boiled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.85,
+				"max": 0.85,
+				"avg": 0.85
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "corn-maize-white-dry",
+			"name": "Corn/maize, white, dry",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.81,
+				"max": 0.81,
+				"avg": 0.81
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "corn-maize-whole-kernel-dried-cracked-njenga",
+			"name": "Corn/maize, whole kernel, dried, cracked (Njenga)",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.81,
+				"max": 0.81,
+				"avg": 0.81
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "corn-maize-whole-kernel-dried-cracked-boiled-njenga",
+			"name": "Corn/maize, whole kernel, dried, cracked, boiled (Njenga)",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 1.07,
+				"max": 1.07,
+				"avg": 1.07
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "corn-maize-whole-shelled",
+			"name": "Corn/maize, whole shelled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.72,
+				"max": 0.72,
+				"avg": 0.72
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "donut-mix",
+			"name": "Donut mix",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.64,
+				"max": 0.64,
+				"avg": 0.64
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "dough-mix",
+			"name": "Dough mix",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.59,
+				"max": 0.59,
+				"avg": 0.59
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "finger-millet-fermented-flour",
+			"name": "Finger millet, fermented flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.61,
+				"max": 0.61,
+				"avg": 0.61
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "millet-flour-bulrush",
+			"name": "Millet flour, bulrush",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.56,
+				"max": 0.56,
+				"avg": 0.56
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "millet-flour-finger",
+			"name": "Millet flour, finger",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.61,
+				"max": 0.61,
+				"avg": 0.61
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "millet-bulrush",
+			"name": "Millet, bulrush",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.9,
+				"max": 0.9,
+				"avg": 0.9
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "millet-finger",
+			"name": "Millet, finger",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.81,
+				"max": 0.81,
+				"avg": 0.81
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "oat-flour",
+			"name": "Oat Flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.53,
+				"max": 0.53,
+				"avg": 0.53
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "oat-middlings",
+			"name": "Oat middlings",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.61,
+				"max": 0.61,
+				"avg": 0.61
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "oats-groats-whole",
+			"name": "Oats groats, whole",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.74,
+				"max": 0.74,
+				"avg": 0.74
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "oats-ground",
+			"name": "Oats, ground",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.46,
+				"max": 0.46,
+				"avg": 0.46
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "oats-hulls",
+			"name": "Oats, hulls",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.13,
+				"max": 0.13,
+				"avg": 0.13
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "oats-rolled",
+			"name": "Oats, rolled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.3,
+				"max": 0.38,
+				"avg": 0.33999999999999997
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "pasta-short-macaroni-style-boiled",
+			"name": "Pasta, short macaroni style, boiled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.55,
+				"max": 0.55,
+				"avg": 0.55
+			},
+			"source": "RC"
+		},
+		{
+			"id": "pasta-short-macaroni-style-raw",
+			"name": "Pasta, short macaroni style, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.39,
+				"max": 0.39,
+				"avg": 0.39
+			},
+			"source": "RC"
+		},
+		{
+			"id": "pasta-noodles-boiled",
+			"name": "Pasta/ noodles, boiled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.59,
+				"max": 0.59,
+				"avg": 0.59
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "porridge-flour-bonavist-boiled",
+			"name": "Porridge flour bonavist, boiled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.73,
+				"max": 0.73,
+				"avg": 0.73
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "porridge-flour-bonavist-raw",
+			"name": "Porridge flour bonavist, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.84,
+				"max": 0.84,
+				"avg": 0.84
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "porridge-flour-ken-uji-lemon-extract",
+			"name": "Porridge flour ken-uji + lemon extract",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.54,
+				"max": 0.54,
+				"avg": 0.54
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "porridge-flour-ken-uji-fmill-bul-sorg-wheat",
+			"name": "Porridge flour ken-uji:F.mill, bul, sorg, wheat",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.6,
+				"max": 0.6,
+				"avg": 0.6
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "porridge-maize-flour-water",
+			"name": "Porridge, maize, flour + water",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 1.05,
+				"max": 1.05,
+				"avg": 1.05
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice",
+			"name": "Rice",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.72,
+				"max": 0.72,
+				"avg": 0.72
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "rice-boiled",
+			"name": "Rice, boiled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.73,
+				"max": 0.73,
+				"avg": 0.73
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-boiled-with-fat",
+			"name": "Rice, boiled with fat",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-bran",
+			"name": "Rice, bran",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.42,
+				"max": 0.42,
+				"avg": 0.42
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "rice-hulled",
+			"name": "Rice, hulled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.75,
+				"max": 0.75,
+				"avg": 0.75
+			},
+			"source": "TB"
+		},
+		{
+			"id": "rice-puffed",
+			"name": "Rice, puffed",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.1,
+				"max": 0.1,
+				"avg": 0.1
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "rice-raw",
+			"name": "Rice, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.85,
+				"max": 0.85,
+				"avg": 0.85
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-rough",
+			"name": "Rice, rough",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.58,
+				"max": 0.58,
+				"avg": 0.58
+			},
+			"source": "TB"
+		},
+		{
+			"id": "rice-white-boiled",
+			"name": "Rice, white, boiled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.73,
+				"max": 0.73,
+				"avg": 0.73
+			},
+			"source": "RC"
+		},
+		{
+			"id": "rice-white-raw",
+			"name": "Rice, white, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.82,
+				"max": 0.82,
+				"avg": 0.82
+			},
+			"source": "RC"
+		},
+		{
+			"id": "rye",
+			"name": "Rye",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.72,
+				"max": 0.72,
+				"avg": 0.72
+			},
+			"source": "TB"
+		},
+		{
+			"id": "rye-bran",
+			"name": "Rye, bran",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.24,
+				"max": 0.32,
+				"avg": 0.28
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "rye-flour",
+			"name": "Rye, flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.67,
+				"max": 0.67,
+				"avg": 0.67
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "rye-malted",
+			"name": "Rye, malted",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.51,
+				"max": 0.51,
+				"avg": 0.51
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "rye-middlings",
+			"name": "Rye, middlings",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.67,
+				"max": 0.67,
+				"avg": 0.67
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "rye-shorts",
+			"name": "Rye, shorts",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.54,
+				"max": 0.54,
+				"avg": 0.54
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "rye-whole",
+			"name": "Rye, whole",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.69,
+				"max": 0.72,
+				"avg": 0.705
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "semolina-raw",
+			"name": "Semolina, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.78,
+				"max": 0.78,
+				"avg": 0.78
+			},
+			"source": "RC"
+		},
+		{
+			"id": "sorghum-fermented-flour",
+			"name": "Sorghum, fermented flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.54,
+				"max": 0.54,
+				"avg": 0.54
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "sorghum-flour",
+			"name": "Sorghum, flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.54,
+				"max": 0.54,
+				"avg": 0.54
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "sorghum-seed",
+			"name": "Sorghum, seed",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.51,
+				"max": 0.56,
+				"avg": 0.535
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "soy-flour",
+			"name": "Soy, flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "soya-flour",
+			"name": "Soya, flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.64,
+				"max": 0.64,
+				"avg": 0.64
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "wheat",
+			"name": "Wheat",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.77,
+				"max": 0.77,
+				"avg": 0.77
+			},
+			"source": "TB"
+		},
+		{
+			"id": "wheat-bran",
+			"name": "Wheat, bran",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.18,
+				"max": 0.26,
+				"avg": 0.22
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "wheat-cracked",
+			"name": "Wheat, cracked",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.56,
+				"max": 0.56,
+				"avg": 0.56
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "wheat-cut",
+			"name": "Wheat, cut",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.74,
+				"max": 0.74,
+				"avg": 0.74
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "wheat-flour-malted",
+			"name": "Wheat, flour, malted",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.66,
+				"max": 0.66,
+				"avg": 0.66
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "wheat-flour-white",
+			"name": "Wheat, flour, white",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.67,
+				"max": 0.67,
+				"avg": 0.67
+			},
+			"source": "RC"
+		},
+		{
+			"id": "wheat-flour-wholemeal",
+			"name": "Wheat, flour, wholemeal",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.55,
+				"max": 0.55,
+				"avg": 0.55
+			},
+			"source": "RC"
+		},
+		{
+			"id": "wheat-gluten",
+			"name": "Wheat, gluten",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.69,
+				"max": 0.69,
+				"avg": 0.69
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "wheat-hulls",
+			"name": "Wheat, hulls",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "wheat-middlings",
+			"name": "Wheat, middlings",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.24,
+				"max": 0.24,
+				"avg": 0.24
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "wheat-shaved",
+			"name": "Wheat, shaved",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.54,
+				"max": 0.54,
+				"avg": 0.54
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "wheat-whole",
+			"name": "Wheat, whole",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.72,
+				"max": 0.83,
+				"avg": 0.7749999999999999
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "whey",
+			"name": "Whey",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.56,
+				"max": 0.56,
+				"avg": 0.56
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "arrowroot-cocoyam-boiled",
+			"name": "Arrowroot/cocoyam, boiled",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.54,
+				"max": 0.54,
+				"avg": 0.54
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "arrowroot-cocoyam-raw",
+			"name": "Arrowroot/cocoyam, raw",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.52,
+				"max": 0.52,
+				"avg": 0.52
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "cassava-flour",
+			"name": "Cassava, flour",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.55,
+				"max": 0.55,
+				"avg": 0.55
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "cassava-boiled",
+			"name": "Cassava, boiled",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.63,
+				"max": 0.63,
+				"avg": 0.63
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "cassava-raw",
+			"name": "Cassava, raw",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.63,
+				"max": 0.63,
+				"avg": 0.63
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "potato-english-boiled",
+			"name": "Potato, english, boiled",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.59,
+				"max": 0.59,
+				"avg": 0.59
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "potato-english-raw",
+			"name": "Potato, english, raw",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.59,
+				"max": 0.59,
+				"avg": 0.59
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "potatoes-flakes",
+			"name": "Potatoes, flakes",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.21,
+				"max": 0.21,
+				"avg": 0.21
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "potatoes-powdered",
+			"name": "Potatoes, powdered",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.77,
+				"max": 0.77,
+				"avg": 0.77
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "sweet-potato-boiled",
+			"name": "Sweet potato, boiled",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.65,
+				"max": 0.65,
+				"avg": 0.65
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "sweet-potato-raw",
+			"name": "Sweet potato, raw",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.44,
+				"max": 0.44,
+				"avg": 0.44
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "yam-boiled",
+			"name": "Yam, boiled",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.79,
+				"max": 0.79,
+				"avg": 0.79
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "yam-raw",
+			"name": "Yam, raw",
+			"category": "Tubers and products",
+			"density": {
+				"min": 0.66,
+				"max": 0.66,
+				"avg": 0.66
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "almonds",
+			"name": "Almonds",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.46,
+				"max": 0.46,
+				"avg": 0.46
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "cashews",
+			"name": "Cashews",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.5,
+				"max": 0.5,
+				"avg": 0.5
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "coconut-chips",
+			"name": "Coconut Chips",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.61,
+				"max": 0.61,
+				"avg": 0.61
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "flaxseed",
+			"name": "Flaxseed",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "nuts",
+			"name": "Nuts",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.63,
+				"max": 0.63,
+				"avg": 0.63
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "peanuts",
+			"name": "Peanuts",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.53,
+				"max": 0.53,
+				"avg": 0.53
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "peanuts-shelled",
+			"name": "Peanuts, shelled",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.69,
+				"max": 0.69,
+				"avg": 0.69
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "peanuts-unshelled",
+			"name": "Peanuts, unshelled",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.27,
+				"max": 0.38,
+				"avg": 0.325
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "pistachio-raw-with-shell",
+			"name": "Pistachio, raw, with shell",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.6,
+				"max": 0.6,
+				"avg": 0.6
+			},
+			"source": "RC"
+		},
+		{
+			"id": "pistachio-raw-without-shell",
+			"name": "Pistachio, raw, without shell",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.646,
+				"max": 0.646,
+				"avg": 0.646
+			},
+			"source": "RC"
+		},
+		{
+			"id": "rapeseed",
+			"name": "Rapeseed",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.77,
+				"max": 0.77,
+				"avg": 0.77
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "sunflower-seed",
+			"name": "Sunflower, seed",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.62,
+				"max": 0.62,
+				"avg": 0.62
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "apple-slices-dried",
+			"name": "Apple slices, dried",
+			"category": "Fruits",
+			"density": {
+				"min": 0.24,
+				"max": 0.24,
+				"avg": 0.24
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "loquat",
+			"name": "Loquat",
+			"category": "Fruits",
+			"density": {
+				"min": 0.6,
+				"max": 0.6,
+				"avg": 0.6
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "paw-paw-unripe",
+			"name": "Paw Paw, unripe",
+			"category": "Fruits",
+			"density": {
+				"min": 0.56,
+				"max": 0.56,
+				"avg": 0.56
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "alfalfa-leaf-meal",
+			"name": "Alfalfa, leaf, meal",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.23,
+				"max": 0.23,
+				"avg": 0.23
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "alfalfa-meal-dehydrated-13",
+			"name": "Alfalfa, meal, dehydrated 13%",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.26,
+				"max": 0.29,
+				"avg": 0.275
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "alfalfa-meal-dehydrated-17",
+			"name": "Alfalfa, meal, dehydrated 17%",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.29,
+				"max": 0.35,
+				"avg": 0.31999999999999995
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "alfalfa-meal-fine-ground",
+			"name": "Alfalfa, meal, fine ground",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.24,
+				"max": 0.35,
+				"avg": 0.295
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "alfalfa-meal-suncured-13",
+			"name": "Alfalfa, meal, suncured 13%",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.22,
+				"max": 0.22,
+				"avg": 0.22
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "alfalfa-seed",
+			"name": "Alfalfa, seed",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.72,
+				"max": 0.77,
+				"avg": 0.745
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "alfalfa-stem-meal",
+			"name": "Alfalfa, stem meal",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.19,
+				"max": 0.19,
+				"avg": 0.19
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "carrot-raw-chopped",
+			"name": "Carrot, raw, chopped",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.54,
+				"max": 0.54,
+				"avg": 0.54
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "carrot-raw-grated",
+			"name": "Carrot, raw, grated",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.71,
+				"max": 0.71,
+				"avg": 0.71
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "cauliflower-boiled",
+			"name": "Cauliflower, boiled",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.45,
+				"max": 0.45,
+				"avg": 0.45
+			},
+			"source": "RC"
+		},
+		{
+			"id": "chili-green",
+			"name": "Chili, green",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.5,
+				"max": 0.5,
+				"avg": 0.5
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "chili-red",
+			"name": "Chili, red",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.5,
+				"max": 0.5,
+				"avg": 0.5
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "french-green-beans",
+			"name": "French green beans",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.53,
+				"max": 0.53,
+				"avg": 0.53
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "fresh-green-peas-minji",
+			"name": "Fresh green peas (minji)",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.73,
+				"max": 0.73,
+				"avg": 0.73
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "leaves-managu-raw-black-night-shade",
+			"name": "Leaves, managu, raw (black night shade)",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.2,
+				"max": 0.2,
+				"avg": 0.2
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "leaves-onion-spring-onion-raw",
+			"name": "Leaves, onion, spring onion, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.44,
+				"max": 0.44,
+				"avg": 0.44
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "corn-maize-green-sweet-corn-boiled",
+			"name": "Corn/maize, green, sweet corn, boiled",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.73,
+				"max": 0.73,
+				"avg": 0.73
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "corn-maize-green-sweet-corn-raw",
+			"name": "Corn/maize, green, sweet corn, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.61,
+				"max": 0.61,
+				"avg": 0.61
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "olives-green-with-stone",
+			"name": "Olives, green, with stone",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.65,
+				"max": 0.65,
+				"avg": 0.65
+			},
+			"source": "RC"
+		},
+		{
+			"id": "onions-chopped",
+			"name": "Onions, chopped",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.22,
+				"max": 0.22,
+				"avg": 0.22
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "onions-minced",
+			"name": "Onions, minced",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.13,
+				"max": 0.13,
+				"avg": 0.13
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "onions-powdered",
+			"name": "Onions, powdered",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.4,
+				"max": 0.4,
+				"avg": 0.4
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "onions-fried-cubed",
+			"name": "Onions, fried, cubed",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.75,
+				"max": 0.75,
+				"avg": 0.75
+			},
+			"source": "RC"
+		},
+		{
+			"id": "onions-raw-cubed",
+			"name": "Onions, raw, cubed",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.55,
+				"max": 0.55,
+				"avg": 0.55
+			},
+			"source": "RC"
+		},
+		{
+			"id": "salad-green-leaves-raw",
+			"name": "Salad, green, leaves, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.06,
+				"max": 0.06,
+				"avg": 0.06
+			},
+			"source": "RC"
+		},
+		{
+			"id": "spinach-frozen-cooked",
+			"name": "Spinach, frozen, cooked",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.046,
+				"max": 1.046,
+				"avg": 1.046
+			},
+			"source": "RC"
+		},
+		{
+			"id": "spinach-leaves-raw",
+			"name": "Spinach, leaves, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.08,
+				"max": 0.08,
+				"avg": 0.08
+			},
+			"source": "RC"
+		},
+		{
+			"id": "sweet-pepper-raw-cubes",
+			"name": "Sweet pepper, raw, cubes",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.51,
+				"max": 0.51,
+				"avg": 0.51
+			},
+			"source": "RC"
+		},
+		{
+			"id": "sweet-pepper-raw-half-rings",
+			"name": "Sweet pepper, raw, half rings",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.39,
+				"max": 0.39,
+				"avg": 0.39
+			},
+			"source": "RC"
+		},
+		{
+			"id": "beans-white",
+			"name": "Beans, white",
+			"category": "Legumes",
+			"density": {
+				"min": 0.69,
+				"max": 0.77,
+				"avg": 0.73
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "cowpeas",
+			"name": "Cowpeas",
+			"category": "Legumes",
+			"density": {
+				"min": 0.72,
+				"max": 0.72,
+				"avg": 0.72
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "cowpeas-dried-boiled",
+			"name": "Cowpeas, dried, boiled",
+			"category": "Legumes",
+			"density": {
+				"min": 0.75,
+				"max": 0.75,
+				"avg": 0.75
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "cowpeas-dried-raw",
+			"name": "Cowpeas, dried, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.96,
+				"max": 0.96,
+				"avg": 0.96
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "greengram-boiled",
+			"name": "Greengram, boiled",
+			"category": "Legumes",
+			"density": {
+				"min": 0.76,
+				"max": 0.76,
+				"avg": 0.76
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "greengram-raw",
+			"name": "Greengram, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.79,
+				"max": 0.79,
+				"avg": 0.79
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "kidney-beans-dry-boiled",
+			"name": "Kidney beans, dry, boiled",
+			"category": "Legumes",
+			"density": {
+				"min": 0.79,
+				"max": 0.79,
+				"avg": 0.79
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "kidney-beans-dry-raw",
+			"name": "Kidney beans, dry, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.75,
+				"max": 0.75,
+				"avg": 0.75
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "kidney-beans-green-boiled",
+			"name": "Kidney beans, green, boiled",
+			"category": "Legumes",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "kidney-beans-green-raw",
+			"name": "Kidney beans, green, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.68,
+				"max": 0.68,
+				"avg": 0.68
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "lentils-green-small-boiled",
+			"name": "Lentils, green, small, boiled",
+			"category": "Legumes",
+			"density": {
+				"min": 0.85,
+				"max": 0.85,
+				"avg": 0.85
+			},
+			"source": "RC"
+		},
+		{
+			"id": "lentils-green-small-raw",
+			"name": "Lentils, green, small, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.89,
+				"max": 0.89,
+				"avg": 0.89
+			},
+			"source": "RC"
+		},
+		{
+			"id": "pigeon-peas-boiled",
+			"name": "Pigeon peas, boiled",
+			"category": "Legumes",
+			"density": {
+				"min": 0.75,
+				"max": 0.75,
+				"avg": 0.75
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "pigeon-peas-raw",
+			"name": "Pigeon peas, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.84,
+				"max": 0.84,
+				"avg": 0.84
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "soybean",
+			"name": "Soybean",
+			"category": "Legumes",
+			"density": {
+				"min": 0.74,
+				"max": 0.74,
+				"avg": 0.74
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "soybean-flakes",
+			"name": "Soybean, flakes",
+			"category": "Legumes",
+			"density": {
+				"min": 0.58,
+				"max": 0.58,
+				"avg": 0.58
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "soybean-hulls",
+			"name": "Soybean, hulls",
+			"category": "Legumes",
+			"density": {
+				"min": 0.4,
+				"max": 0.4,
+				"avg": 0.4
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "soybean-meal",
+			"name": "Soybean, meal",
+			"category": "Legumes",
+			"density": {
+				"min": 0.64,
+				"max": 0.64,
+				"avg": 0.64
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "soybean-boiled",
+			"name": "Soybean, boiled",
+			"category": "Legumes",
+			"density": {
+				"min": 0.79,
+				"max": 0.79,
+				"avg": 0.79
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "soybean-boiled-with-fat",
+			"name": "Soybean, boiled with fat",
+			"category": "Legumes",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "cinnamon-powder",
+			"name": "Cinnamon, powder",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.56,
+				"max": 0.56,
+				"avg": 0.56
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "clover-seed",
+			"name": "Clover, seed",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.77,
+				"max": 0.77,
+				"avg": 0.77
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "dry-flavoring-mix-roiko-and-other-flavorings",
+			"name": "Dry flavoring mix Roiko and other flavorings",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "garlic-flakes",
+			"name": "Garlic, flakes",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.35,
+				"max": 0.35,
+				"avg": 0.35
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "garlic-powder",
+			"name": "Garlic, powder",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.32,
+				"max": 0.32,
+				"avg": 0.32
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "sage-leaves",
+			"name": "Sage, leaves",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.29,
+				"max": 0.29,
+				"avg": 0.29
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "spice-barbecue",
+			"name": "Spice, barbecue",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.48,
+				"max": 0.48,
+				"avg": 0.48
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "spice-blend",
+			"name": "Spice, blend",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.58,
+				"max": 0.58,
+				"avg": 0.58
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "prawns-whole-boiled-with-shell",
+			"name": "Prawns, whole, boiled, with shell",
+			"category": "Fish and fish products",
+			"density": {
+				"min": 0.58,
+				"max": 0.58,
+				"avg": 0.58
+			},
+			"source": "RC"
+		},
+		{
+			"id": "prawns-whole-boiled-without-shell",
+			"name": "Prawns, whole, boiled, without shell",
+			"category": "Fish and fish products",
+			"density": {
+				"min": 0.77,
+				"max": 0.77,
+				"avg": 0.77
+			},
+			"source": "RC"
+		},
+		{
+			"id": "egg-yoke-powder",
+			"name": "Egg, yoke, powder",
+			"category": "Egg and egg products",
+			"density": {
+				"min": 0.37,
+				"max": 0.37,
+				"avg": 0.37
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "egg-chicken-boiled-poached",
+			"name": "Egg, chicken, boiled/poached",
+			"category": "Egg and egg products",
+			"density": {
+				"min": 0.6,
+				"max": 0.6,
+				"avg": 0.6
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "eggs-powdered",
+			"name": "Eggs, powdered",
+			"category": "Egg and egg products",
+			"density": {
+				"min": 0.35,
+				"max": 0.35,
+				"avg": 0.35
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "blood-flour",
+			"name": "Blood, flour",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.48,
+				"max": 0.48,
+				"avg": 0.48
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "blood-meal",
+			"name": "Blood, meal",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.62,
+				"max": 0.62,
+				"avg": 0.62
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "bone-and-meat-meal-loose",
+			"name": "Bone and meat meal, loose",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.72,
+				"max": 0.72,
+				"avg": 0.72
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "bone-meal-loose",
+			"name": "Bone meal, loose",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.8,
+				"max": 0.96,
+				"avg": 0.88
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "cow-intestine-boiled",
+			"name": "Cow intestine, boiled",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.58,
+				"max": 0.58,
+				"avg": 0.58
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "cow-lean-no-bone-raw",
+			"name": "Cow, lean, no bone, raw",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.96,
+				"max": 0.96,
+				"avg": 0.96
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "cow-intestine-raw",
+			"name": "Cow, intestine, raw",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.93,
+				"max": 0.93,
+				"avg": 0.93
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "goat-intestine-boiled",
+			"name": "Goat, intestine, boiled",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.56,
+				"max": 0.56,
+				"avg": 0.56
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "goat-intestine-raw",
+			"name": "Goat, intestine, raw",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.83,
+				"max": 0.83,
+				"avg": 0.83
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "pork-fatty-with-bone-boiled",
+			"name": "Pork, fatty, with bone, boiled",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.63,
+				"max": 0.63,
+				"avg": 0.63
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "pork-fatty-with-bone-raw",
+			"name": "Pork, fatty, with bone, raw",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.97,
+				"max": 0.97,
+				"avg": 0.97
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "pork-medium-with-bone-boiled",
+			"name": "Pork, medium, with bone, boiled",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "pork-medium-with-bone-raw",
+			"name": "Pork, medium, with bone, raw",
+			"category": "Meat and meat products",
+			"density": {
+				"min": 0.93,
+				"max": 0.93,
+				"avg": 0.93
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "potato-chips",
+			"name": "Potato chips",
+			"category": "Snacks",
+			"density": {
+				"min": 0.09,
+				"max": 0.09,
+				"avg": 0.09
+			},
+			"source": "RC"
+		},
+		{
+			"id": "potato-chips-pringles",
+			"name": "Potato chips, pringles",
+			"category": "Snacks",
+			"density": {
+				"min": 0.12,
+				"max": 0.12,
+				"avg": 0.12
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "snacks-puffed-lowfat",
+			"name": "Snacks, puffed, lowfat",
+			"category": "Snacks",
+			"density": {
+				"min": 0.11,
+				"max": 0.11,
+				"avg": 0.11
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "glucolin-glucose",
+			"name": "Glucolin, glucose",
+			"category": "Sweets",
+			"density": {
+				"min": 0.4,
+				"max": 0.4,
+				"avg": 0.4
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "glucose-at-156-c",
+			"name": "Glucose (at 15.6 C)",
+			"category": "Sweets",
+			"density": {
+				"min": 1.35,
+				"max": 1.44,
+				"avg": 1.395
+			},
+			"source": "CSG"
+		},
+		{
+			"id": "jam",
+			"name": "Jam",
+			"category": "Sweets",
+			"density": {
+				"min": 1.333,
+				"max": 1.333,
+				"avg": 1.333
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "jam-sweetened",
+			"name": "Jam, sweetened",
+			"category": "Sweets",
+			"density": {
+				"min": 1.43,
+				"max": 1.43,
+				"avg": 1.43
+			},
+			"source": "RC"
+		},
+		{
+			"id": "jelly",
+			"name": "Jelly",
+			"category": "Sweets",
+			"density": {
+				"min": 1.245,
+				"max": 1.245,
+				"avg": 1.245
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "nutella",
+			"name": "Nutella",
+			"category": "Sweets",
+			"density": {
+				"min": 1.26,
+				"max": 1.26,
+				"avg": 1.26
+			},
+			"source": "RC"
+		},
+		{
+			"id": "sucrose",
+			"name": "Sucrose",
+			"category": "Sweets",
+			"density": {
+				"min": 0.85,
+				"max": 0.85,
+				"avg": 0.85
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "sucrose-octoacetate",
+			"name": "Sucrose Octoacetate",
+			"category": "Sweets",
+			"density": {
+				"min": 0.53,
+				"max": 0.53,
+				"avg": 0.53
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "sugar",
+			"name": "Sugar",
+			"category": "Sweets",
+			"density": {
+				"min": 0.95,
+				"max": 0.95,
+				"avg": 0.95
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "sugar-granulated",
+			"name": "Sugar, granulated",
+			"category": "Sweets",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "sugar-powdered",
+			"name": "Sugar, powdered",
+			"category": "Sweets",
+			"density": {
+				"min": 0.56,
+				"max": 0.56,
+				"avg": 0.56
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "syrup-blackcurrant-undiluted",
+			"name": "Syrup, blackcurrant, undiluted",
+			"category": "Sweets",
+			"density": {
+				"min": 1.28,
+				"max": 1.28,
+				"avg": 1.28
+			},
+			"source": "UK 6 th"
+		},
+		{
+			"id": "syrup-corn",
+			"name": "Syrup, corn",
+			"category": "Sweets",
+			"density": {
+				"min": 1.38,
+				"max": 1.38,
+				"avg": 1.38
+			},
+			"source": "TB"
+		},
+		{
+			"id": "syrup-corn-light",
+			"name": "Syrup, corn, light",
+			"category": "Sweets",
+			"density": {
+				"min": 1.4,
+				"max": 1.4,
+				"avg": 1.4
+			},
+			"source": "USDA"
+		},
+		{
+			"id": "syrup-fruit-blackberry",
+			"name": "Syrup, fruit, blackberry",
+			"category": "Sweets",
+			"density": {
+				"min": 1.34,
+				"max": 1.34,
+				"avg": 1.34
+			},
+			"source": "RC"
+		},
+		{
+			"id": "syrup-grenadine",
+			"name": "Syrup, grenadine",
+			"category": "Sweets",
+			"density": {
+				"min": 1.18,
+				"max": 1.18,
+				"avg": 1.18
+			},
+			"source": "CG"
+		},
+		{
+			"id": "syrup-maple",
+			"name": "Syrup, maple",
+			"category": "Sweets",
+			"density": {
+				"min": 1.32,
+				"max": 1.32,
+				"avg": 1.32
+			},
+			"source": "USDA"
+		},
+		{
+			"id": "syrup-pancake",
+			"name": "Syrup, pancake",
+			"category": "Sweets",
+			"density": {
+				"min": 1.312,
+				"max": 1.312,
+				"avg": 1.312
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "baking-powder",
+			"name": "Baking powder",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 0.9,
+				"max": 0.9,
+				"avg": 0.9
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "gelatin",
+			"name": "Gelatin",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 0.72,
+				"max": 0.72,
+				"avg": 0.72
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "monosodium-glutamate",
+			"name": "Monosodium glutamate",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 1.62,
+				"max": 1.62,
+				"avg": 1.62
+			},
+			"source": "TB"
+		},
+		{
+			"id": "mustard-powdered",
+			"name": "Mustard powdered",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 0.26,
+				"max": 0.26,
+				"avg": 0.26
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "protein-supplement",
+			"name": "Protein supplement",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 0.54,
+				"max": 0.54,
+				"avg": 0.54
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "salad-dressing",
+			"name": "Salad dressing",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 1.1,
+				"max": 1.1,
+				"avg": 1.1
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "salt-sodium-chloride",
+			"name": "Salt, sodium chloride",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 2.165,
+				"max": 2.165,
+				"avg": 2.165
+			},
+			"source": "TB"
+		},
+		{
+			"id": "salt-fine-table",
+			"name": "Salt, fine table",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 1.38,
+				"max": 1.38,
+				"avg": 1.38
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "salt-granulated",
+			"name": "Salt, granulated",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 1.28,
+				"max": 1.28,
+				"avg": 1.28
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "salt-table",
+			"name": "Salt, table",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 1.217,
+				"max": 1.217,
+				"avg": 1.217
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "sauce-soy",
+			"name": "Sauce, soy",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 1.12,
+				"max": 1.12,
+				"avg": 1.12
+			},
+			"source": "FNDDS 4.1"
+		},
+		{
+			"id": "sodium-bicarbonate",
+			"name": "Sodium bicarbonate",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 2.2,
+				"max": 2.2,
+				"avg": 2.2
+			},
+			"source": "TB"
+		},
+		{
+			"id": "vitamin-additive",
+			"name": "Vitamin additive",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 0.66,
+				"max": 0.66,
+				"avg": 0.66
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "vitamin-compound",
+			"name": "Vitamin compound",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 0.67,
+				"max": 0.67,
+				"avg": 0.67
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "vitamin-enrichment",
+			"name": "Vitamin enrichment",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 0.64,
+				"max": 0.64,
+				"avg": 0.64
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "vitamin-mix",
+			"name": "Vitamin mix",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "vitamin-powder",
+			"name": "Vitamin powder",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 0.56,
+				"max": 0.56,
+				"avg": 0.56
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "yeast",
+			"name": "Yeast",
+			"category": "Miscellaneous foods",
+			"density": {
+				"min": 0.95,
+				"max": 0.95,
+				"avg": 0.95
+			},
+			"source": "ASI"
+		},
+		{
+			"id": "bean-soup",
+			"name": "Bean soup",
+			"category": "Soups",
+			"density": {
+				"min": 1.054,
+				"max": 1.054,
+				"avg": 1.054
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "cheddar-cheese-soup",
+			"name": "Cheddar cheese soup",
+			"category": "Soups",
+			"density": {
+				"min": 1.046,
+				"max": 1.046,
+				"avg": 1.046
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "chicken-noodle-soup",
+			"name": "Chicken noodle soup",
+			"category": "Soups",
+			"density": {
+				"min": 1,
+				"max": 1,
+				"avg": 1
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "egg-drop-soup",
+			"name": "Egg drop soup",
+			"category": "Soups",
+			"density": {
+				"min": 1.017,
+				"max": 1.017,
+				"avg": 1.017
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "mushroom-soup",
+			"name": "Mushroom soup",
+			"category": "Soups",
+			"density": {
+				"min": 1.017,
+				"max": 1.017,
+				"avg": 1.017
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "soup-meat",
+			"name": "Soup, meat",
+			"category": "Soups",
+			"density": {
+				"min": 1.04,
+				"max": 1.04,
+				"avg": 1.04
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "soup-mixed",
+			"name": "Soup, mixed",
+			"category": "Soups",
+			"density": {
+				"min": 1.05,
+				"max": 1.05,
+				"avg": 1.05
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "soup-thick-squash-potato",
+			"name": "Soup, thick (squash, potato)",
+			"category": "Soups",
+			"density": {
+				"min": 1.09,
+				"max": 1.09,
+				"avg": 1.09
+			},
+			"source": "RC"
+		},
+		{
+			"id": "soup-vegetable",
+			"name": "Soup, vegetable",
+			"category": "Soups",
+			"density": {
+				"min": 0.99,
+				"max": 0.99,
+				"avg": 0.99
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "tomato-soup",
+			"name": "Tomato soup",
+			"category": "Soups",
+			"density": {
+				"min": 1.017,
+				"max": 1.017,
+				"avg": 1.017
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "beef-and-noodles-no-sauce",
+			"name": "Beef and noodles (no sauce)",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.65,
+				"max": 0.65,
+				"avg": 0.65
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "beef-and-noodles-in-gravy-mixture",
+			"name": "Beef and noodles in gravy (mixture)",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.04,
+				"max": 1.04,
+				"avg": 1.04
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "beef-stew-canned",
+			"name": "Beef stew, canned",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.05,
+				"max": 1.05,
+				"avg": 1.05
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "beef-noodles-and-vegetables-no-sauce",
+			"name": "Beef, noodles and vegetables (no sauce)",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.68,
+				"max": 0.68,
+				"avg": 0.68
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "broccoli-casserole",
+			"name": "Broccoli casserole",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.95,
+				"max": 0.95,
+				"avg": 0.95
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "cheese-tortellini",
+			"name": "Cheese tortellini",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.03,
+				"max": 1.03,
+				"avg": 1.03
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "chicken-and-dumplings-mixture",
+			"name": "Chicken and dumplings (mixture)",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.04,
+				"max": 1.04,
+				"avg": 1.04
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "eggplant-parmesan",
+			"name": "Eggplant parmesan",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.83,
+				"max": 0.83,
+				"avg": 0.83
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "githeri-muthugo-beans-meat",
+			"name": "Githeri (muthugo + beans) + meat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.95,
+				"max": 0.95,
+				"avg": 0.95
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-muthugo-beans-meat-vegetable-potato-banana",
+			"name": "Githeri (muthugo + beans) + meat + vegetable + potato/banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.99,
+				"max": 0.99,
+				"avg": 0.99
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-muthugo-beans-onion-boiled-with-fat",
+			"name": "Githeri (muthugo + beans) + onion, boiled with fat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.98,
+				"max": 0.98,
+				"avg": 0.98
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-muthugo-beans-potato-banana",
+			"name": "Githeri (muthugo + beans) + potato/banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.88,
+				"max": 0.88,
+				"avg": 0.88
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-muthugo-beans-vegetable",
+			"name": "Githeri (muthugo + beans) + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.04,
+				"max": 1.04,
+				"avg": 1.04
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-muthugo-beans-vegetable-meat",
+			"name": "Githeri (muthugo + beans) + vegetable + meat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.94,
+				"max": 0.94,
+				"avg": 0.94
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-meat",
+			"name": "Githeri + meat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.75,
+				"max": 0.75,
+				"avg": 0.75
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-meat-vegetable-potato-banana",
+			"name": "Githeri + meat + vegetable + potato/banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.05,
+				"max": 1.05,
+				"avg": 1.05
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-onion-boiled-with-fat",
+			"name": "Githeri + onion, boiled with fat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.83,
+				"max": 0.83,
+				"avg": 0.83
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-peas",
+			"name": "Githeri + peas",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.04,
+				"max": 1.04,
+				"avg": 1.04
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-potato-banana",
+			"name": "Githeri + potato/banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.1,
+				"max": 1.1,
+				"avg": 1.1
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-roots-vegetable",
+			"name": "Githeri + roots + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.13,
+				"max": 1.13,
+				"avg": 1.13
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-vegetable",
+			"name": "Githeri + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.3,
+				"max": 1.3,
+				"avg": 1.3
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-vegetable-meat",
+			"name": "Githeri + vegetable + meat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.84,
+				"max": 0.84,
+				"avg": 0.84
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-vegetable-potato-banana",
+			"name": "Githeri + vegetable + potato/banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.95,
+				"max": 0.95,
+				"avg": 0.95
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-plain-muthugo-beans-water",
+			"name": "Githeri plain (muthugo + beans + water)",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.98,
+				"max": 0.98,
+				"avg": 0.98
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-beans-vegetable-potatoes",
+			"name": "Githeri, beans + vegetable + potatoes",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.93,
+				"max": 0.93,
+				"avg": 0.93
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-maize-peas",
+			"name": "Githeri, maize + peas",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.97,
+				"max": 0.97,
+				"avg": 0.97
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "githeri-plain-maize-beans-water",
+			"name": "Githeri, plain (maize + beans + water)",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.71,
+				"max": 0.71,
+				"avg": 0.71
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "gitwero-banana-beans",
+			"name": "Gitwero, banana + beans",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.2,
+				"max": 1.2,
+				"avg": 1.2
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "gitwero-banana-beans-vegetable",
+			"name": "Gitwero, banana + beans + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.2,
+				"max": 1.2,
+				"avg": 1.2
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "gitwero-banana-potato-beans",
+			"name": "Gitwero, banana + potato + beans",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.04,
+				"max": 1.04,
+				"avg": 1.04
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "gitwero-banana-vegetable",
+			"name": "Gitwero, banana + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.2,
+				"max": 1.2,
+				"avg": 1.2
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "gitwero-banana-boiled-with-fat",
+			"name": "Gitwero, banana, boiled with fat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.19,
+				"max": 1.19,
+				"avg": 1.19
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "gitwero-banana-potato",
+			"name": "Gitwero, banana/potato",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.3,
+				"max": 1.3,
+				"avg": 1.3
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "gitwero-banana-potato-meat",
+			"name": "Gitwero, banana/potato + meat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.08,
+				"max": 1.08,
+				"avg": 1.08
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "gitwero-banana-potato-vegetable",
+			"name": "Gitwero, banana/potato + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.22,
+				"max": 1.22,
+				"avg": 1.22
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "gitwero-root-yam-arrowroot-etc",
+			"name": "Gitwero, root (yam, arrowroot, etc.)",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.14,
+				"max": 1.14,
+				"avg": 1.14
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "green-bean-casserole",
+			"name": "Green bean casserole",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.95,
+				"max": 0.95,
+				"avg": 0.95
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "lasagna",
+			"name": "Lasagna",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.04,
+				"max": 1.04,
+				"avg": 1.04
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "macaroni-and-cheese-canned",
+			"name": "Macaroni and cheese, canned",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1,
+				"max": 1,
+				"avg": 1
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "mataha-maize-stew-maize-stew-maize-peas",
+			"name": "Mataha (Maize stew) (Maize stew), maize + peas",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.86,
+				"max": 0.86,
+				"avg": 0.86
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-beans-banana",
+			"name": "Mataha (maize stew), beans + banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.22,
+				"max": 1.22,
+				"avg": 1.22
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-beans-banana-potato",
+			"name": "Mataha (maize stew), beans + banana + potato",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.25,
+				"max": 1.25,
+				"avg": 1.25
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-beans-banana-potato-vegetable",
+			"name": "Mataha (maize stew), beans + banana + potato + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.15,
+				"max": 1.15,
+				"avg": 1.15
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-beans-potato-banana-vegetable",
+			"name": "Mataha (maize stew), beans + potato/banana + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.14,
+				"max": 1.14,
+				"avg": 1.14
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-beans-vegetable",
+			"name": "Mataha (maize stew), beans + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.02,
+				"max": 1.02,
+				"avg": 1.02
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-beans-vegetable-banana",
+			"name": "Mataha (maize stew), beans + vegetable + banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1,
+				"max": 1,
+				"avg": 1
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-maize-banana",
+			"name": "Mataha (maize stew), maize + banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.09,
+				"max": 1.09,
+				"avg": 1.09
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-maize-banana-potato-vegetable",
+			"name": "Mataha (maize stew), maize + banana/potato + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.1,
+				"max": 1.1,
+				"avg": 1.1
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-maize-beans-potato",
+			"name": "Mataha (maize stew), maize + beans + potato",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.75,
+				"max": 0.75,
+				"avg": 0.75
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-maize-beans-potato-vegetable",
+			"name": "Mataha (maize stew), maize + beans + potato + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.95,
+				"max": 0.95,
+				"avg": 0.95
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-maize-beans-potato-boiled-with-fat",
+			"name": "Mataha (maize stew), maize + beans + potato, boiled with fat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.75,
+				"max": 0.75,
+				"avg": 0.75
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-maize-beans-vegetable-banana",
+			"name": "Mataha (maize stew), maize + beans + vegetable + banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-maize-vegetable",
+			"name": "Mataha (maize stew), maize + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.9,
+				"max": 0.9,
+				"avg": 0.9
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mataha-maize-stew-paw-paw",
+			"name": "Mataha (maize stew), paw paw",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.33,
+				"max": 1.33,
+				"avg": 1.33
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "mexican-casserole-w-beef-beans-cheese-chips",
+			"name": "Mexican casserole w/beef, beans, cheese, chips",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.6,
+				"max": 0.6,
+				"avg": 0.6
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "mini-ravioli-canned",
+			"name": "Mini ravioli, canned",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.05,
+				"max": 1.05,
+				"avg": 1.05
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "moussaka",
+			"name": "Moussaka",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.85,
+				"max": 0.85,
+				"avg": 0.85
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "muthugo-maize-without-germ-and-cover-only",
+			"name": "Muthugo (maize without germ and cover) only",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.76,
+				"max": 0.76,
+				"avg": 0.76
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "noodles-pasta-with-fat",
+			"name": "Noodles/pasta with fat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.8,
+				"max": 0.8,
+				"avg": 0.8
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-beans",
+			"name": "Rice + beans",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.75,
+				"max": 0.75,
+				"avg": 0.75
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-beans-potato-banana",
+			"name": "Rice + beans + potato/banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.85,
+				"max": 0.85,
+				"avg": 0.85
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-meat",
+			"name": "Rice + meat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.73,
+				"max": 0.73,
+				"avg": 0.73
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-meat-vegetable",
+			"name": "Rice + meat + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.83,
+				"max": 0.83,
+				"avg": 0.83
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-potato-banana",
+			"name": "Rice + potato/banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.8,
+				"max": 0.8,
+				"avg": 0.8
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-roots-yam-arrowroot-etc",
+			"name": "Rice + roots (yam, arrowroot etc.)",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.9,
+				"max": 0.9,
+				"avg": 0.9
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-vegetable",
+			"name": "Rice + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.65,
+				"max": 0.65,
+				"avg": 0.65
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-vegetable-potato-banana",
+			"name": "Rice + vegetable + potato/banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.8,
+				"max": 0.8,
+				"avg": 0.8
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "rice-plain-rice-water",
+			"name": "Rice, plain (rice + water)",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.7,
+				"max": 0.7,
+				"avg": 0.7
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "spaghetti-and-meat-balls-canned",
+			"name": "Spaghetti and meat balls, canned",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.04,
+				"max": 1.04,
+				"avg": 1.04
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "stew-banana",
+			"name": "Stew, banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.07,
+				"max": 1.07,
+				"avg": 1.07
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-banana-potato-vegetable",
+			"name": "Stew, banana + potato + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.06,
+				"max": 1.06,
+				"avg": 1.06
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-beans",
+			"name": "Stew, beans",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.01,
+				"max": 1.01,
+				"avg": 1.01
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-beans-peas-meat-vegetables",
+			"name": "Stew, beans/ peas + meat + vegetables",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.94,
+				"max": 0.94,
+				"avg": 0.94
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-beans-peas-vegetables",
+			"name": "Stew, beans/ peas + vegetables",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.07,
+				"max": 1.07,
+				"avg": 1.07
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-meat",
+			"name": "Stew, meat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.12,
+				"max": 1.12,
+				"avg": 1.12
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-pea-potato-banana",
+			"name": "Stew, pea + potato/banana",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.1,
+				"max": 1.1,
+				"avg": 1.1
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-pea-potato-banana-vegetable",
+			"name": "Stew, pea + potato/banana + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.22,
+				"max": 1.22,
+				"avg": 1.22
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-potato",
+			"name": "Stew, potato",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.1,
+				"max": 1.1,
+				"avg": 1.1
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-potato-beans-vegetable",
+			"name": "Stew, potato + beans + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.08,
+				"max": 1.08,
+				"avg": 1.08
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-vegetable",
+			"name": "Stew, vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.68,
+				"max": 0.68,
+				"avg": 0.68
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-vegetable-meat",
+			"name": "Stew, vegetable + meat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.86,
+				"max": 0.86,
+				"avg": 0.86
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-vegetable-potato",
+			"name": "Stew, vegetable + potato",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.1,
+				"max": 1.1,
+				"avg": 1.1
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-vegetable-potato-meat",
+			"name": "Stew, vegetable + potato + meat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.08,
+				"max": 1.08,
+				"avg": 1.08
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "stew-eggs-veg",
+			"name": "Stew: eggs + veg",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.68,
+				"max": 0.68,
+				"avg": 0.68
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "tuna-noodle-casserole",
+			"name": "Tuna noodle casserole",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.93,
+				"max": 0.93,
+				"avg": 0.93
+			},
+			"source": "S&W"
+		},
+		{
+			"id": "ugali-beans",
+			"name": "Ugali + beans",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.8,
+				"max": 0.8,
+				"avg": 0.8
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "ugali-beans-vegetable",
+			"name": "Ugali + beans + vegetable",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.8,
+				"max": 0.8,
+				"avg": 0.8
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "ugali-vegetable-crumbed",
+			"name": "Ugali + vegetable, crumbed",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.75,
+				"max": 0.75,
+				"avg": 0.75
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "ugali-vegetables-boiled-with-fat",
+			"name": "Ugali + vegetables, boiled with fat",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 1.2,
+				"max": 1.2,
+				"avg": 1.2
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "ugali-plain-flour-water-crumbed",
+			"name": "Ugali, plain (flour + water), crumbed",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.75,
+				"max": 0.75,
+				"avg": 0.75
+			},
+			"source": "KEN"
+		},
+		{
+			"id": "wieners-and-sauerkraut-mixture",
+			"name": "Wieners and sauerkraut (mixture)",
+			"category": "Mixed dishes",
+			"density": {
+				"min": 0.61,
+				"max": 0.61,
+				"avg": 0.61
+			},
+			"source": "S&W"
+		}
+	]
+}

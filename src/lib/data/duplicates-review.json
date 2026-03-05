@@ -1,0 +1,200 @@
+[
+	{
+		"id": "corn-maize-ear",
+		"name": "Corn/maize, ear",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.9,
+			"max": 0.9,
+			"avg": 0.9
+		},
+		"source": "TB"
+	},
+	{
+		"id": "corn-maize-ear",
+		"name": "Corn/maize, ear",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.9,
+			"max": 0.9,
+			"avg": 0.9
+		},
+		"source": "ASI"
+	},
+	{
+		"id": "corn-maize-flour",
+		"name": "Corn/maize, flour",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.82,
+			"max": 0.82,
+			"avg": 0.82
+		},
+		"source": "ASI"
+	},
+	{
+		"id": "corn-maize-flour",
+		"name": "Corn/maize, flour",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.62,
+			"max": 0.62,
+			"avg": 0.62
+		},
+		"source": "ASI"
+	},
+	{
+		"id": "millet",
+		"name": "Millet",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.64,
+			"max": 0.64,
+			"avg": 0.64
+		},
+		"source": "ASI"
+	},
+	{
+		"id": "millet",
+		"name": "Millet",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.64,
+			"max": 0.64,
+			"avg": 0.64
+		},
+		"source": "TB"
+	},
+	{
+		"id": "oats",
+		"name": "Oats",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.41,
+			"max": 0.41,
+			"avg": 0.41
+		},
+		"source": "TB"
+	},
+	{
+		"id": "oats",
+		"name": "Oats",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.43,
+			"max": 0.43,
+			"avg": 0.43
+		},
+		"source": "ASI"
+	},
+	{
+		"id": "wheat-flour",
+		"name": "Wheat, flour",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.48,
+			"max": 0.48,
+			"avg": 0.48
+		},
+		"source": "ASI"
+	},
+	{
+		"id": "wheat-flour",
+		"name": "Wheat, flour",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.58,
+			"max": 0.58,
+			"avg": 0.58
+		},
+		"source": "KEN"
+	},
+	{
+		"id": "wheat-flour",
+		"name": "Wheat, flour",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.67,
+			"max": 0.67,
+			"avg": 0.67
+		},
+		"source": "ASI"
+	},
+	{
+		"id": "wheat-flour",
+		"name": "Wheat, flour",
+		"category": "Grains and cereals",
+		"density": {
+			"min": 0.521,
+			"max": 0.521,
+			"avg": 0.521
+		},
+		"source": "S&W"
+	},
+	{
+		"id": "sugar-dextrose",
+		"name": "Sugar, dextrose",
+		"category": "Sweets",
+		"density": {
+			"min": 0.62,
+			"max": 0.62,
+			"avg": 0.62
+		},
+		"source": "ASI"
+	},
+	{
+		"id": "sugar-dextrose",
+		"name": "Sugar, dextrose",
+		"category": "Sweets",
+		"density": {
+			"min": 0.58,
+			"max": 0.58,
+			"avg": 0.58
+		},
+		"source": "ASI"
+	},
+	{
+		"id": "sugar-white",
+		"name": "Sugar, white",
+		"category": "Sweets",
+		"density": {
+			"min": 0.9,
+			"max": 0.9,
+			"avg": 0.9
+		},
+		"source": "RC"
+	},
+	{
+		"id": "sugar-white",
+		"name": "Sugar, white",
+		"category": "Sweets",
+		"density": {
+			"min": 0.88,
+			"max": 0.88,
+			"avg": 0.88
+		},
+		"source": "FNDDS 4.1"
+	},
+	{
+		"id": "gitwero-roots-banana",
+		"name": "Gitwero, roots + banana",
+		"category": "Mixed dishes",
+		"density": {
+			"min": 1.03,
+			"max": 1.03,
+			"avg": 1.03
+		},
+		"source": "KEN"
+	},
+	{
+		"id": "gitwero-roots-banana",
+		"name": "Gitwero, roots + banana",
+		"category": "Mixed dishes",
+		"density": {
+			"min": 1.03,
+			"max": 1.03,
+			"avg": 1.03
+		},
+		"source": "KEN"
+	}
+]
