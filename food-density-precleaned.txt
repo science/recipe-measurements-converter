@@ -1,0 +1,483 @@
+Col 1: Food name and description
+Col 2: Density in g/ml (including mass and bulk density)
+Col 3: Specific gravity
+Col 4: BiblioID Update (useless for this project)
+Col 5: Version 2.0 (useless for this project)
+
+Barley, flour 0.61 ASI x
+Barley, flour, malted 0.64 ASI x
+Barley, ground 0.38-0.42 ASI x
+Barley, malted 0.49 ASI x
+Barley, rolled 0.34-0.38 ASI x
+Barley, scoured 0.66 ASI x
+Barley, whole 0.61-0.69 ASI x
+Biscuits 0.41-0.53 FNDDS 4.1
+Bran 0.56 ASI x
+Bread 0.29 FNDDS 4.1
+Bread, cornbread 0.433 S&W
+Bread, roll, soft 0.18 FNDDS 4.1
+Bread, white 0.42 KEN x
+Bread, white, sliced, prepacked 0.29 FNDDS 4.1
+Breadcrumbs 0.45 RC
+Breakfast cereal, cornflakes (dry cereal) 0.117 S&W
+Breakfast cereal, muesli w/ fruits&nuts 0.37 FNDDS 4.1
+Breakfast cereal, raisin bran 0.26 FNDDS 4.1
+Breakfast cereal, type Cheerios 0.13 FNDDS 4.1
+Breakfast cereal, type Corn flakes 0.1 RC
+Breakfast cereal, type Crispix 0.13 FNDDS 4.1
+Breakfast cereal, type frosted flakes 0.18 FNDDS 4.1
+Breakfast cereal, type Just Right 0.24 FNDDS 4.1
+Breakfast cereal, type rice krispies 0.12 FNDDS 4.1
+Buckwheat, bran 0.25 ASI x
+Buckwheat, flour 0.66 ASI x
+Buckwheat, whole 0.59-0.66 ASI x
+Bulrush mille, fermented flour 0.56 KEN x
+Cake 0.415 S&W
+Cake mix 0.7 ASI x
+Corn/maize flour, white 0.55 KEN x
+Corn/maize starch, loosely packed 0.54 TB
+Corn/maize sugar 0.33 ASI x
+Corn/maize, boiled 0.90 KEN x
+Corn/maize, boiled with fat 0.90 KEN x
+Corn/maize, bran 0.21 ASI x
+Corn/maize, chops (coarse) 0.64-0.70 ASI x
+Corn/maize, chops (fine) 0.58-0.62 ASI x
+Corn/maize, chops (medium) 0.61-0.67 ASI x
+Corn/maize, cobs 0.27 ASI x
+Corn/maize, cracked (coarse) 0.64 ASI x
+Corn/maize, ear 0.9 TB
+Corn/maize, ear 0.9 ASI x
+Corn/maize, fermented flour 0.55 KEN x
+Corn/maize, flour 0.82 ASI x
+Corn/maize, meal 0.64 ASI x
+Corn/maize, flour 0.62 ASI x
+13
+Food name and description Density in g/ml
+(including mass
+and bulk density)
+Specific
+gravity
+BiblioID Update
+Version
+2
+Corn/maize, germ flour 0.56 ASI x
+Corn/maize, gluten flour 0.51-0.69 ASI x
+Corn/maize, grits 0.64-0.69 ASI x
+Corn/maize, ground 0.54-0.58 ASI x
+Corn/maize, kibbled 0.32-0.35 ASI x
+Corn/maize, mash 0.72 ASI x
+Corn/maize, shelled 0.72 TB
+Corn/maize, starch 0.67 ASI x
+Corn/maize, starch, tightly packed 0.63 TB
+Corn/maize, white, boiled 0.85 KEN x
+Corn/maize, white, dry 0.81 KEN x
+Corn/maize, whole kernel, dried, cracked (Njenga) 0.81 KEN x
+Corn/maize, whole kernel, dried, cracked, boiled
+(Njenga)
+1.07 KEN x
+Corn/maize, whole shelled 0.72 ASI x
+Donut mix 0.64 ASI x
+Dough mix 0.59 ASI x
+Finger millet, fermented flour 0.61 KEN x
+Millet 0.64 ASI x
+Millet 0.64 TB
+Millet flour, bulrush 0.56 KEN x
+Millet flour, finger 0.61 KEN x
+Millet, bulrush 0.90 KEN x
+Millet, finger 0.81 KEN x
+Oat Flour 0.53 ASI x
+Oat middlings 0.61 ASI x
+Oats 0.41 TB
+Oats 0.43 ASI x
+Oats groats, whole 0.74 ASI x
+Oats, ground 0.46 ASI x
+Oats, hulls 0.13 ASI x
+Oats, rolled 0.30-0.38 ASI x
+Pasta, short macaroni style, boiled 0.55 RC
+Pasta, short macaroni style, raw 0.39 RC
+Pasta/ noodles, boiled 0.59 KEN x
+Porridge flour bonavist, boiled 0.73 KEN x
+Porridge flour bonavist, raw 0.84 KEN x
+Porridge flour ken-uji + lemon extract 0.54 KEN x
+Porridge flour ken-uji:F.mill, bul, sorg, wheat 0.60 KEN x
+Porridge, maize, flour + water 1.05 KEN x
+Rice 0.72 ASI x
+Rice, boiled 0.73 KEN x
+Rice, boiled with fat 0.70 KEN x
+Rice, bran 0.42 ASI x
+Rice, hulled 0.75 TB
+Rice, puffed 0.1 ASI x
+Rice, raw 0.85 KEN x
+14
+Food name and description Density in g/ml
+(including mass
+and bulk density)
+Specific
+gravity
+BiblioID Update
+Version
+2
+Rice, rough 0.58 TB
+Rice, white, boiled 0.73 RC
+Rice, white, raw 0.82 RC
+Rye 0.72 TB
+Rye, bran 0.24-0.32 ASI x
+Rye, flour 0.67 ASI x
+Rye, malted 0.51 ASI x
+Rye, middlings 0.67 ASI x
+Rye, shorts 0.54 ASI x
+Rye, whole 0.69-0.72 ASI x
+Semolina, raw 0.78 RC
+Sorghum, fermented flour 0.54 KEN x
+Sorghum, flour 0.54 KEN x
+Sorghum, seed 0.51-0.56 ASI x
+Soy, flour 0.7 ASI x
+Soya, flour 0.64 ASI x
+Wheat 0.77 TB
+Wheat, bran 0.18-0.26 ASI x
+Wheat, cracked 0.56 ASI x
+Wheat, cut 0.74 ASI x
+Wheat, flour 0.48 ASI x
+Wheat, flour 0.58 KEN x
+Wheat, flour 0.67 ASI x
+Wheat, flour 0.521 S&W
+Wheat, flour, malted 0.66 ASI x
+Wheat, flour, white 0.67 RC
+Wheat, flour, wholemeal 0.55 RC
+Wheat, gluten 0.69 ASI x
+Wheat, hulls 0.7 ASI x
+Wheat, middlings 0.24 ASI x
+Wheat, shaved 0.54 ASI x
+Wheat, whole 0.72-0.83 ASI x
+Whey 0.56 ASI x
+Tubers and products
+Arrowroot/cocoyam, boiled 0.54 KEN x
+Arrowroot/cocoyam, raw 0.52 KEN x
+Cassava,flour 0.55 KEN x
+Cassava, boiled 0.63 KEN x
+Cassava, raw 0.63 KEN x
+Potato, english, boiled 0.59 KEN x
+Potato, english, raw 0.59 KEN x
+Potatoes, flakes 0.21 ASI x
+Potatoes, powdered 0.77 ASI x
+Sweet potato, boiled 0.65 KEN x
+Sweet potato, raw 0.44 KEN x
+Yam, boiled 0.79 KEN x
+15
+Food name and description Density in g/ml
+(including mass
+and bulk density)
+Specific
+gravity
+BiblioID Update
+Version
+2
+Yam, raw 0.66 KEN x
+Nuts and seeds
+Almonds 0.46 ASI x
+Cashews 0.5 ASI x
+Coconut Chips 0.61 ASI x
+Flaxseed 0.7 ASI x
+Nuts 0.63 FNDDS 4.1
+Peanuts 0.53 ASI x
+Peanuts, shelled 0.69 ASI x
+Peanuts, unshelled 0.27-0.38 ASI x
+Pistachio, raw, with shell 0.6 RC
+Pistachio, raw, without shell 0.646 RC
+Rapeseed 0.77 ASI x
+Sunflower, seed 0.62 ASI x
+Fruits
+Apple slices, dried 0.24 ASI x
+Loquat 0.6 KEN x
+Paw Paw, unripe 0.56 KEN x
+Vegetables
+Alfalfa, leaf, meal 0.23 ASI x
+Alfalfa,meal, dehydrated 13% 0.26-0.29 ASI x
+Alfalfa, meal, dehydrated 17% 0.29-0.35 ASI x
+Alfalfa, meal, fine ground 0.24-0.35 ASI x
+Alfalfa, meal, suncured 13% 0.22 ASI x
+Alfalfa, seed 0.72-0.77 ASI x
+Alfalfa, stem meal 0.19 ASI x
+Carrot, raw, chopped 0.54 KEN x
+Carrot, raw, grated 0.71 KEN x
+Cauliflower, boiled 0.45 RC
+Chili, green 0.5 KEN x
+Chili, red 0.5 KEN x
+French green beans 0.53 KEN x
+Fresh green peas (minji) 0.73 KEN x
+Leaves, managu, raw (black night shade) 0.2 KEN x
+Leaves, onion, spring onion, raw 0.44 KEN x
+Corn/maize, green, sweet corn, boiled 0.73 KEN x
+Corn/maize, green, sweet corn, raw 0.61 KEN x
+Olives, green, with stone 0.65 RC
+Onions, chopped 0.22 ASI x
+Onions, minced 0.13 ASI x
+Onions, powdered 0.4 ASI x
+Onions, fried, cubed 0.75 RC
+Onions, raw, cubed 0.55 RC
+Salad, green, leaves, raw 0.06 RC
+Spinach, frozen, cooked 1.046 RC
+16
+Food name and description Density in g/ml
+(including mass
+and bulk density)
+Specific
+gravity
+BiblioID Update
+Version
+2
+Spinach, leaves, raw 0.08 RC
+Sweet pepper, raw, cubes 0.51 RC
+Sweet pepper, raw, half rings 0.39 RC
+Legumes
+Beans, white 0.69-0.77 ASI x
+Cowpeas 0.72 ASI x
+Cowpeas, dried, boiled 0.75 KEN x
+Cowpeas, dried, raw 0.96 KEN x
+Greengram, boiled 0.76 KEN x
+Greengram, raw 0.79 KEN x
+Kidney beans, dry, boiled 0.79 KEN x
+Kidney beans, dry, raw 0.75 KEN x
+Kidney beans, green, boiled 0.7 KEN x
+Kidney beans, green, raw 0.68 KEN x
+Lentils, green, small, boiled 0.85 RC
+Lentils, green, small, raw 0.89 RC
+Pigeon peas, boiled 0.75 KEN x
+Pigeon peas, raw 0.84 KEN x
+Soybean 0.74 ASI x
+Soybean, flakes 0.58 ASI x
+Soybean, hulls 0.4 ASI x
+Soybean, meal 0.64 ASI x
+Soybean, boiled 0.79 KEN x
+Soybean, boiled with fat 0.70 KEN x
+Herbes and spices
+Cinnamon, powder 0.56 ASI x
+Clover, seed 0.77 ASI x
+Dry flavoring mix Roiko and other flavorings 0.7 KEN x
+Garlic, flakes 0.35 ASI x
+Garlic, powder 0.32 ASI x
+Sage, leaves 0.29 ASI x
+Spice, barbecue 0.48 ASI x
+Spice, blend 0.58 ASI x
+Fish and fish products
+Prawns, whole, boiled, with shell 0.58 RC
+Prawns, whole, boiled, without shell 0.77 RC
+Egg and egg products
+Egg, yoke, powder 0.37 ASI x
+Egg, chicken, boiled/poached 0.6 FNDDS 4.1
+Eggs, powdered 0.35 ASI x
+Meat and meat products
+Blood, flour 0.48 ASI x
+Blood, meal 0.62 ASI x
+17
+Food name and description Density in g/ml
+(including mass
+and bulk density)
+Specific
+gravity
+BiblioID Update
+Version
+2
+Bone and meat meal, loose 0.72 ASI x
+Bone meal, loose 0.80-0.96 ASI x
+Cow intestine, boiled 0.58 KEN x
+Cow, lean, no bone, raw 0.96 KEN x
+Cow, intestine, raw 0.93 KEN x
+Goat, intestine, boiled 0.56 KEN x
+Goat, intestine, raw 0.83 KEN x
+Pork, fatty, with bone, boiled 0.63 KEN x
+Pork, fatty, with bone, raw 0.97 KEN x
+Pork, medium, with bone, boiled 0.7 KEN x
+Pork, medium, with bone, raw 0.93 KEN x
+Snacks
+Potato chips 0.09 RC
+Potato chips, pringles 0.12 FNDDS 4.1
+Snacks, puffed, lowfat 0.11 FNDDS 4.1
+Sweets
+Glucolin, glucose 0.4 KEN x
+Glucose (at 15.6 C) 1.35-1.44 CSG x
+Jam 1.333 S&W
+Jam, sweetened 1.43 RC
+Jelly 1.245 S&W
+Nutella 1.26 RC
+Sucrose 0.85 ASI x
+Sucrose Octoacetate 0.53 ASI x
+Sugar 0.95 KEN x
+Sugar, dextrose 0.62 ASI x
+Sugar, dextrose 0.58 ASI x
+Sugar, granulated 0.7 ASI x
+Sugar, powdered 0.56 ASI x
+Sugar, white 0.9 RC
+Sugar, white 0.88 FNDDS 4.1
+Syrup, blackcurrant, undiluted 1.280 UK 6 th
+Syrup, corn 1.38 TB
+Syrup, corn, light 1.40 1.41 USDA x
+Syrup, fruit, blackberry 1.34 RC
+Syrup, grenadine 1.18 CG x
+Syrup, maple 1.32 1.32 USDA x
+Syrup, pancake 1.312 S&W
+Miscellaneous foods
+Baking powder 0.9 ASI x
+Gelatin 0.72 ASI x
+Monosodium glutamate 1.62 TB
+Mustard powdered 0.26 ASI x
+Protein supplement 0.54 ASI x
+Salad dressing 1.1 FNDDS 4.1
+18
+Food name and description Density in g/ml
+(including mass
+and bulk density)
+Specific
+gravity
+BiblioID Update
+Version
+2
+Salt, sodium chloride 2.165 TB
+Salt, fine table 1.38 ASI x
+Salt, granulated 1.28 ASI x
+Salt, table 1.217 S&W
+Sauce, soy 1.12 FNDDS 4.1
+Sodium bicarbonate 2.2 TB
+Vitamin additive 0.66 ASI x
+Vitamin compound 0.67 ASI x
+Vitamin enrichment 0.64 ASI x
+Vitamin mix 0.7 ASI x
+Vitamin powder 0.56 ASI x
+Yeast 0.95 ASI x
+Soups
+Bean soup 1.054 S&W
+Cheddar cheese soup 1.046 S&W
+Chicken noodle soup 1 S&W
+Egg drop soup 1.017 S&W
+Mushroom soup 1.017 S&W
+Soup, meat 1.04 KEN x
+Soup, mixed 1.05 KEN x
+Soup, thick (squash, potato) 1.09 RC
+Soup, vegetable 0.99 KEN x
+Tomato soup 1.017 S&W
+Mixed dishes
+Beef and noodles (no sauce) 0.65 S&W
+Beef and noodles in gravy (mixture) 1.04 S&W
+Beef stew, canned 1.05 S&W
+Beef, noodles and vegetables (no sauce) 0.68 S&W
+Broccoli casserole 0.95 S&W
+Cheese tortellini 1.03 S&W
+Chicken and dumplings (mixture) 1.04 S&W
+Eggplant parmesan 0.83 S&W
+Githeri (muthugo + beans) + meat 0.95 KEN x
+Githeri (muthugo + beans) + meat + vegetable +
+potato/banana
+0.99 KEN x
+Githeri (muthugo + beans) + onion, boiled with fat 0.98 KEN x
+Githeri (muthugo + beans) + potato/banana 0.88 KEN x
+Githeri (muthugo + beans) + vegetable 1.04 KEN x
+Githeri (muthugo + beans) + vegetable + meat 0.94 KEN x
+Githeri + meat 0.75 KEN x
+Githeri + meat + vegetable + potato/banana 1.05 KEN x
+Githeri + onion, boiled with fat 0.83 KEN x
+Githeri + peas 1.04 KEN x
+Githeri + potato/banana 1.10 KEN x
+Githeri + roots + vegetable 1.13 KEN x
+Githeri + vegetable 1.30 KEN x
+19
+Food name and description Density in g/ml
+(including mass
+and bulk density)
+Specific
+gravity
+BiblioID Update
+Version
+2
+Githeri + vegetable + meat 0.84 KEN x
+Githeri + vegetable + potato/banana 0.95 KEN x
+Githeri plain (muthugo + beans + water) 0.98 KEN x
+Githeri, beans + vegetable + potatoes 0.93 KEN x
+Githeri, maize + peas 0.97 KEN x
+Githeri, plain (maize + beans + water) 0.71 KEN x
+Gitwero, banana + beans 1.20 KEN x
+Gitwero, banana + beans + vegetable 1.20 KEN x
+Gitwero, banana + potato + beans 1.04 KEN x
+Gitwero, banana + vegetable 1.20 KEN x
+Gitwero, banana, boiled with fat 1.19 KEN x
+Gitwero, banana/potato 1.30 KEN x
+Gitwero, banana/potato + meat 1.08 KEN x
+Gitwero, banana/potato + vegetable 1.22 KEN x
+Gitwero, root (yam, arrowroot, etc.) 1.14 KEN x
+Gitwero, roots + banana 1.03 KEN x
+Gitwero, roots + banana 1.03 KEN x
+Green bean casserole 0.95 S&W
+Lasagna 1.04 S&W
+Macaroni and cheese, canned 1.00 S&W
+Mataha (Maize stew) (Maize stew), maize + peas 0.86 KEN x
+Mataha (maize stew), beans + banana 1.22 KEN x
+Mataha (maize stew), beans + banana + potato 1.25 KEN x
+Mataha (maize stew), beans + banana + potato +
+vegetable
+1.15 KEN x
+Mataha (maize stew), beans + potato/banana +
+vegetable
+1.14 KEN x
+Mataha (maize stew), beans + vegetable 1.02 KEN x
+Mataha (maize stew), beans + vegetable + banana 1 KEN x
+Mataha (maize stew), maize + banana 1.09 KEN x
+Mataha (maize stew), maize + banana/potato +
+vegetable
+1.10 KEN x
+Mataha (maize stew), maize + beans + potato 0.75 KEN x
+Mataha (maize stew), maize + beans + potato +
+vegetable
+0.95 KEN x
+Mataha (maize stew), maize + beans + potato,
+boiled with fat
+0.75 KEN x
+Mataha (maize stew), maize + beans + vegetable +
+banana
+0.70 KEN x
+Mataha (maize stew), maize + vegetable 0.90 KEN x
+Mataha (maize stew), paw paw 1.33 KEN x
+Mexican casserole w/beef, beans, cheese, chips 0.6 S&W
+Mini ravioli, canned 1.05 S&W
+Moussaka 0.85 S&W
+Muthugo (maize without germ and cover) only 0.76 KEN x
+Noodles/pasta with fat 0.80 KEN x
+Rice + beans 0.75 KEN x
+Rice + beans + potato/banana 0.85 KEN x
+Rice + meat 0.73 KEN x
+20
+Food name and description Density in g/ml
+(including mass
+and bulk density)
+Specific
+gravity
+BiblioID Update
+Version
+2
+Rice + meat + vegetable 0.83 KEN x
+Rice + potato/banana 0.80 KEN x
+Rice + roots (yam, arrowroot etc.) 0.90 KEN x
+Rice + vegetable 0.65 KEN x
+Rice + vegetable + potato/banana 0.80 KEN x
+Rice, plain (rice + water) 0.70 KEN x
+Spaghetti and meat balls, canned 1.04 S&W
+Stew, banana 1.07 KEN x
+Stew, banana + potato + vegetable 1.06 KEN x
+Stew, beans 1.01 KEN x
+Stew, beans/ peas + meat + vegetables 0.94 KEN x
+Stew, beans/ peas + vegetables 1.07 KEN x
+Stew, meat 1.12 KEN x
+Stew, pea + potato/banana 1.10 KEN x
+Stew, pea + potato/banana + vegetable 1.22 KEN x
+Stew, potato 1.10 KEN x
+Stew, potato + beans + vegetable 1.08 KEN x
+Stew, vegetable 0.68 KEN x
+Stew, vegetable + meat 0.86 KEN x
+Stew, vegetable + potato 1.10 KEN x
+Stew, vegetable + potato + meat 1.08 KEN x
+Stew: eggs + veg 0.68 KEN x
+Tuna noodle casserole 0.93 S&W
+Ugali + beans 0.80 KEN x
+Ugali + beans + vegetable 0.80 KEN x
+Ugali + vegetable, crumbed 0.75 KEN x
+Ugali + vegetables, boiled with fat 1.20 KEN x
+Ugali, plain (flour + water), crumbed 0.75 KEN x
+Wieners and sauerkraut (mixture) 0.61 S&W
