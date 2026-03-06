@@ -135,8 +135,18 @@ if (import.meta.url === `file://${process.argv[1]}`) {
 	const outDir = resolve(projectRoot, 'src', 'lib', 'data');
 	mkdirSync(outDir, { recursive: true });
 
+	const jsonOutput = JSON.stringify(db, null, '\t');
+
 	const outPath = resolve(outDir, 'food-density.json');
-	writeFileSync(outPath, JSON.stringify(db, null, '\t'));
+	writeFileSync(outPath, jsonOutput);
 	console.log(`\nWrote ${db.itemCount} items to ${outPath}`);
+
+	// Also copy to static/ for downloadable open data
+	const staticDir = resolve(projectRoot, 'static');
+	mkdirSync(staticDir, { recursive: true });
+	const staticPath = resolve(staticDir, 'food-density.json');
+	writeFileSync(staticPath, jsonOutput);
+	console.log(`Wrote ${db.itemCount} items to ${staticPath} (download)`);
+
 	console.log(`Categories: ${categories.join(', ')}`);
 }

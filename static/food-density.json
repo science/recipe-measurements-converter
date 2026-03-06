@@ -1,0 +1,4825 @@
+{
+	"version": "1.0.0",
+	"itemCount": 400,
+	"categories": [
+		"Baked goods",
+		"Baking ingredients",
+		"Beverages",
+		"Condiments",
+		"Dairy",
+		"Eggs",
+		"Fats and oils",
+		"Fruits",
+		"Grains and cereals",
+		"Herbs and spices",
+		"Legumes",
+		"Meats and seafood",
+		"Nuts and seeds",
+		"Root vegetables and tubers",
+		"Sweets",
+		"Uncategorized",
+		"Vegetables"
+	],
+	"items": [
+		{
+			"id": "abiyuch-raw",
+			"name": "Abiyuch, raw",
+			"category": "Uncategorized",
+			"density": {
+				"min": 0.963699648,
+				"max": 0.963699648,
+				"avg": 0.963699648
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "acerola-west-indian-cherry-raw",
+			"name": "Acerola, (west indian cherry), raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.414221778,
+				"max": 0.414221778,
+				"avg": 0.414221778
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "adobo-fresco",
+			"name": "Adobo fresco",
+			"category": "Condiments",
+			"density": {
+				"min": 1.217304818,
+				"max": 1.217304818,
+				"avg": 1.217304818
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "alfalfa-seeds-sprouted-raw",
+			"name": "Alfalfa seeds, sprouted, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.139482844,
+				"max": 0.139482844,
+				"avg": 0.139482844
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "almonds-ground",
+			"name": "Almonds, ground",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.4015415198,
+				"max": 0.4015415198,
+				"avg": 0.4015415198
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "almonds-sliced",
+			"name": "Almonds, sliced",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.38886126128,
+				"max": 0.38886126128,
+				"avg": 0.38886126128
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "almonds-slivered",
+			"name": "Almonds, slivered",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.45648930672,
+				"max": 0.45648930672,
+				"avg": 0.45648930672
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "almonds-whole",
+			"name": "Almonds, whole",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.60442565612,
+				"max": 0.60442565612,
+				"avg": 0.60442565612
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "almond-butter",
+			"name": "Almond butter",
+			"category": "Dairy",
+			"density": {
+				"min": 1.05668821,
+				"max": 1.05668821,
+				"avg": 1.05668821
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "amaranth-flakes",
+			"name": "Amaranth flakes",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.160616608,
+				"max": 0.160616608,
+				"avg": 0.160616608
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "amaranth-leaves-raw",
+			"name": "Amaranth leaves, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.11834908,
+				"max": 0.11834908,
+				"avg": 0.11834908
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "amaranth-uncooked",
+			"name": "Amaranth, uncooked",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.815763298,
+				"max": 0.815763298,
+				"avg": 0.815763298
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "apple-juice-from-concentrate-prepared",
+			"name": "Apple juice, from concentrate, prepared",
+			"category": "Fruits",
+			"density": {
+				"min": 1.010193929,
+				"max": 1.010193929,
+				"avg": 1.010193929
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "apple-juice-unsweetened",
+			"name": "Apple juice, unsweetened",
+			"category": "Fruits",
+			"density": {
+				"min": 1.048234704,
+				"max": 1.048234704,
+				"avg": 1.048234704
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "apples-dehydrated",
+			"name": "Apples, dehydrated",
+			"category": "Fruits",
+			"density": {
+				"min": 0.25360517,
+				"max": 0.25360517,
+				"avg": 0.25360517
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "applesauce-canned-sweetened",
+			"name": "Applesauce, canned, sweetened",
+			"category": "Fruits",
+			"density": {
+				"min": 1.039781199,
+				"max": 1.039781199,
+				"avg": 1.039781199
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "applesauce-canned-sweetened-with-salt",
+			"name": "Applesauce, canned, sweetened, with salt",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 1.077821974,
+				"max": 1.077821974,
+				"avg": 1.077821974
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "applesauce-canned-unsweetened",
+			"name": "Applesauce, canned, unsweetened",
+			"category": "Fruits",
+			"density": {
+				"min": 1.031327693,
+				"max": 1.031327693,
+				"avg": 1.031327693
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "apricot-nectar-canned",
+			"name": "Apricot nectar, canned",
+			"category": "Fruits",
+			"density": {
+				"min": 1.060914963,
+				"max": 1.060914963,
+				"avg": 1.060914963
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "apricots-dehydrated",
+			"name": "Apricots, dehydrated",
+			"category": "Fruits",
+			"density": {
+				"min": 0.502983588,
+				"max": 0.502983588,
+				"avg": 0.502983588
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "apricots-frozen-sweetened",
+			"name": "Apricots, frozen, sweetened",
+			"category": "Fruits",
+			"density": {
+				"min": 1.022874187,
+				"max": 1.022874187,
+				"avg": 1.022874187
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "artichokes",
+			"name": "Artichokes",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.710094477,
+				"max": 0.710094477,
+				"avg": 0.710094477
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "arugula-raw",
+			"name": "Arugula, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.084535057,
+				"max": 0.084535057,
+				"avg": 0.084535057
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "asparagus-canned",
+			"name": "Asparagus, canned",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.022874187,
+				"max": 1.022874187,
+				"avg": 1.022874187
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "asparagus-raw",
+			"name": "Asparagus, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.566384881,
+				"max": 0.566384881,
+				"avg": 0.566384881
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "baked-beans-canned",
+			"name": "Baked beans, canned",
+			"category": "Legumes",
+			"density": {
+				"min": 1.069368469,
+				"max": 1.069368469,
+				"avg": 1.069368469
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "baking-soda-sodium-bicarbonate-average",
+			"name": "Baking soda (sodium bicarbonate), average",
+			"category": "Baking ingredients",
+			"density": {
+				"min": 0.934,
+				"max": 0.934,
+				"avg": 0.934
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "baking-soda-sodium-bicarbonate-compacted",
+			"name": "Baking soda (sodium bicarbonate), compacted",
+			"category": "Baking ingredients",
+			"density": {
+				"min": 1.35,
+				"max": 1.35,
+				"avg": 1.35
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "baking-soda-sodium-bicarbonate-low-moisture",
+			"name": "Baking soda (sodium bicarbonate), low moisture",
+			"category": "Baking ingredients",
+			"density": {
+				"min": 0.88,
+				"max": 0.88,
+				"avg": 0.88
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "baking-powder-average",
+			"name": "Baking powder, average",
+			"category": "Baking ingredients",
+			"density": {
+				"min": 0.721,
+				"max": 0.721,
+				"avg": 0.721
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "baking-powder-compacted",
+			"name": "Baking powder, compacted",
+			"category": "Baking ingredients",
+			"density": {
+				"min": 1.1,
+				"max": 1.1,
+				"avg": 1.1
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "balsam-pear-bitter-gourd-leafy-tips-raw",
+			"name": "Balsam-pear (bitter gourd), leafy tips, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.202884136,
+				"max": 0.202884136,
+				"avg": 0.202884136
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "bananas-dehydrated-or-banana-powder",
+			"name": "Bananas, dehydrated, or banana powder",
+			"category": "Fruits",
+			"density": {
+				"min": 0.422675284,
+				"max": 0.422675284,
+				"avg": 0.422675284
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "barley-hulled",
+			"name": "Barley, hulled",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.777722523,
+				"max": 0.777722523,
+				"avg": 0.777722523
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "barley-pearled-raw",
+			"name": "Barley, pearled, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.845350568,
+				"max": 0.845350568,
+				"avg": 0.845350568
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-baked-canned",
+			"name": "Beans, baked, canned",
+			"category": "Legumes",
+			"density": {
+				"min": 1.073595221,
+				"max": 1.073595221,
+				"avg": 1.073595221
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-black-mature-seeds-cooked",
+			"name": "Beans, black, mature seeds, cooked",
+			"category": "Legumes",
+			"density": {
+				"min": 0.727001488,
+				"max": 0.727001488,
+				"avg": 0.727001488
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-black-mature-seeds-raw",
+			"name": "Beans, black, mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.819990051,
+				"max": 0.819990051,
+				"avg": 0.819990051
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-fava-in-pod-raw",
+			"name": "Beans, fava, in pod, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.532570858,
+				"max": 0.532570858,
+				"avg": 0.532570858
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-french-mature-seeds-cooked-boiled",
+			"name": "Beans, french, mature seeds, cooked, boiled",
+			"category": "Legumes",
+			"density": {
+				"min": 0.748135253,
+				"max": 0.748135253,
+				"avg": 0.748135253
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-french-mature-seeds-raw",
+			"name": "Beans, french, mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.777722523,
+				"max": 0.777722523,
+				"avg": 0.777722523
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-great-northern-mature-seeds-canned",
+			"name": "Beans, great northern, mature seeds, canned",
+			"category": "Legumes",
+			"density": {
+				"min": 1.107409244,
+				"max": 1.107409244,
+				"avg": 1.107409244
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-great-northern-mature-seeds-raw",
+			"name": "Beans, great northern, mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.77349577,
+				"max": 0.77349577,
+				"avg": 0.77349577
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-kidney-canned",
+			"name": "Beans, kidney, canned",
+			"category": "Legumes",
+			"density": {
+				"min": 1.082048727,
+				"max": 1.082048727,
+				"avg": 1.082048727
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-kidney-cooked",
+			"name": "Beans, kidney, cooked",
+			"category": "Legumes",
+			"density": {
+				"min": 0.748135253,
+				"max": 0.748135253,
+				"avg": 0.748135253
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-kidney-raw",
+			"name": "Beans, kidney, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.777722523,
+				"max": 0.777722523,
+				"avg": 0.777722523
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-navy-raw",
+			"name": "Beans, navy, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.879164591,
+				"max": 0.879164591,
+				"avg": 0.879164591
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-navy-sprouted-raw",
+			"name": "Beans, navy, sprouted, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.439582295,
+				"max": 0.439582295,
+				"avg": 0.439582295
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-pinto-canned",
+			"name": "Beans, pinto, canned",
+			"category": "Legumes",
+			"density": {
+				"min": 1.014420682,
+				"max": 1.014420682,
+				"avg": 1.014420682
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-pinto-cooked",
+			"name": "Beans, pinto, cooked",
+			"category": "Legumes",
+			"density": {
+				"min": 0.722774736,
+				"max": 0.722774736,
+				"avg": 0.722774736
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-pinto-raw",
+			"name": "Beans, pinto, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.815763298,
+				"max": 0.815763298,
+				"avg": 0.815763298
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beans-snap-green-frozen-all-styles-unprepared",
+			"name": "Beans, snap, green, frozen, all styles, unprepared",
+			"category": "Legumes",
+			"density": {
+				"min": 0.511437094,
+				"max": 0.511437094,
+				"avg": 0.511437094
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beet-greens-raw",
+			"name": "Beet greens, raw",
+			"category": "Root vegetables and tubers",
+			"density": {
+				"min": 0.160616608,
+				"max": 0.160616608,
+				"avg": 0.160616608
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beets-canned",
+			"name": "Beets, canned",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.039781199,
+				"max": 1.039781199,
+				"avg": 1.039781199
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "beets-raw",
+			"name": "Beets, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.574838386,
+				"max": 0.574838386,
+				"avg": 0.574838386
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "blackberries-raw",
+			"name": "Blackberries, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.608652409,
+				"max": 0.608652409,
+				"avg": 0.608652409
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "blackberries-wild-raw-alaska-native",
+			"name": "Blackberries, wild, raw (Alaska Native)",
+			"category": "Fruits",
+			"density": {
+				"min": 0.663600196,
+				"max": 0.663600196,
+				"avg": 0.663600196
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "blueberries-raw",
+			"name": "Blueberries, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.62555942,
+				"max": 0.62555942,
+				"avg": 0.62555942
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "blueberries-wild-canned-heavy-syrup-drained",
+			"name": "Blueberries, wild, canned, heavy syrup, drained",
+			"category": "Sweets",
+			"density": {
+				"min": 1.348334156,
+				"max": 1.348334156,
+				"avg": 1.348334156
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "bread-crumbs-dry-grated-plain",
+			"name": "Bread crumbs, dry, grated, plain",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.456489307,
+				"max": 0.456489307,
+				"avg": 0.456489307
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "bread-crumbs-dry-grated-seasoned",
+			"name": "Bread crumbs, dry, grated, seasoned",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.507210341,
+				"max": 0.507210341,
+				"avg": 0.507210341
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "bread-stuffing-bread-dry-mix-prepared",
+			"name": "Bread stuffing, bread, dry mix, prepared",
+			"category": "Baked goods",
+			"density": {
+				"min": 0.845350568,
+				"max": 0.845350568,
+				"avg": 0.845350568
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "bread-stuffing-cornbread-dry-mix-prepared",
+			"name": "Bread stuffing, cornbread, dry mix, prepared",
+			"category": "Baked goods",
+			"density": {
+				"min": 0.845350568,
+				"max": 0.845350568,
+				"avg": 0.845350568
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "breadfruit-raw",
+			"name": "Breadfruit, raw",
+			"category": "Baking ingredients",
+			"density": {
+				"min": 0.929885625,
+				"max": 0.929885625,
+				"avg": 0.929885625
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "broadbeans-fava-beans-mature-seeds-raw",
+			"name": "Broadbeans (fava beans), mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.634012926,
+				"max": 0.634012926,
+				"avg": 0.634012926
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "broadbeans-immature-seeds-raw",
+			"name": "Broadbeans, immature seeds, raw",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.46071606,
+				"max": 0.46071606,
+				"avg": 0.46071606
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "broccoli-frozen-chopped-unprepared",
+			"name": "Broccoli, frozen, chopped, unprepared",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.659373443,
+				"max": 0.659373443,
+				"avg": 0.659373443
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "broccoli-frozen-spears-cooked-boiled-drained",
+			"name": "Broccoli, frozen, spears, cooked, boiled, drained",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.777722523,
+				"max": 0.777722523,
+				"avg": 0.777722523
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "brussels-sprouts-raw",
+			"name": "Brussels sprouts, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.37195425,
+				"max": 0.37195425,
+				"avg": 0.37195425
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "buckwheat",
+			"name": "Buckwheat",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.718547983,
+				"max": 0.718547983,
+				"avg": 0.718547983
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "buckwheat-groats-roasted-cooked",
+			"name": "Buckwheat groats, roasted, cooked",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.710094477,
+				"max": 0.710094477,
+				"avg": 0.710094477
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "buckwheat-groats-roasted-dry",
+			"name": "Buckwheat groats, roasted, dry",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.693187466,
+				"max": 0.693187466,
+				"avg": 0.693187466
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "bulgur-cooked",
+			"name": "Bulgur, cooked",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.769269017,
+				"max": 0.769269017,
+				"avg": 0.769269017
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "bulgur-dry",
+			"name": "Bulgur, dry",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.591745398,
+				"max": 0.591745398,
+				"avg": 0.591745398
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "butter-oil-anhydrous",
+			"name": "Butter oil, anhydrous",
+			"category": "Dairy",
+			"density": {
+				"min": 0.866484332,
+				"max": 0.866484332,
+				"avg": 0.866484332
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "butter-salted",
+			"name": "Butter, salted",
+			"category": "Dairy",
+			"density": {
+				"min": 0.959472895,
+				"max": 0.959472895,
+				"avg": 0.959472895
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "butter-whipped-with-salt",
+			"name": "Butter, whipped, with salt",
+			"category": "Dairy",
+			"density": {
+				"min": 0.638239679,
+				"max": 0.638239679,
+				"avg": 0.638239679
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "butter-without-salt",
+			"name": "Butter, without salt",
+			"category": "Dairy",
+			"density": {
+				"min": 0.959472895,
+				"max": 0.959472895,
+				"avg": 0.959472895
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "butterbur-fuki-raw",
+			"name": "Butterbur, (fuki), raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.397314767,
+				"max": 0.397314767,
+				"avg": 0.397314767
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cabbage-japanese-style-fresh-pickled",
+			"name": "Cabbage, japanese style, fresh, pickled",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.634012926,
+				"max": 0.634012926,
+				"avg": 0.634012926
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cabbage-mustard-salted",
+			"name": "Cabbage, mustard, salted",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.541024364,
+				"max": 0.541024364,
+				"avg": 0.541024364
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cabbage-napa-cooked",
+			"name": "Cabbage, napa, cooked",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.46071606,
+				"max": 0.46071606,
+				"avg": 0.46071606
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "candies-gum-drops-low-calorie-sorbitol",
+			"name": "Candies, gum drops, low calorie (sorbitol)",
+			"category": "Sweets",
+			"density": {
+				"min": 0.769269017,
+				"max": 0.769269017,
+				"avg": 0.769269017
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "candies-m-ms-almond-chocolate-candies",
+			"name": "Candies, M&M's Almond Chocolate Candies",
+			"category": "Sweets",
+			"density": {
+				"min": 0.824216804,
+				"max": 0.824216804,
+				"avg": 0.824216804
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "candies-m-ms-milk-chocolate-candies",
+			"name": "Candies, M&M's Milk Chocolate Candies",
+			"category": "Dairy",
+			"density": {
+				"min": 0.879164591,
+				"max": 0.879164591,
+				"avg": 0.879164591
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "candies-m-ms-peanut-butter-chocolate-candies",
+			"name": "Candies, M&M's Peanut Butter Chocolate Candies",
+			"category": "Dairy",
+			"density": {
+				"min": 0.858030827,
+				"max": 0.858030827,
+				"avg": 0.858030827
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "candies-m-ms-peanut-chocolate-candies",
+			"name": "Candies, M&M's Peanut Chocolate Candies",
+			"category": "Sweets",
+			"density": {
+				"min": 0.718547983,
+				"max": 0.718547983,
+				"avg": 0.718547983
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "candies-skittles-original-bite-size-candies",
+			"name": "Candies, SKITTLES Original Bite Size Candies",
+			"category": "Sweets",
+			"density": {
+				"min": 0.866484332,
+				"max": 0.866484332,
+				"avg": 0.866484332
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "candies-milk-chocolate-coated-peanuts",
+			"name": "Candies, milk chocolate coated peanuts",
+			"category": "Dairy",
+			"density": {
+				"min": 0.629786173,
+				"max": 0.629786173,
+				"avg": 0.629786173
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "candies-milk-chocolate-coated-raisins",
+			"name": "Candies, milk chocolate coated raisins",
+			"category": "Dairy",
+			"density": {
+				"min": 0.760815511,
+				"max": 0.760815511,
+				"avg": 0.760815511
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "candies-reeses-pieces-candy",
+			"name": "Candies, REESE'S PIECES Candy",
+			"category": "Sweets",
+			"density": {
+				"min": 0.794629534,
+				"max": 0.794629534,
+				"avg": 0.794629534
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "carrot-dehydrated",
+			"name": "Carrot, dehydrated",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.31277971,
+				"max": 0.31277971,
+				"avg": 0.31277971
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cassava-raw",
+			"name": "Cassava, raw",
+			"category": "Root vegetables and tubers",
+			"density": {
+				"min": 0.870711085,
+				"max": 0.870711085,
+				"avg": 0.870711085
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "catsup",
+			"name": "Catsup",
+			"category": "Condiments",
+			"density": {
+				"min": 1.014420682,
+				"max": 1.014420682,
+				"avg": 1.014420682
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cauliflower-green-raw",
+			"name": "Cauliflower, green, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.270512182,
+				"max": 0.270512182,
+				"avg": 0.270512182
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "celeriac-raw",
+			"name": "Celeriac, raw",
+			"category": "Root vegetables and tubers",
+			"density": {
+				"min": 0.659373443,
+				"max": 0.659373443,
+				"avg": 0.659373443
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "chard-swiss-raw",
+			"name": "Chard, swiss, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.152163102,
+				"max": 0.152163102,
+				"avg": 0.152163102
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cheese-fondue",
+			"name": "Cheese fondue",
+			"category": "Dairy",
+			"density": {
+				"min": 0.908751861,
+				"max": 0.908751861,
+				"avg": 0.908751861
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cheese-food-pasteurized-process-american",
+			"name": "Cheese food, pasteurized process, American",
+			"category": "Dairy",
+			"density": {
+				"min": 0.477623071,
+				"max": 0.477623071,
+				"avg": 0.477623071
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cheese-cottage-1-milkfat",
+			"name": "Cheese, cottage, 1% milkfat",
+			"category": "Dairy",
+			"density": {
+				"min": 0.959472895,
+				"max": 0.959472895,
+				"avg": 0.959472895
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cheese-cream",
+			"name": "Cheese, cream",
+			"category": "Dairy",
+			"density": {
+				"min": 0.980606659,
+				"max": 0.980606659,
+				"avg": 0.980606659
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cheese-cream-low-fat",
+			"name": "Cheese, cream, low fat",
+			"category": "Dairy",
+			"density": {
+				"min": 1.014420682,
+				"max": 1.014420682,
+				"avg": 1.014420682
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cheese-limburger",
+			"name": "Cheese, limburger",
+			"category": "Dairy",
+			"density": {
+				"min": 0.566384881,
+				"max": 0.566384881,
+				"avg": 0.566384881
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cheese-mexican-blend-reduced-fat",
+			"name": "Cheese, Mexican, blend, reduced fat",
+			"category": "Dairy",
+			"density": {
+				"min": 0.473396318,
+				"max": 0.473396318,
+				"avg": 0.473396318
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cheese-parmesan-dry-grated-reduced-fat",
+			"name": "Cheese, parmesan, dry grated, reduced fat",
+			"category": "Dairy",
+			"density": {
+				"min": 0.422675284,
+				"max": 0.422675284,
+				"avg": 0.422675284
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cheese-parmesan-grated",
+			"name": "Cheese, parmesan, grated",
+			"category": "Dairy",
+			"density": {
+				"min": 0.422675284,
+				"max": 0.422675284,
+				"avg": 0.422675284
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cheese-ricotta",
+			"name": "Cheese, ricotta",
+			"category": "Dairy",
+			"density": {
+				"min": 1.048234704,
+				"max": 1.048234704,
+				"avg": 1.048234704
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cherries-sweet-canned-pitted-heavy-syrup-drained",
+			"name": "Cherries, sweet, canned, pitted, heavy syrup, drained",
+			"category": "Sweets",
+			"density": {
+				"min": 0.756588758,
+				"max": 0.756588758,
+				"avg": 0.756588758
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "chickpeas-garbanzo-beans-mature-seeds-raw",
+			"name": "Chickpeas (garbanzo beans), mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.845350568,
+				"max": 0.845350568,
+				"avg": 0.845350568
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "chives-freeze-dried",
+			"name": "Chives, freeze-dried",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.013525609,
+				"max": 0.013525609,
+				"avg": 0.013525609
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "chocolate-baking-chocolate-unsweetened-squares-grated",
+			"name": "Chocolate, Baking chocolate, unsweetened, squares (grated)",
+			"category": "Sweets",
+			"density": {
+				"min": 0.557931,
+				"max": 0.557931,
+				"avg": 0.557931
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "chocolate-nestle-semi-sweet-morsels",
+			"name": "Chocolate, Nestle Semi-Sweet Morsels",
+			"category": "Sweets",
+			"density": {
+				"min": 0.72,
+				"max": 0.72,
+				"avg": 0.72
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "chocolate-powder",
+			"name": "Chocolate, powder",
+			"category": "Sweets",
+			"density": {
+				"min": 0.641,
+				"max": 0.641,
+				"avg": 0.641
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "chocolate-syrup",
+			"name": "Chocolate syrup",
+			"category": "Sweets",
+			"density": {
+				"min": 1.268025852,
+				"max": 1.268025852,
+				"avg": 1.268025852
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "chocolate-syrup-hersheys-genuine-lite-syrup",
+			"name": "Chocolate, syrup, HERSHEYS Genuine Lite Syrup",
+			"category": "Sweets",
+			"density": {
+				"min": 1.183491,
+				"max": 1.183491,
+				"avg": 1.183491
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "chokecherries-raw-pitted-northern-plains-indians",
+			"name": "Chokecherries, raw, pitted (Northern Plains Indians)",
+			"category": "Uncategorized",
+			"density": {
+				"min": 0.650919937,
+				"max": 0.650919937,
+				"avg": 0.650919937
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cocoa-dry-powder",
+			"name": "Cocoa, dry powder",
+			"category": "Sweets",
+			"density": {
+				"min": 0.363500744,
+				"max": 0.363500744,
+				"avg": 0.363500744
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cookies-chocolate-wafers-crumbled",
+			"name": "Cookies, chocolate wafers (crumbled)",
+			"category": "Sweets",
+			"density": {
+				"min": 0.473396,
+				"max": 0.473396,
+				"avg": 0.473396
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "coriander-cilantro-leaves-raw",
+			"name": "Coriander (cilantro) leaves, raw",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.067628045,
+				"max": 0.067628045,
+				"avg": 0.067628045
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "corn-sweet-yellow-raw",
+			"name": "Corn, sweet, yellow, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.612879162,
+				"max": 0.612879162,
+				"avg": 0.612879162
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "corn-white",
+			"name": "Corn, white",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.701640971,
+				"max": 0.701640971,
+				"avg": 0.701640971
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "corn-yellow",
+			"name": "Corn, yellow",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.701640971,
+				"max": 0.701640971,
+				"avg": 0.701640971
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "corn-yellow-whole-kernel-frozen-microwaved",
+			"name": "Corn, yellow, whole kernel, frozen, microwaved",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.59597215,
+				"max": 0.59597215,
+				"avg": 0.59597215
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cornmeal-degermed",
+			"name": "Cornmeal, degermed",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.663600196,
+				"max": 0.663600196,
+				"avg": 0.663600196
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cornmeal-self-rising-plain",
+			"name": "Cornmeal, self-rising, plain",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.515663846,
+				"max": 0.515663846,
+				"avg": 0.515663846
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cornmeal-self-rising-with-wheat-flour-added",
+			"name": "Cornmeal, self-rising, with wheat flour added",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.718547983,
+				"max": 0.718547983,
+				"avg": 0.718547983
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cornmeal-self-rising-degermed-enriched",
+			"name": "Cornmeal, self-rising, degermed, enriched",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.583291892,
+				"max": 0.583291892,
+				"avg": 0.583291892
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cornmeal-whole-grain",
+			"name": "Cornmeal, whole-grain",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.515663846,
+				"max": 0.515663846,
+				"avg": 0.515663846
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cornstarch",
+			"name": "Cornstarch",
+			"category": "Baking ingredients",
+			"density": {
+				"min": 0.541024364,
+				"max": 0.541024364,
+				"avg": 0.541024364
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "couscous-dry",
+			"name": "Couscous, dry",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.731228241,
+				"max": 0.731228241,
+				"avg": 0.731228241
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cracker-meal",
+			"name": "Cracker meal",
+			"category": "Baked goods",
+			"density": {
+				"min": 0.486076577,
+				"max": 0.486076577,
+				"avg": 0.486076577
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cranberries-dried-sweetened",
+			"name": "Cranberries, dried, sweetened",
+			"category": "Fruits",
+			"density": {
+				"min": 0.512333165,
+				"max": 0.512333165,
+				"avg": 0.512333165
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cream-substitute-powdered",
+			"name": "Cream substitute, powdered",
+			"category": "Dairy",
+			"density": {
+				"min": 0.397314767,
+				"max": 0.397314767,
+				"avg": 0.397314767
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cream-fluid-half-and-half",
+			"name": "Cream, fluid, half and half",
+			"category": "Dairy",
+			"density": {
+				"min": 1.022874187,
+				"max": 1.022874187,
+				"avg": 1.022874187
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cream-sour-cultured",
+			"name": "Cream, sour, cultured",
+			"category": "Dairy",
+			"density": {
+				"min": 0.972153153,
+				"max": 0.972153153,
+				"avg": 0.972153153
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cream-sour-reduced-fat-cultured",
+			"name": "Cream, sour, reduced fat, cultured",
+			"category": "Dairy",
+			"density": {
+				"min": 1.022874187,
+				"max": 1.022874187,
+				"avg": 1.022874187
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cream-whipped-cream-topping-pressurized",
+			"name": "Cream, whipped, cream topping, pressurized",
+			"category": "Dairy",
+			"density": {
+				"min": 0.25360517,
+				"max": 0.25360517,
+				"avg": 0.25360517
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "cress-garden-raw",
+			"name": "Cress, garden, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.211337642,
+				"max": 0.211337642,
+				"avg": 0.211337642
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "croutons-plain",
+			"name": "Croutons, plain",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.126802585,
+				"max": 0.126802585,
+				"avg": 0.126802585
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "croutons-seasoned",
+			"name": "Croutons, seasoned",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.169070114,
+				"max": 0.169070114,
+				"avg": 0.169070114
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "currants-raw",
+			"name": "Currants, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.473396318,
+				"max": 0.473396318,
+				"avg": 0.473396318
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "currants-zante-dried",
+			"name": "Currants, zante, dried",
+			"category": "Fruits",
+			"density": {
+				"min": 0.608652409,
+				"max": 0.608652409,
+				"avg": 0.608652409
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "edamame-frozen-prepared",
+			"name": "Edamame, frozen, prepared",
+			"category": "Legumes",
+			"density": {
+				"min": 0.65514669,
+				"max": 0.65514669,
+				"avg": 0.65514669
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "edamame-frozen-unprepared",
+			"name": "Edamame, frozen, unprepared",
+			"category": "Legumes",
+			"density": {
+				"min": 0.498756835,
+				"max": 0.498756835,
+				"avg": 0.498756835
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "egg-white-raw-fresh",
+			"name": "Egg, white, raw, fresh",
+			"category": "Eggs",
+			"density": {
+				"min": 1.02710094,
+				"max": 1.02710094,
+				"avg": 1.02710094
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "egg-whole-cooked-scrambled",
+			"name": "Egg, whole, cooked, scrambled",
+			"category": "Eggs",
+			"density": {
+				"min": 0.929885625,
+				"max": 0.929885625,
+				"avg": 0.929885625
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "egg-yolk-raw-fresh",
+			"name": "Egg, yolk, raw, fresh",
+			"category": "Eggs",
+			"density": {
+				"min": 1.02710094,
+				"max": 1.02710094,
+				"avg": 1.02710094
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "eggnog",
+			"name": "Eggnog",
+			"category": "Dairy",
+			"density": {
+				"min": 1.073595221,
+				"max": 1.073595221,
+				"avg": 1.073595221
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "eggplant-pickled",
+			"name": "Eggplant, pickled",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.574838386,
+				"max": 0.574838386,
+				"avg": 0.574838386
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "elderberries-raw",
+			"name": "Elderberries, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.612879162,
+				"max": 0.612879162,
+				"avg": 0.612879162
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "ensure-plus-liquid-nutrition",
+			"name": "Ensure plus, liquid nutrition",
+			"category": "Beverages",
+			"density": {
+				"min": 1.065141716,
+				"max": 1.065141716,
+				"avg": 1.065141716
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "eppaw-raw",
+			"name": "Eppaw, raw",
+			"category": "Uncategorized",
+			"density": {
+				"min": 0.422675284,
+				"max": 0.422675284,
+				"avg": 0.422675284
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "fat-animal-meat",
+			"name": "Fat, animal meat",
+			"category": "Meats and seafood",
+			"density": {
+				"min": 0.866484332,
+				"max": 0.866484332,
+				"avg": 0.866484332
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "figs-dried-uncooked",
+			"name": "Figs, dried, uncooked",
+			"category": "Fruits",
+			"density": {
+				"min": 0.629786173,
+				"max": 0.629786173,
+				"avg": 0.629786173
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "fish-oil",
+			"name": "Fish oil",
+			"category": "Fats and oils",
+			"density": {
+				"min": 0.921432119,
+				"max": 0.921432119,
+				"avg": 0.921432119
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-us-all-purpose",
+			"name": "Flour, U.S. all-purpose",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.528344105,
+				"max": 0.528344105,
+				"avg": 0.528344105
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-arrowroot",
+			"name": "Flour, Arrowroot",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.541024364,
+				"max": 0.541024364,
+				"avg": 0.541024364
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-barley",
+			"name": "Flour, Barley",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.62555942,
+				"max": 0.62555942,
+				"avg": 0.62555942
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-barley-malt",
+			"name": "Flour, Barley malt",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.68473396,
+				"max": 0.68473396,
+				"avg": 0.68473396
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-buckwheat-whole-groat",
+			"name": "Flour, buckwheat, whole-groat",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.507210341,
+				"max": 0.507210341,
+				"avg": 0.507210341
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-carob",
+			"name": "Flour, Carob",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.435355543,
+				"max": 0.435355543,
+				"avg": 0.435355543
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-chickpea-besan",
+			"name": "Flour, chickpea (besan)",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.388861261,
+				"max": 0.388861261,
+				"avg": 0.388861261
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-corn-degermed",
+			"name": "Flour, corn, degermed",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.532570858,
+				"max": 0.532570858,
+				"avg": 0.532570858
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-corn-masa",
+			"name": "Flour, corn, masa",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.481849824,
+				"max": 0.481849824,
+				"avg": 0.481849824
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-corn-whole-grain",
+			"name": "Flour, corn, whole-grain",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.494530082,
+				"max": 0.494530082,
+				"avg": 0.494530082
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-peanut-defatted",
+			"name": "Flour, peanut, defatted",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.25360517,
+				"max": 0.25360517,
+				"avg": 0.25360517
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-peanut-low-fat",
+			"name": "Flour, peanut, low fat",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.25360517,
+				"max": 0.25360517,
+				"avg": 0.25360517
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-potato",
+			"name": "Flour, potato",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.676280454,
+				"max": 0.676280454,
+				"avg": 0.676280454
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-rice",
+			"name": "Flour, rice",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.667826949,
+				"max": 0.667826949,
+				"avg": 0.667826949
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-rye-dark",
+			"name": "Flour, rye, dark",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.541024364,
+				"max": 0.541024364,
+				"avg": 0.541024364
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-rye-light-medium",
+			"name": "Flour, rye, light/medium",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.43112879,
+				"max": 0.43112879,
+				"avg": 0.43112879
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-sorghum",
+			"name": "Flour, sorghum",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.511437094,
+				"max": 0.511437094,
+				"avg": 0.511437094
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-soy-defatted",
+			"name": "Flour, soy, defatted",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.443809048,
+				"max": 0.443809048,
+				"avg": 0.443809048
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-triticale-whole-grain",
+			"name": "Flour, triticale, whole-grain",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.549477869,
+				"max": 0.549477869,
+				"avg": 0.549477869
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-wheat-white-all-purpose",
+			"name": "Flour, wheat, white, all-purpose",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.528344105,
+				"max": 0.528344105,
+				"avg": 0.528344105
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-wheat-white-bread-enriched",
+			"name": "Flour, wheat, white, bread, enriched",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.579065139,
+				"max": 0.579065139,
+				"avg": 0.579065139
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "flour-wheat-whole-grain",
+			"name": "Flour, wheat, whole-grain",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.507210341,
+				"max": 0.507210341,
+				"avg": 0.507210341
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "fungi-cloud-ears-dried",
+			"name": "Fungi, Cloud ears, dried",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.11834908,
+				"max": 0.11834908,
+				"avg": 0.11834908
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "garlic-raw",
+			"name": "Garlic, raw",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.574838386,
+				"max": 0.574838386,
+				"avg": 0.574838386
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "gooseberries-raw",
+			"name": "Gooseberries, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.634012926,
+				"max": 0.634012926,
+				"avg": 0.634012926
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "grape-leaves-raw",
+			"name": "Grape leaves, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.05917454,
+				"max": 0.05917454,
+				"avg": 0.05917454
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "grapes-american-type-raw",
+			"name": "Grapes, american type, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.388861261,
+				"max": 0.388861261,
+				"avg": 0.388861261
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "grapes-red-or-green-european-type-raw",
+			"name": "Grapes, red or green (European type), raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.638239679,
+				"max": 0.638239679,
+				"avg": 0.638239679
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "groundcherries-cape-gooseberries-or-poha-raw",
+			"name": "Groundcherries, (cape-gooseberries or poha), raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.591745398,
+				"max": 0.591745398,
+				"avg": 0.591745398
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "guavas-common-raw",
+			"name": "Guavas, common, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.697414219,
+				"max": 0.697414219,
+				"avg": 0.697414219
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "guavas-strawberry-raw",
+			"name": "Guavas, strawberry, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 1.031327693,
+				"max": 1.031327693,
+				"avg": 1.031327693
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "hearts-of-palm-canned",
+			"name": "Hearts of palm, canned",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.617105915,
+				"max": 0.617105915,
+				"avg": 0.617105915
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "hominy-canned-white",
+			"name": "Hominy, canned, white",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.697414219,
+				"max": 0.697414219,
+				"avg": 0.697414219
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "hominy-canned-yellow",
+			"name": "Hominy, canned, yellow",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.676280454,
+				"max": 0.676280454,
+				"avg": 0.676280454
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "honey",
+			"name": "Honey",
+			"category": "Sweets",
+			"density": {
+				"min": 1.432869213,
+				"max": 1.432869213,
+				"avg": 1.432869213
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "horned-melon-kiwano",
+			"name": "Horned melon (Kiwano)",
+			"category": "Fruits",
+			"density": {
+				"min": 0.984833412,
+				"max": 0.984833412,
+				"avg": 0.984833412
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "hummus",
+			"name": "Hummus",
+			"category": "Legumes",
+			"density": {
+				"min": 1.039781199,
+				"max": 1.039781199,
+				"avg": 1.039781199
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "hyacinth-beans-mature-seeds-raw",
+			"name": "Hyacinth beans, mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.887618096,
+				"max": 0.887618096,
+				"avg": 0.887618096
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "hyacinth-beans-immature-seeds-raw",
+			"name": "Hyacinth-beans, immature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.338140227,
+				"max": 0.338140227,
+				"avg": 0.338140227
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "java-plum-jambolan-raw",
+			"name": "Java-plum, (jambolan), raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.570611633,
+				"max": 0.570611633,
+				"avg": 0.570611633
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "jellyfish-dried-salted",
+			"name": "Jellyfish, dried, salted",
+			"category": "Meats and seafood",
+			"density": {
+				"min": 0.245151665,
+				"max": 0.245151665,
+				"avg": 0.245151665
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "jute-potherb-raw",
+			"name": "Jute, potherb, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.11834908,
+				"max": 0.11834908,
+				"avg": 0.11834908
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "kamut-cooked",
+			"name": "Kamut, cooked",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.727001488,
+				"max": 0.727001488,
+				"avg": 0.727001488
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "kamut-uncooked",
+			"name": "Kamut, uncooked",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.786176028,
+				"max": 0.786176028,
+				"avg": 0.786176028
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "kanpyo-dried-gourd-strips",
+			"name": "Kanpyo, (dried gourd strips)",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.228244653,
+				"max": 0.228244653,
+				"avg": 0.228244653
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "kohlrabi-raw",
+			"name": "Kohlrabi, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.570611633,
+				"max": 0.570611633,
+				"avg": 0.570611633
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lard",
+			"name": "Lard",
+			"category": "Fats and oils",
+			"density": {
+				"min": 0.866484332,
+				"max": 0.866484332,
+				"avg": 0.866484332
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "leeks-bulb-and-lower-leaf-portion-raw",
+			"name": "Leeks, (bulb and lower leaf-portion), raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.376181003,
+				"max": 0.376181003,
+				"avg": 0.376181003
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "leeks-bulb-and-lower-leaf-portion-freeze-dried",
+			"name": "Leeks, (bulb and lower-leaf portion), freeze-dried",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.013525609,
+				"max": 0.013525609,
+				"avg": 0.013525609
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lemon-grass-citronella-raw",
+			"name": "Lemon grass (citronella), raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.28319244,
+				"max": 0.28319244,
+				"avg": 0.28319244
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lemon-juice",
+			"name": "Lemon juice",
+			"category": "Fruits",
+			"density": {
+				"min": 1.031327693,
+				"max": 1.031327693,
+				"avg": 1.031327693
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lentils-raw",
+			"name": "Lentils, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.811536545,
+				"max": 0.811536545,
+				"avg": 0.811536545
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lentils-sprouted-raw",
+			"name": "Lentils, sprouted, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.325459969,
+				"max": 0.325459969,
+				"avg": 0.325459969
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lima-beans-immature-frozen-baby-unprepared",
+			"name": "Lima beans, immature, frozen, baby, unprepared",
+			"category": "Legumes",
+			"density": {
+				"min": 0.693187466,
+				"max": 0.693187466,
+				"avg": 0.693187466
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lima-beans-immature-frozen-fordhook-unprepared",
+			"name": "Lima beans, immature, frozen, fordhook, unprepared",
+			"category": "Legumes",
+			"density": {
+				"min": 0.676280454,
+				"max": 0.676280454,
+				"avg": 0.676280454
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lima-beans-immature-raw",
+			"name": "Lima beans, immature, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.659373443,
+				"max": 0.659373443,
+				"avg": 0.659373443
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lima-beans-large-seeds-raw",
+			"name": "Lima beans, large seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.752362006,
+				"max": 0.752362006,
+				"avg": 0.752362006
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lima-beans-thin-seeded-baby-mature-seeds-raw",
+			"name": "Lima beans, thin seeded (baby), mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.853804074,
+				"max": 0.853804074,
+				"avg": 0.853804074
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lime-juice",
+			"name": "Lime juice",
+			"category": "Fruits",
+			"density": {
+				"min": 1.022874187,
+				"max": 1.022874187,
+				"avg": 1.022874187
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "litchis-raw",
+			"name": "Litchis, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.80308304,
+				"max": 0.80308304,
+				"avg": 0.80308304
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "lupins-mature-seeds-raw",
+			"name": "Lupins, mature seeds, raw",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.760815511,
+				"max": 0.760815511,
+				"avg": 0.760815511
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mango-nectar-canned",
+			"name": "Mango nectar, canned",
+			"category": "Fruits",
+			"density": {
+				"min": 1.060914963,
+				"max": 1.060914963,
+				"avg": 1.060914963
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mangosteen-canned-syrup-pack",
+			"name": "Mangosteen, canned, syrup pack",
+			"category": "Sweets",
+			"density": {
+				"min": 0.912978613,
+				"max": 0.912978613,
+				"avg": 0.912978613
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "margarine",
+			"name": "Margarine",
+			"category": "Fats and oils",
+			"density": {
+				"min": 0.959472895,
+				"max": 0.959472895,
+				"avg": 0.959472895
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "marmalade-orange",
+			"name": "Marmalade, orange",
+			"category": "Sweets",
+			"density": {
+				"min": 1.352560909,
+				"max": 1.352560909,
+				"avg": 1.352560909
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mayonnaise-dressing",
+			"name": "Mayonnaise dressing",
+			"category": "Condiments",
+			"density": {
+				"min": 1.010193929,
+				"max": 1.010193929,
+				"avg": 1.010193929
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-1-milkfat",
+			"name": "Milk, 1% milkfat",
+			"category": "Dairy",
+			"density": {
+				"min": 1.039781199,
+				"max": 1.039781199,
+				"avg": 1.039781199
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-2-milkfat",
+			"name": "Milk, 2% milkfat",
+			"category": "Dairy",
+			"density": {
+				"min": 1.039781199,
+				"max": 1.039781199,
+				"avg": 1.039781199
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-buttermilk-dried",
+			"name": "Milk, buttermilk, dried",
+			"category": "Dairy",
+			"density": {
+				"min": 0.507210341,
+				"max": 0.507210341,
+				"avg": 0.507210341
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-buttermilk-fluid",
+			"name": "Milk, buttermilk, fluid",
+			"category": "Dairy",
+			"density": {
+				"min": 1.035554446,
+				"max": 1.035554446,
+				"avg": 1.035554446
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-canned-condensed",
+			"name": "Milk, canned, condensed",
+			"category": "Dairy",
+			"density": {
+				"min": 1.293386369,
+				"max": 1.293386369,
+				"avg": 1.293386369
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-canned-evaporated",
+			"name": "Milk, canned, evaporated",
+			"category": "Dairy",
+			"density": {
+				"min": 1.065141716,
+				"max": 1.065141716,
+				"avg": 1.065141716
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-dry-instant",
+			"name": "Milk, dry, instant",
+			"category": "Dairy",
+			"density": {
+				"min": 0.287419193,
+				"max": 0.287419193,
+				"avg": 0.287419193
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-dry-nonfat-regular",
+			"name": "Milk, dry, nonfat, regular",
+			"category": "Dairy",
+			"density": {
+				"min": 0.507210341,
+				"max": 0.507210341,
+				"avg": 0.507210341
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-dry-whole",
+			"name": "Milk, dry, whole",
+			"category": "Dairy",
+			"density": {
+				"min": 0.541024364,
+				"max": 0.541024364,
+				"avg": 0.541024364
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-goat",
+			"name": "Milk, goat",
+			"category": "Dairy",
+			"density": {
+				"min": 1.031327693,
+				"max": 1.031327693,
+				"avg": 1.031327693
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-nonfat",
+			"name": "Milk, nonfat",
+			"category": "Dairy",
+			"density": {
+				"min": 1.039781199,
+				"max": 1.039781199,
+				"avg": 1.039781199
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-sheep",
+			"name": "Milk, sheep",
+			"category": "Dairy",
+			"density": {
+				"min": 1.035554446,
+				"max": 1.035554446,
+				"avg": 1.035554446
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "milk-whole",
+			"name": "Milk, whole",
+			"category": "Dairy",
+			"density": {
+				"min": 1.031327693,
+				"max": 1.031327693,
+				"avg": 1.031327693
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "millet-flour",
+			"name": "Millet flour",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.502983588,
+				"max": 0.502983588,
+				"avg": 0.502983588
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "millet-cooked",
+			"name": "Millet, cooked",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.735454994,
+				"max": 0.735454994,
+				"avg": 0.735454994
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "millet-puffed",
+			"name": "Millet, puffed",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.08876181,
+				"max": 0.08876181,
+				"avg": 0.08876181
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "millet-raw",
+			"name": "Millet, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.845350568,
+				"max": 0.845350568,
+				"avg": 0.845350568
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "miso",
+			"name": "Miso",
+			"category": "Condiments",
+			"density": {
+				"min": 1.162357031,
+				"max": 1.162357031,
+				"avg": 1.162357031
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "molasses",
+			"name": "Molasses",
+			"category": "Sweets",
+			"density": {
+				"min": 1.352,
+				"max": 1.352,
+				"avg": 1.352
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mollusks-mussel-blue-raw",
+			"name": "Mollusks, mussel, blue, raw",
+			"category": "Meats and seafood",
+			"density": {
+				"min": 0.634012926,
+				"max": 0.634012926,
+				"avg": 0.634012926
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mollusks-oyster-eastern-wild-raw",
+			"name": "Mollusks, oyster, eastern, wild, raw",
+			"category": "Meats and seafood",
+			"density": {
+				"min": 1.048234704,
+				"max": 1.048234704,
+				"avg": 1.048234704
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mothbeans-mature-seeds-raw",
+			"name": "Mothbeans, mature seeds, raw",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.828443557,
+				"max": 0.828443557,
+				"avg": 0.828443557
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mulberries-raw",
+			"name": "Mulberries, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.591745398,
+				"max": 0.591745398,
+				"avg": 0.591745398
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mung-beans-mature-seeds-raw",
+			"name": "Mung beans, mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.874937838,
+				"max": 0.874937838,
+				"avg": 0.874937838
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mung-beans-mature-seeds-sprouted-raw",
+			"name": "Mung beans, mature seeds, sprouted, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.439582295,
+				"max": 0.439582295,
+				"avg": 0.439582295
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mungo-beans-mature-seeds-raw",
+			"name": "Mungo beans, mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.874937838,
+				"max": 0.874937838,
+				"avg": 0.874937838
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mushrooms-chanterelle-raw",
+			"name": "Mushrooms, Chanterelle, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.228244653,
+				"max": 0.228244653,
+				"avg": 0.228244653
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mushrooms-morel-raw",
+			"name": "Mushrooms, morel, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.278965687,
+				"max": 0.278965687,
+				"avg": 0.278965687
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "mustard-prepared-yellow",
+			"name": "Mustard, prepared, yellow",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 1.052461457,
+				"max": 1.052461457,
+				"avg": 1.052461457
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "natto",
+			"name": "Natto",
+			"category": "Legumes",
+			"density": {
+				"min": 0.739681747,
+				"max": 0.739681747,
+				"avg": 0.739681747
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "noodles-chinese-chow-mein",
+			"name": "Noodles, chinese, chow mein",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.190203878,
+				"max": 0.190203878,
+				"avg": 0.190203878
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "noodles-egg-dry",
+			"name": "Noodles, egg, dry",
+			"category": "Eggs",
+			"density": {
+				"min": 0.160616608,
+				"max": 0.160616608,
+				"avg": 0.160616608
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "noodles-flat-crunchy-chinese-restaurant",
+			"name": "Noodles, flat, crunchy, Chinese restaurant",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.190203878,
+				"max": 0.190203878,
+				"avg": 0.190203878
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-almonds-ground",
+			"name": "Nuts, almonds, ground",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.4015415198,
+				"max": 0.4015415198,
+				"avg": 0.4015415198
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-almonds-sliced",
+			"name": "Nuts, almonds, sliced",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.38886126128,
+				"max": 0.38886126128,
+				"avg": 0.38886126128
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-almonds-slivered",
+			"name": "Nuts, almonds, slivered",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.45648930672,
+				"max": 0.45648930672,
+				"avg": 0.45648930672
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-almonds-whole",
+			"name": "Nuts, almonds, whole",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.60442565612,
+				"max": 0.60442565612,
+				"avg": 0.60442565612
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-almond-butter",
+			"name": "Nuts, almond butter",
+			"category": "Dairy",
+			"density": {
+				"min": 1.05668821,
+				"max": 1.05668821,
+				"avg": 1.05668821
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-butternuts-dried",
+			"name": "Nuts, butternuts, dried",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.507210341,
+				"max": 0.507210341,
+				"avg": 0.507210341
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-chestnuts-european-raw-unpeeled",
+			"name": "Nuts, chestnuts, european, raw, unpeeled",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.612879162,
+				"max": 0.612879162,
+				"avg": 0.612879162
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-chestnuts-japanese-dried",
+			"name": "Nuts, chestnuts, japanese, dried",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.65514669,
+				"max": 0.65514669,
+				"avg": 0.65514669
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-hickorynuts-dried",
+			"name": "Nuts, hickorynuts, dried",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.507210341,
+				"max": 0.507210341,
+				"avg": 0.507210341
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-mixed-nuts-dry-roasted",
+			"name": "Nuts, mixed nuts, dry roasted",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.579065139,
+				"max": 0.579065139,
+				"avg": 0.579065139
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-pecans-oil-roasted",
+			"name": "Nuts, pecans, oil roasted",
+			"category": "Fats and oils",
+			"density": {
+				"min": 0.464942812,
+				"max": 0.464942812,
+				"avg": 0.464942812
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-pilinuts-dried",
+			"name": "Nuts, pilinuts, dried",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.507210341,
+				"max": 0.507210341,
+				"avg": 0.507210341
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-pine-nuts-dried",
+			"name": "Nuts, pine nuts, dried",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.570611633,
+				"max": 0.570611633,
+				"avg": 0.570611633
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "nuts-pistachio-nuts",
+			"name": "Nuts, pistachio nuts",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.519890599,
+				"max": 0.519890599,
+				"avg": 0.519890599
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "oat-bran-raw",
+			"name": "Oat bran, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.397314767,
+				"max": 0.397314767,
+				"avg": 0.397314767
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "oats",
+			"name": "Oats",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.659373443,
+				"max": 0.659373443,
+				"avg": 0.659373443
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "oheloberries-raw",
+			"name": "Oheloberries, raw",
+			"category": "Uncategorized",
+			"density": {
+				"min": 0.591745398,
+				"max": 0.591745398,
+				"avg": 0.591745398
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "oil-almond-coconut-cottonseed-flaxseed",
+			"name": "Oil, almond, coconut, cottonseed, flaxseed",
+			"category": "Fats and oils",
+			"density": {
+				"min": 0.921432119,
+				"max": 0.921432119,
+				"avg": 0.921432119
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "oil-corn-and-canola",
+			"name": "Oil, corn and canola",
+			"category": "Fats and oils",
+			"density": {
+				"min": 0.946792636,
+				"max": 0.946792636,
+				"avg": 0.946792636
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "oil-mustard-nutmeg-oat-hazelnut-grapeseed",
+			"name": "Oil, mustard, nutmeg, oat, hazelnut, grapeseed",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.921432119,
+				"max": 0.921432119,
+				"avg": 0.921432119
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "oil-olive-palm-peanut",
+			"name": "Oil, olive, palm, peanut",
+			"category": "Fats and oils",
+			"density": {
+				"min": 0.912978613,
+				"max": 0.912978613,
+				"avg": 0.912978613
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "okra-raw",
+			"name": "Okra, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.422675284,
+				"max": 0.422675284,
+				"avg": 0.422675284
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "onions-dehydrated-flakes",
+			"name": "Onions, dehydrated flakes",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.236698159,
+				"max": 0.236698159,
+				"avg": 0.236698159
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "orange-juice-raw",
+			"name": "Orange juice, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 1.048234704,
+				"max": 1.048234704,
+				"avg": 1.048234704
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "oranges-raw-with-peel",
+			"name": "Oranges, raw, with peel",
+			"category": "Fruits",
+			"density": {
+				"min": 0.718547983,
+				"max": 0.718547983,
+				"avg": 0.718547983
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "peaches-dehydrated-low-moisture-uncooked",
+			"name": "Peaches, dehydrated (low-moisture), uncooked",
+			"category": "Fruits",
+			"density": {
+				"min": 0.490303329,
+				"max": 0.490303329,
+				"avg": 0.490303329
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "peanut-butter",
+			"name": "Peanut butter",
+			"category": "Dairy",
+			"density": {
+				"min": 1.090502233,
+				"max": 1.090502233,
+				"avg": 1.090502233
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "peanuts-all-types-raw",
+			"name": "Peanuts, all types, raw",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.617105915,
+				"max": 0.617105915,
+				"avg": 0.617105915
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "pears-canned-heavy-syrup-drained",
+			"name": "Pears, canned, heavy syrup, drained",
+			"category": "Sweets",
+			"density": {
+				"min": 0.849577321,
+				"max": 0.849577321,
+				"avg": 0.849577321
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "peas-green-raw",
+			"name": "Peas, green, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.612879162,
+				"max": 0.612879162,
+				"avg": 0.612879162
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "peas-mature-seeds-sprouted-raw",
+			"name": "Peas, mature seeds, sprouted, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.507210341,
+				"max": 0.507210341,
+				"avg": 0.507210341
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "peas-split-mature-seeds-raw",
+			"name": "Peas, split, mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.832670309,
+				"max": 0.832670309,
+				"avg": 0.832670309
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "pepeao-dried",
+			"name": "Pepeao, dried",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.101442068,
+				"max": 0.101442068,
+				"avg": 0.101442068
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "pepper-banana-raw",
+			"name": "Pepper, banana, raw",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.524117352,
+				"max": 0.524117352,
+				"avg": 0.524117352
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "plums-wild-northern-plains-indians",
+			"name": "Plums, wild (Northern Plains Indians)",
+			"category": "Fruits",
+			"density": {
+				"min": 0.680507207,
+				"max": 0.680507207,
+				"avg": 0.680507207
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "poi",
+			"name": "Poi",
+			"category": "Condiments",
+			"density": {
+				"min": 1.014420682,
+				"max": 1.014420682,
+				"avg": 1.014420682
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "pokeberry-shoots-poke-raw",
+			"name": "Pokeberry shoots, (poke), raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.676280454,
+				"max": 0.676280454,
+				"avg": 0.676280454
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "prickly-pears-raw",
+			"name": "Prickly pears, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.629786173,
+				"max": 0.629786173,
+				"avg": 0.629786173
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "prunes-dehydrated-low-moisture-uncooked",
+			"name": "Prunes, dehydrated (low-moisture), uncooked",
+			"category": "Fruits",
+			"density": {
+				"min": 0.557931375,
+				"max": 0.557931375,
+				"avg": 0.557931375
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "pumpkin-leaves-raw",
+			"name": "Pumpkin leaves, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.164843361,
+				"max": 0.164843361,
+				"avg": 0.164843361
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "pumpkin-pie-mix-canned",
+			"name": "Pumpkin pie mix, canned",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.141223267,
+				"max": 1.141223267,
+				"avg": 1.141223267
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "pumpkin-canned",
+			"name": "Pumpkin, canned",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.035554446,
+				"max": 1.035554446,
+				"avg": 1.035554446
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "purslane-raw",
+			"name": "Purslane, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.181750372,
+				"max": 0.181750372,
+				"avg": 0.181750372
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "quinoa-uncooked",
+			"name": "Quinoa, uncooked",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.718547983,
+				"max": 0.718547983,
+				"avg": 0.718547983
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "radish-seeds-sprouted-raw",
+			"name": "Radish seeds, sprouted, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.160616608,
+				"max": 0.160616608,
+				"avg": 0.160616608
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "raspberries-raw",
+			"name": "Raspberries, raw",
+			"category": "Fruits",
+			"density": {
+				"min": 0.519890599,
+				"max": 0.519890599,
+				"avg": 0.519890599
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "raspberries-wild-northern-plains-indians",
+			"name": "Raspberries, wild (Northern Plains Indians)",
+			"category": "Fruits",
+			"density": {
+				"min": 0.549477869,
+				"max": 0.549477869,
+				"avg": 0.549477869
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "reddi-wip-fat-free-whipped-topping",
+			"name": "Reddi Wip Fat Free Whipped Topping",
+			"category": "Dairy",
+			"density": {
+				"min": 0.317006463,
+				"max": 0.317006463,
+				"avg": 0.317006463
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "rice-bran-crude",
+			"name": "Rice bran, crude",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.498756835,
+				"max": 0.498756835,
+				"avg": 0.498756835
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "rice-brown-long-grain-raw",
+			"name": "Rice, brown, long-grain, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.781949275,
+				"max": 0.781949275,
+				"avg": 0.781949275
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "rice-brown-medium-grain-raw",
+			"name": "Rice, brown, medium-grain, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.80308304,
+				"max": 0.80308304,
+				"avg": 0.80308304
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "rice-white-raw",
+			"name": "Rice, white, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.781949275,
+				"max": 0.781949275,
+				"avg": 0.781949275
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "rice-wild-raw",
+			"name": "Rice, wild, raw",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.676280454,
+				"max": 0.676280454,
+				"avg": 0.676280454
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "rose-hips-wild-northern-plains-indians",
+			"name": "Rose Hips, wild (Northern Plains Indians)",
+			"category": "Fruits",
+			"density": {
+				"min": 0.536797611,
+				"max": 0.536797611,
+				"avg": 0.536797611
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "rowal-raw",
+			"name": "Rowal, raw",
+			"category": "Uncategorized",
+			"density": {
+				"min": 0.963699648,
+				"max": 0.963699648,
+				"avg": 0.963699648
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "rye",
+			"name": "Rye",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.71432123,
+				"max": 0.71432123,
+				"avg": 0.71432123
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "salt-table",
+			"name": "Salt, table",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 1.234211829,
+				"max": 1.234211829,
+				"avg": 1.234211829
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "sauerkraut-canned-solids-and-liquids",
+			"name": "Sauerkraut, canned, solids and liquids",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.600198903,
+				"max": 0.600198903,
+				"avg": 0.600198903
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "seaweed-spirulina-dried",
+			"name": "Seaweed, spirulina, dried",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.473396318,
+				"max": 0.473396318,
+				"avg": 0.473396318
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "seeds-breadnut-tree-seeds-dried",
+			"name": "Seeds, breadnut tree seeds, dried",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.676280454,
+				"max": 0.676280454,
+				"avg": 0.676280454
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "seeds-cottonseed-flour-partially-defatted-glandless",
+			"name": "Seeds, cottonseed flour, partially defatted (glandless)",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.397314767,
+				"max": 0.397314767,
+				"avg": 0.397314767
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "seeds-lotus-seeds-dried",
+			"name": "Seeds, lotus seeds, dried",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.135256091,
+				"max": 0.135256091,
+				"avg": 0.135256091
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "seeds-pumpkin-and-squash-seed-kernels-dried",
+			"name": "Seeds, pumpkin and squash seed kernels, dried",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.545251116,
+				"max": 0.545251116,
+				"avg": 0.545251116
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "seeds-sesame-seeds-whole-dried",
+			"name": "Seeds, sesame seeds, whole, dried",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.608652409,
+				"max": 0.608652409,
+				"avg": 0.608652409
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "seeds-sisymbrium-sp-seeds-whole-dried",
+			"name": "Seeds, sisymbrium sp. seeds, whole, dried",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.31277971,
+				"max": 0.31277971,
+				"avg": 0.31277971
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "seeds-sunflower-seed-flour-partially-defatted",
+			"name": "Seeds, sunflower seed flour, partially defatted",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.270512182,
+				"max": 0.270512182,
+				"avg": 0.270512182
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "seeds-sunflower-seed-kernels-dried",
+			"name": "Seeds, sunflower seed kernels, dried",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.591745398,
+				"max": 0.591745398,
+				"avg": 0.591745398
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "seeds-watermelon-seed-kernels-dried",
+			"name": "Seeds, watermelon seed kernels, dried",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.456489307,
+				"max": 0.456489307,
+				"avg": 0.456489307
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "semolina",
+			"name": "Semolina",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.705867724,
+				"max": 0.705867724,
+				"avg": 0.705867724
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "shallots-freeze-dried",
+			"name": "Shallots, freeze-dried",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.060865241,
+				"max": 0.060865241,
+				"avg": 0.060865241
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "shortening-vegetable-household",
+			"name": "Shortening, vegetable, household",
+			"category": "Fats and oils",
+			"density": {
+				"min": 0.866484332,
+				"max": 0.866484332,
+				"avg": 0.866484332
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "sorghum",
+			"name": "Sorghum",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.811536545,
+				"max": 0.811536545,
+				"avg": 0.811536545
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "sour-cream",
+			"name": "Sour cream",
+			"category": "Dairy",
+			"density": {
+				"min": 0.972153153,
+				"max": 0.972153153,
+				"avg": 0.972153153
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "soy-meal-defatted-raw",
+			"name": "Soy meal, defatted, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.515663846,
+				"max": 0.515663846,
+				"avg": 0.515663846
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "soybeans-green-raw",
+			"name": "Soybeans, green, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 1.082048727,
+				"max": 1.082048727,
+				"avg": 1.082048727
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "soybeans-mature-seeds-raw",
+			"name": "Soybeans, mature seeds, raw",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.786176028,
+				"max": 0.786176028,
+				"avg": 0.786176028
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "soybeans-mature-seeds-sprouted-raw",
+			"name": "Soybeans, mature seeds, sprouted, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.295872699,
+				"max": 0.295872699,
+				"avg": 0.295872699
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "soymilk-all-flavors",
+			"name": "Soymilk (All flavors)",
+			"category": "Dairy",
+			"density": {
+				"min": 1.02710094,
+				"max": 1.02710094,
+				"avg": 1.02710094
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "soymilk-all-flavors-enhanced",
+			"name": "Soymilk (All flavors), enhanced",
+			"category": "Dairy",
+			"density": {
+				"min": 1.02710094,
+				"max": 1.02710094,
+				"avg": 1.02710094
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "spelt-uncooked",
+			"name": "Spelt, uncooked",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.735454994,
+				"max": 0.735454994,
+				"avg": 0.735454994
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "spinach-raw",
+			"name": "Spinach, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.126802585,
+				"max": 0.126802585,
+				"avg": 0.126802585
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "succotash-corn-and-limas-frozen-unprepared",
+			"name": "Succotash, (corn and limas), frozen, unprepared",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.659373443,
+				"max": 0.659373443,
+				"avg": 0.659373443
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "sugar-granulated",
+			"name": "Sugar, granulated",
+			"category": "Sweets",
+			"density": {
+				"min": 0.845350568,
+				"max": 0.845350568,
+				"avg": 0.845350568
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "sugar-powdered-unsifted",
+			"name": "Sugar, powdered, unsifted",
+			"category": "Sweets",
+			"density": {
+				"min": 0.5072103408,
+				"max": 0.5072103408,
+				"avg": 0.5072103408
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "sugar-powdered-sifted",
+			"name": "Sugar, powdered, sifted",
+			"category": "Sweets",
+			"density": {
+				"min": 0.422675284,
+				"max": 0.422675284,
+				"avg": 0.422675284
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "sugar-turbinado",
+			"name": "Sugar, turbinado",
+			"category": "Sweets",
+			"density": {
+				"min": 0.853804074,
+				"max": 0.853804074,
+				"avg": 0.853804074
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "sweeteners-brown-contains-sugar-and-sucralose",
+			"name": "Sweeteners, brown, contains sugar and sucralose",
+			"category": "Sweets",
+			"density": {
+				"min": 0.798856287,
+				"max": 0.798856287,
+				"avg": 0.798856287
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "sweeteners-contains-sugar-and-sucralose",
+			"name": "Sweeteners, contains sugar and sucralose",
+			"category": "Sweets",
+			"density": {
+				"min": 0.853804074,
+				"max": 0.853804074,
+				"avg": 0.853804074
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "sweeteners-tabletop-fructose-dry-powder",
+			"name": "Sweeteners, tabletop, fructose, dry, powder",
+			"category": "Sweets",
+			"density": {
+				"min": 0.828443557,
+				"max": 0.828443557,
+				"avg": 0.828443557
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-chocolate-fudge-type",
+			"name": "Syrups, chocolate, fudge-type",
+			"category": "Sweets",
+			"density": {
+				"min": 1.284932863,
+				"max": 1.284932863,
+				"avg": 1.284932863
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-corn-dark",
+			"name": "Syrups, corn, dark",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.386374932,
+				"max": 1.386374932,
+				"avg": 1.386374932
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-corn-high-fructose",
+			"name": "Syrups, corn, high-fructose",
+			"category": "Sweets",
+			"density": {
+				"min": 1.31029338,
+				"max": 1.31029338,
+				"avg": 1.31029338
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-corn-light",
+			"name": "Syrups, corn, light",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.441322718,
+				"max": 1.441322718,
+				"avg": 1.441322718
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-dietetic",
+			"name": "Syrups, dietetic",
+			"category": "Sweets",
+			"density": {
+				"min": 1.014420682,
+				"max": 1.014420682,
+				"avg": 1.014420682
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-malt",
+			"name": "Syrups, malt",
+			"category": "Sweets",
+			"density": {
+				"min": 1.403281943,
+				"max": 1.403281943,
+				"avg": 1.403281943
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-maple",
+			"name": "Syrups, maple",
+			"category": "Sweets",
+			"density": {
+				"min": 1.331427145,
+				"max": 1.331427145,
+				"avg": 1.331427145
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-sorghum",
+			"name": "Syrups, sorghum",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 1.394828437,
+				"max": 1.394828437,
+				"avg": 1.394828437
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-table-blends-cane-and-15-maple",
+			"name": "Syrups, table blends, cane and 15% maple",
+			"category": "Sweets",
+			"density": {
+				"min": 1.331427145,
+				"max": 1.331427145,
+				"avg": 1.331427145
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-table-blends-corn-refiner-and-sugar",
+			"name": "Syrups, table blends, corn, refiner, and sugar",
+			"category": "Sweets",
+			"density": {
+				"min": 1.335653897,
+				"max": 1.335653897,
+				"avg": 1.335653897
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-table-blends-pancake",
+			"name": "Syrups, table blends, pancake",
+			"category": "Baked goods",
+			"density": {
+				"min": 1.327200392,
+				"max": 1.327200392,
+				"avg": 1.327200392
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-table-blends-pancake-reduced-calorie",
+			"name": "Syrups, table blends, pancake, reduced-calorie",
+			"category": "Baked goods",
+			"density": {
+				"min": 1.014420682,
+				"max": 1.014420682,
+				"avg": 1.014420682
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-table-blends-pancake-with-2-maple",
+			"name": "Syrups, table blends, pancake, with 2% maple",
+			"category": "Baked goods",
+			"density": {
+				"min": 1.331427145,
+				"max": 1.331427145,
+				"avg": 1.331427145
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "syrups-table-blends-pancake-with-butter",
+			"name": "Syrups, table blends, pancake, with butter",
+			"category": "Dairy",
+			"density": {
+				"min": 1.331427145,
+				"max": 1.331427145,
+				"avg": 1.331427145
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tangerine-juice-raw",
+			"name": "Tangerine juice, raw",
+			"category": "Beverages",
+			"density": {
+				"min": 1.044007951,
+				"max": 1.044007951,
+				"avg": 1.044007951
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tapioca-pearl-dry",
+			"name": "Tapioca, pearl, dry",
+			"category": "Baking ingredients",
+			"density": {
+				"min": 0.642466432,
+				"max": 0.642466432,
+				"avg": 0.642466432
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "taro-leaves-raw",
+			"name": "Taro leaves, raw",
+			"category": "Root vegetables and tubers",
+			"density": {
+				"min": 0.11834908,
+				"max": 0.11834908,
+				"avg": 0.11834908
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "teff-uncooked",
+			"name": "Teff, uncooked",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.815763298,
+				"max": 0.815763298,
+				"avg": 0.815763298
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tempeh",
+			"name": "Tempeh",
+			"category": "Legumes",
+			"density": {
+				"min": 0.701640971,
+				"max": 0.701640971,
+				"avg": 0.701640971
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tofu-yogurt",
+			"name": "Tofu yogurt",
+			"category": "Dairy",
+			"density": {
+				"min": 1.107409244,
+				"max": 1.107409244,
+				"avg": 1.107409244
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tofu-firm",
+			"name": "Tofu, firm",
+			"category": "Legumes",
+			"density": {
+				"min": 1.065141716,
+				"max": 1.065141716,
+				"avg": 1.065141716
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tofu-okara",
+			"name": "Tofu, okara",
+			"category": "Legumes",
+			"density": {
+				"min": 0.515663846,
+				"max": 0.515663846,
+				"avg": 0.515663846
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tofu-raw-firm",
+			"name": "Tofu, raw, firm",
+			"category": "Legumes",
+			"density": {
+				"min": 1.065141716,
+				"max": 1.065141716,
+				"avg": 1.065141716
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tofu-raw-regular",
+			"name": "Tofu, raw, regular",
+			"category": "Legumes",
+			"density": {
+				"min": 1.048234704,
+				"max": 1.048234704,
+				"avg": 1.048234704
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tomato-and-vegetable-juice",
+			"name": "Tomato and vegetable juice",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.022874187,
+				"max": 1.022874187,
+				"avg": 1.022874187
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tomato-products-canned-paste",
+			"name": "Tomato products, canned, paste",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.107409244,
+				"max": 1.107409244,
+				"avg": 1.107409244
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tomato-products-canned-puree",
+			"name": "Tomato products, canned, puree",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.05668821,
+				"max": 1.05668821,
+				"avg": 1.05668821
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tomato-products-canned-sauce",
+			"name": "Tomato products, canned, sauce",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.035554446,
+				"max": 1.035554446,
+				"avg": 1.035554446
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tomato-sauce",
+			"name": "Tomato sauce",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.035554446,
+				"max": 1.035554446,
+				"avg": 1.035554446
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tomatoes-green-raw",
+			"name": "Tomatoes, green, raw",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.760815511,
+				"max": 0.760815511,
+				"avg": 0.760815511
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tomatoes-red-ripe-canned-packed-in-tomato-juice",
+			"name": "Tomatoes, red, ripe, canned, packed in tomato juice",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.014420682,
+				"max": 1.014420682,
+				"avg": 1.014420682
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tomatoes-red-ripe-canned-stewed",
+			"name": "Tomatoes, red, ripe, canned, stewed",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.077821974,
+				"max": 1.077821974,
+				"avg": 1.077821974
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tomatoes-red-ripe-cooked",
+			"name": "Tomatoes, red, ripe, cooked",
+			"category": "Vegetables",
+			"density": {
+				"min": 1.014420682,
+				"max": 1.014420682,
+				"avg": 1.014420682
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tomatoes-sun-dried",
+			"name": "Tomatoes, sun-dried",
+			"category": "Vegetables",
+			"density": {
+				"min": 0.228244653,
+				"max": 0.228244653,
+				"avg": 0.228244653
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "tomatoes-sun-dried-packed-in-oil-drained",
+			"name": "Tomatoes, sun-dried, packed in oil, drained",
+			"category": "Fats and oils",
+			"density": {
+				"min": 0.464942812,
+				"max": 0.464942812,
+				"avg": 0.464942812
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "trail-mix-regular",
+			"name": "trail mix, regular",
+			"category": "Nuts and seeds",
+			"density": {
+				"min": 0.634012926,
+				"max": 0.634012926,
+				"avg": 0.634012926
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "triticale",
+			"name": "Triticale",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.811536545,
+				"max": 0.811536545,
+				"avg": 0.811536545
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "vanilla-extract",
+			"name": "Vanilla extract",
+			"category": "Herbs and spices",
+			"density": {
+				"min": 0.879164591,
+				"max": 0.879164591,
+				"avg": 0.879164591
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "vegetable-oil-palm-kernel",
+			"name": "Vegetable oil, palm kernel",
+			"category": "Fats and oils",
+			"density": {
+				"min": 0.921432119,
+				"max": 0.921432119,
+				"avg": 0.921432119
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "vermicelli-made-from-soy",
+			"name": "Vermicelli, made from soy",
+			"category": "Legumes",
+			"density": {
+				"min": 0.591745398,
+				"max": 0.591745398,
+				"avg": 0.591745398
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "vinegar-balsamic",
+			"name": "Vinegar, balsamic",
+			"category": "Condiments",
+			"density": {
+				"min": 1.077821974,
+				"max": 1.077821974,
+				"avg": 1.077821974
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "vinegar-cider",
+			"name": "Vinegar, cider",
+			"category": "Condiments",
+			"density": {
+				"min": 1.010193929,
+				"max": 1.010193929,
+				"avg": 1.010193929
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "vinegar-distilled",
+			"name": "Vinegar, distilled",
+			"category": "Condiments",
+			"density": {
+				"min": 1.005967176,
+				"max": 1.005967176,
+				"avg": 1.005967176
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "vinegar-red-wine",
+			"name": "Vinegar, red wine",
+			"category": "Condiments",
+			"density": {
+				"min": 1.010193929,
+				"max": 1.010193929,
+				"avg": 1.010193929
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "water-bottled-generic",
+			"name": "Water, bottled, generic",
+			"category": "Beverages",
+			"density": {
+				"min": 1.001740423,
+				"max": 1.001740423,
+				"avg": 1.001740423
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "wheat-bran-crude",
+			"name": "Wheat bran, crude",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.245151665,
+				"max": 0.245151665,
+				"avg": 0.245151665
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "wheat-germ-crude",
+			"name": "Wheat germ, crude",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.486076577,
+				"max": 0.486076577,
+				"avg": 0.486076577
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "wheat-durum-hard-red-hard-white",
+			"name": "Wheat, durum, hard red, hard white",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.811536545,
+				"max": 0.811536545,
+				"avg": 0.811536545
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "wheat-soft-red-winter-soft-white",
+			"name": "Wheat, soft red winter, soft white",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.710094477,
+				"max": 0.710094477,
+				"avg": 0.710094477
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "wheat-sprouted",
+			"name": "Wheat, sprouted",
+			"category": "Grains and cereals",
+			"density": {
+				"min": 0.456489307,
+				"max": 0.456489307,
+				"avg": 0.456489307
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "whey-acid-dried",
+			"name": "Whey, acid, dried",
+			"category": "Dairy",
+			"density": {
+				"min": 0.240924912,
+				"max": 0.240924912,
+				"avg": 0.240924912
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "whey-acid-fluid",
+			"name": "Whey, acid, fluid",
+			"category": "Dairy",
+			"density": {
+				"min": 1.039781199,
+				"max": 1.039781199,
+				"avg": 1.039781199
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "whey-sweet-dried",
+			"name": "Whey, sweet, dried",
+			"category": "Dairy",
+			"density": {
+				"min": 0.612879162,
+				"max": 0.612879162,
+				"avg": 0.612879162
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "whey-sweet-fluid",
+			"name": "Whey, sweet, fluid",
+			"category": "Dairy",
+			"density": {
+				"min": 1.039781199,
+				"max": 1.039781199,
+				"avg": 1.039781199
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "winged-beans-mature-seeds-raw",
+			"name": "Winged beans, mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.769269017,
+				"max": 0.769269017,
+				"avg": 0.769269017
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "yambean-jicama-raw",
+			"name": "Yambean (jicama), raw",
+			"category": "Root vegetables and tubers",
+			"density": {
+				"min": 0.549477869,
+				"max": 0.549477869,
+				"avg": 0.549477869
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		},
+		{
+			"id": "yardlong-beans-mature-seeds-raw",
+			"name": "Yardlong beans, mature seeds, raw",
+			"category": "Legumes",
+			"density": {
+				"min": 0.705867724,
+				"max": 0.705867724,
+				"avg": 0.705867724
+			},
+			"source": "OC-USDA",
+			"commonality": 3
+		}
+	]
+}
