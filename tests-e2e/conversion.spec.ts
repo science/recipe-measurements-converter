@@ -6,9 +6,9 @@ test.describe('Conversion flow', () => {
 	});
 
 	test('select food → select measure → enter quantity → verify grams', async ({ page }) => {
-		// Search and select "Barley, flour"
+		// Search and select "Millet flour"
 		const input = page.getByTestId('food-search-input');
-		await input.fill('Barley, flour');
+		await input.fill('Millet flour');
 		await page.getByTestId('food-search-option').first().click();
 
 		// Default: 1 cup
@@ -16,14 +16,14 @@ test.describe('Conversion flow', () => {
 		await expect(gramsValue).toBeVisible();
 
 		const grams = parseFloat(await gramsValue.textContent() ?? '0');
-		// Barley flour density is 0.61, 1 cup = 236.588 ml, so ~144.3g
-		expect(grams).toBeGreaterThan(140);
-		expect(grams).toBeLessThan(150);
+		// Millet flour density is 0.503, 1 cup = 236.588 ml, so ~119g
+		expect(grams).toBeGreaterThan(115);
+		expect(grams).toBeLessThan(123);
 	});
 
 	test('changing quantity updates result', async ({ page }) => {
 		const input = page.getByTestId('food-search-input');
-		await input.fill('Barley, flour');
+		await input.fill('Millet flour');
 		await page.getByTestId('food-search-option').first().click();
 
 		const gramsValue = page.getByTestId('grams-value');
@@ -39,7 +39,7 @@ test.describe('Conversion flow', () => {
 
 	test('switching measure changes result', async ({ page }) => {
 		const input = page.getByTestId('food-search-input');
-		await input.fill('Barley, flour');
+		await input.fill('Millet flour');
 		await page.getByTestId('food-search-option').first().click();
 
 		const gramsValue = page.getByTestId('grams-value');
@@ -53,25 +53,15 @@ test.describe('Conversion flow', () => {
 		expect(gramsTbsp).toBeLessThan(gramsCup / 10);
 	});
 
-	test('food with range density shows min/max', async ({ page }) => {
-		// Barley, ground has density 0.38-0.42
+	test('known value: 1 cup all-purpose flour (0.528) ≈ 125g', async ({ page }) => {
 		const input = page.getByTestId('food-search-input');
-		await input.fill('Barley, ground');
-		await page.getByTestId('food-search-option').first().click();
-
-		await expect(page.getByTestId('grams-range')).toBeVisible();
-	});
-
-	test('known value: 1 cup wheat flour (0.521) ≈ 123g', async ({ page }) => {
-		// Note: "Wheat, flour" is in duplicates. Let's use "Wheat, flour, white" which has 0.67
-		const input = page.getByTestId('food-search-input');
-		await input.fill('Wheat, flour, white');
+		await input.fill('Flour, wheat, white, all-purpose');
 		await page.getByTestId('food-search-option').first().click();
 
 		const gramsValue = page.getByTestId('grams-value');
 		const grams = parseFloat(await gramsValue.textContent() ?? '0');
-		// density 0.67 * 236.588 ml = ~158.5g
-		expect(grams).toBeGreaterThan(155);
-		expect(grams).toBeLessThan(162);
+		// density 0.528 * 236.588 ml = ~124.9g
+		expect(grams).toBeGreaterThan(122);
+		expect(grams).toBeLessThan(128);
 	});
 });

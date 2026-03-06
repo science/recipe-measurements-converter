@@ -1,0 +1,8427 @@
+[
+	{
+		"name": "Acetaminophen Powder, Unmilled",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Acetylene Black, 100% Compressed",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Acetylsalicyic Acid",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Acrylamide",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Acrylic Granules, Coarse",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Acrylic Granules, Fine",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Acrylonitrile Butadien Styrene (Abs) Resin",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Acrylonitrile Butadiene Styrene (Abs) Granules",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Activated Alumina",
+		"bulkDensityLbFt3": 42.5,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Activated Carbon",
+		"bulkDensityLbFt3": 32.5,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Actylene Black",
+		"bulkDensityLbFt3": 45.5,
+		"densityGml": 0.73
+	},
+	{
+		"name": "Aero Xanthates",
+		"bulkDensityLbFt3": 112.5,
+		"densityGml": 1.8
+	},
+	{
+		"name": "Aerolyte",
+		"bulkDensityLbFt3": 51,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Aerosil, Fumed Silica",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Aerosil, Silicon Dioxide",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Alaluren",
+		"bulkDensityLbFt3": 112,
+		"densityGml": 1.79
+	},
+	{
+		"name": "Ale Cider Drink Mix",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Ale Powder",
+		"bulkDensityLbFt3": 61,
+		"densityGml": 0.98
+	},
+	{
+		"name": "Ales ,Dehydrated",
+		"bulkDensityLbFt3": 82,
+		"densityGml": 1.31
+	},
+	{
+		"name": "Alinoc",
+		"bulkDensityLbFt3": 80,
+		"densityGml": 1.28
+	},
+	{
+		"name": "Alkyd Resin, Flaked",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "All Plant Protein Powder",
+		"bulkDensityLbFt3": 45.5,
+		"densityGml": 0.73
+	},
+	{
+		"name": "Allumina Powder",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Almond &amp; Pecan Blend",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Almond Flour",
+		"bulkDensityLbFt3": 68,
+		"densityGml": 1.09
+	},
+	{
+		"name": "Almonds",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Almonds, Blanched",
+		"bulkDensityLbFt3": 41.6,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Almonds, Blanched &amp; Sliced",
+		"bulkDensityLbFt3": 27.2,
+		"densityGml": 0.44
+	},
+	{
+		"name": "Alum Pigment",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Alumia Trihyrate",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Alumina Hydrate",
+		"bulkDensityLbFt3": 68,
+		"densityGml": 1.09
+	},
+	{
+		"name": "Alumina Hydrate, Coarse",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Alumina Oxide Powder",
+		"bulkDensityLbFt3": 17,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Alumina Powder",
+		"bulkDensityLbFt3": 15.2,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Alumina Silica",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Alumina Trihydrate",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Alumina, Ceramic Powder",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Alumina, Wet Scrubber Mud",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Aluminates Mix",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Aluminium Hydroxide",
+		"bulkDensityLbFt3": 91,
+		"densityGml": 1.46
+	},
+	{
+		"name": "Aluminum Chlor-Hydrate",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.004
+	},
+	{
+		"name": "Aluminum Dross",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Aluminum Flux",
+		"bulkDensityLbFt3": 52.5,
+		"densityGml": 0.84
+	},
+	{
+		"name": "Aluminum Hydroxide",
+		"bulkDensityLbFt3": 26.5,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Aluminum Oxide",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Aluminum Silicate",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Aluminum Sulfate Granules",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Aluminum Trihydrate",
+		"bulkDensityLbFt3": 42.5,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Amberlite",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Ameraffin Wax",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Amerinc-Ferrosillcon",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Ammonium Bicarbonate",
+		"bulkDensityLbFt3": 9.6,
+		"densityGml": 0.15
+	},
+	{
+		"name": "Ammonium Carbonate",
+		"bulkDensityLbFt3": 46.4,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Ammonium Chloride",
+		"bulkDensityLbFt3": 13,
+		"densityGml": 0.21
+	},
+	{
+		"name": "Ammonium Molybdate",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Ammonium Nitrate",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Ammonium Sulfate",
+		"bulkDensityLbFt3": 69,
+		"densityGml": 1.11
+	},
+	{
+		"name": "Ammonium Sulfate, Fertilizer",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Amonia Nitrate",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Amonium Dimolybdate",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Amorhous Silica Fume",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Anhydorous Aluminum Silicate Clay",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Anhydrous Sodium Sulfate",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Animal Feed, Dry Blend",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Annatto Seed, Oil Soaked",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Annatto Seed, Water Soaked",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Apple Bits",
+		"bulkDensityLbFt3": 74,
+		"densityGml": 1.19
+	},
+	{
+		"name": "Apple Cider Drink Mix",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Apple Cinnamon Crunch",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Apple Glaze",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Aqualon Cellulose Gum",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Aquarium Gravel",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Arabic Gum",
+		"bulkDensityLbFt3": 33.6,
+		"densityGml": 0.54
+	},
+	{
+		"name": "Arael, Unpelletized",
+		"bulkDensityLbFt3": 66,
+		"densityGml": 1.06
+	},
+	{
+		"name": "Araformaldehyde",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Arbocel",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Arika",
+		"bulkDensityLbFt3": 16,
+		"densityGml": 0.26
+	},
+	{
+		"name": "Aromatic Carboxylic Anhydride",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Artifical Vanilla",
+		"bulkDensityLbFt3": 75,
+		"densityGml": 1.2
+	},
+	{
+		"name": "Asbestos",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Ashalt",
+		"bulkDensityLbFt3": 103,
+		"densityGml": 1.65
+	},
+	{
+		"name": "Ashalt Base",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Aspertame",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Aspirin Granulation",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Atomite",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Atomite And Vinyl Resin",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Atrazine",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Attaclay",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Attapulgite Clay",
+		"bulkDensityLbFt3": 26.5,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Augratin Seasoning",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Azdel Regrind",
+		"bulkDensityLbFt3": 29.5,
+		"densityGml": 0.47
+	},
+	{
+		"name": "Azdel, Black Plastic Regrind",
+		"bulkDensityLbFt3": 29.5,
+		"densityGml": 0.47
+	},
+	{
+		"name": "Baby Food",
+		"bulkDensityLbFt3": 27.2,
+		"densityGml": 0.44
+	},
+	{
+		"name": "Baby Powder",
+		"bulkDensityLbFt3": 28.5,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Bacon Bits",
+		"bulkDensityLbFt3": 79,
+		"densityGml": 1.27
+	},
+	{
+		"name": "Bacon Bits",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Bacon Bits &amp; Flour",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Bacon Stris",
+		"bulkDensityLbFt3": 10,
+		"densityGml": 0.16
+	},
+	{
+		"name": "Baghouse Dust",
+		"bulkDensityLbFt3": 61,
+		"densityGml": 0.98
+	},
+	{
+		"name": "Baghouse Dust From Glass Furnace",
+		"bulkDensityLbFt3": 145,
+		"densityGml": 2.32
+	},
+	{
+		"name": "Bakelite",
+		"bulkDensityLbFt3": 140,
+		"densityGml": 2.24
+	},
+	{
+		"name": "Bakery Mix",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Baking Soda Silica",
+		"bulkDensityLbFt3": 29.5,
+		"densityGml": 0.47
+	},
+	{
+		"name": "Ball Clary, Hydrous Aluminum Silicate",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Ball Clay",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Banana Flakes",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Barbecue Seasoning Blend",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Barex",
+		"bulkDensityLbFt3": 57,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Barium Ferrite",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Barium Monohydrate",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Barium Oxide",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Barley",
+		"bulkDensityLbFt3": 72,
+		"densityGml": 1.15
+	},
+	{
+		"name": "Barley Bits",
+		"bulkDensityLbFt3": 16.5,
+		"densityGml": 0.26
+	},
+	{
+		"name": "Barley Flour",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Barytes",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Basic Coer Carbonate",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Basing Cement",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Bath Soap Pellets",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Batter Mix",
+		"bulkDensityLbFt3": 70,
+		"densityGml": 1.12
+	},
+	{
+		"name": "Bauxite",
+		"bulkDensityLbFt3": 70,
+		"densityGml": 1.12
+	},
+	{
+		"name": "Bauxite Cereal Binder, Dry",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Bauxite Cereal Binder, Wet",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Beans",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Bedding Material, Small Wooden Chips",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Beef Liver, Dried",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Beef Powder",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Beef Seasoning",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Beets",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Belt Press Cake",
+		"bulkDensityLbFt3": 17,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Bentinite Clay",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Bentonite",
+		"bulkDensityLbFt3": 47.2,
+		"densityGml": 0.76
+	},
+	{
+		"name": "Bentonite Clay",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Bentonite Kitty Litter",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Benzion",
+		"bulkDensityLbFt3": 34.4,
+		"densityGml": 0.55
+	},
+	{
+		"name": "Beta Chip",
+		"bulkDensityLbFt3": 14.4,
+		"densityGml": 0.23
+	},
+	{
+		"name": "Beta Nepthol",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Biosolids Organic Nitrogen Fertilizer",
+		"bulkDensityLbFt3": 57,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Biowaste",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Bisphenol",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Bisphenol, Flakes",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Bisphenol, Prills",
+		"bulkDensityLbFt3": 57,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Black &amp; White Pepper",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Black Eye Beans",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Blanched Clams",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Blast Furnace Dust",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Bleaching Clay, Absorbant",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Blended Cathode Powder",
+		"bulkDensityLbFt3": 6,
+		"densityGml": 0.1
+	},
+	{
+		"name": "Blended Powder, Polypropolene",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Blue Berry Pebbles",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Blue Desiccant",
+		"bulkDensityLbFt3": 53.6,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Blue Pigment",
+		"bulkDensityLbFt3": 63,
+		"densityGml": 1.01
+	},
+	{
+		"name": "Blueberry Bits",
+		"bulkDensityLbFt3": 16,
+		"densityGml": 0.26
+	},
+	{
+		"name": "Bold Party Mix Seasoning",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Bolomite Dust",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Bone Dust",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Bone Meal, Dry",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Borax",
+		"bulkDensityLbFt3": 81,
+		"densityGml": 1.3
+	},
+	{
+		"name": "Borax Pentahydrate",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Boric Acid",
+		"bulkDensityLbFt3": 58.4,
+		"densityGml": 0.94
+	},
+	{
+		"name": "Boric Acid And Soda Ash",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Boric Acid Powder",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Boron Carbide",
+		"bulkDensityLbFt3": 59,
+		"densityGml": 0.95
+	},
+	{
+		"name": "Bovine Plasms",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Brake Lining Mix",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Bread Crumbs",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Breading, Flour",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Brewers Yeast",
+		"bulkDensityLbFt3": 29.5,
+		"densityGml": 0.47
+	},
+	{
+		"name": "Broccoli",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Broic Acid",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Brown Buff Pigment",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Brown Rice Flour",
+		"bulkDensityLbFt3": 20.5,
+		"densityGml": 0.33
+	},
+	{
+		"name": "Brown Sugar",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Brown Whey Powder",
+		"bulkDensityLbFt3": 21,
+		"densityGml": 0.34
+	},
+	{
+		"name": "Buffalo Chicken Per-Dust",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Bulk Pulp Citrus Cells",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Burgess Clay",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Butadiene Styrene Copolymers",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Butter Toffee Candy",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Butyl Phenol",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Butyl Phenol, Resin",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Cadium Bearing Zinc Oxide Dust",
+		"bulkDensityLbFt3": 16,
+		"densityGml": 0.26
+	},
+	{
+		"name": "Caffeinated Coffee Grounds",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Caffeine",
+		"bulkDensityLbFt3": 30.5,
+		"densityGml": 0.49
+	},
+	{
+		"name": "Cake Flour",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Cake Mix, German Chocolate",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Cake Mix, With Shortening",
+		"bulkDensityLbFt3": 9,
+		"densityGml": 0.14
+	},
+	{
+		"name": "Calcified Food Base",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Calcinated Kaolin Clay",
+		"bulkDensityLbFt3": 153,
+		"densityGml": 2.45
+	},
+	{
+		"name": "Calcined Alumina",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Calcined Alumina, Aluminum Oxide Cerium Oxide",
+		"bulkDensityLbFt3": 29.5,
+		"densityGml": 0.47
+	},
+	{
+		"name": "Calcined Bauxite",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Calcined Flint",
+		"bulkDensityLbFt3": 84,
+		"densityGml": 1.35
+	},
+	{
+		"name": "Calcined Kaolin Clay",
+		"bulkDensityLbFt3": 22.5,
+		"densityGml": 0.36
+	},
+	{
+		"name": "Calcined Petroleum Coke",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Calcium",
+		"bulkDensityLbFt3": 89,
+		"densityGml": 1.43
+	},
+	{
+		"name": "Calcium Ascorbate",
+		"bulkDensityLbFt3": 225,
+		"densityGml": 3.6
+	},
+	{
+		"name": "Calcium Carbide",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Calcium Carboante Slurry",
+		"bulkDensityLbFt3": 0.3,
+		"densityGml": 0.004
+	},
+	{
+		"name": "Calcium Carbonate",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Calcium Carbonate Slurry",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Calcium Carbonate, Atomite",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Calcium Carbonate, Georgia Marble Gamasperse",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Calcium Chloride",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Calcium Chloride, Crude",
+		"bulkDensityLbFt3": 43.5,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Calcium Cilicate",
+		"bulkDensityLbFt3": 74,
+		"densityGml": 1.19
+	},
+	{
+		"name": "Calcium Cyanamid",
+		"bulkDensityLbFt3": 75,
+		"densityGml": 1.2
+	},
+	{
+		"name": "Calcium Dical Phosphate",
+		"bulkDensityLbFt3": 66,
+		"densityGml": 1.06
+	},
+	{
+		"name": "Calcium Gluconate",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Calcium Halophosphate",
+		"bulkDensityLbFt3": 53,
+		"densityGml": 0.85
+	},
+	{
+		"name": "Calcium Hydroxide",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Calcium Hydroxide, Dust",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Calcium Hydroxide, Fines",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Calcium Hydrozide, Lime",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Calcium Iodate",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Calcium Lactate",
+		"bulkDensityLbFt3": 18,
+		"densityGml": 0.29
+	},
+	{
+		"name": "Calcium Oxide",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Calcium Roionate",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Calcium Silicon",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Calcium Stearate",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Calcium Zinc Stearate",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Candy Coated Chocolate Drops",
+		"bulkDensityLbFt3": 59.2,
+		"densityGml": 0.95
+	},
+	{
+		"name": "Candy Sprinkles",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Cane Sugar",
+		"bulkDensityLbFt3": 30.4,
+		"densityGml": 0.49
+	},
+	{
+		"name": "Captan, Fungicide",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Car Wash Detergent",
+		"bulkDensityLbFt3": 15.5,
+		"densityGml": 0.25
+	},
+	{
+		"name": "Caramel Nut Seasoning With Salt",
+		"bulkDensityLbFt3": 17,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Caraway",
+		"bulkDensityLbFt3": 12.5,
+		"densityGml": 0.2
+	},
+	{
+		"name": "Caraway Seeds",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Carbon",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Carbon Black",
+		"bulkDensityLbFt3": 70,
+		"densityGml": 1.12
+	},
+	{
+		"name": "Carbon Black, Crushed",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Carbon Black, Flakes",
+		"bulkDensityLbFt3": 92,
+		"densityGml": 1.47
+	},
+	{
+		"name": "Carbon Dust",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Carbon Fiber",
+		"bulkDensityLbFt3": 5.7,
+		"densityGml": 0.09
+	},
+	{
+		"name": "Carbon Fiber, Wet",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Carbon Graphite",
+		"bulkDensityLbFt3": 51.2,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Carbon Graphite Powder",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Carbon, Calcined Petroleum Coke",
+		"bulkDensityLbFt3": 14.4,
+		"densityGml": 0.23
+	},
+	{
+		"name": "Carbonized Paper",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Carborundum",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Carbose Cmc",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Cardio Aid Phytosterols",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Carpet And Room Deodorizer",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Carpet Conditioner",
+		"bulkDensityLbFt3": 32.5,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Carrageenan",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Carrots",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Casein Glue",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Castor Wax Flakes",
+		"bulkDensityLbFt3": 6.4,
+		"densityGml": 0.1
+	},
+	{
+		"name": "Cat Litter",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Cat Litter Deodorant",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Catechol",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Cathode Mix",
+		"bulkDensityLbFt3": 196,
+		"densityGml": 3.14
+	},
+	{
+		"name": "Cattle Feed",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Caustic Potash, Dry",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Caustic Soda Beads",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Celatom",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Celaton Floor Dry",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Celery",
+		"bulkDensityLbFt3": 31.5,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Cellulose",
+		"bulkDensityLbFt3": 260,
+		"densityGml": 4.16
+	},
+	{
+		"name": "Cellulose &amp; Reduced Iron Mixture",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Cellulose Acatate-Butyrate",
+		"bulkDensityLbFt3": 63,
+		"densityGml": 1.01
+	},
+	{
+		"name": "Cellulose Arbocel B 800",
+		"bulkDensityLbFt3": 68,
+		"densityGml": 1.09
+	},
+	{
+		"name": "Cellulose Gum",
+		"bulkDensityLbFt3": 56.5,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Cellulose Powder",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Cellulose, Solka Floc",
+		"bulkDensityLbFt3": 175,
+		"densityGml": 2.8
+	},
+	{
+		"name": "Celogen",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Celogen, Blowing Agent",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Cement",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Cement Based Waterproof Coating",
+		"bulkDensityLbFt3": 43.5,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Cement Dust",
+		"bulkDensityLbFt3": 63,
+		"densityGml": 1.01
+	},
+	{
+		"name": "Cement Powder",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Cenosheres",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Century Whey, Bi Pro Isolate",
+		"bulkDensityLbFt3": 75,
+		"densityGml": 1.2
+	},
+	{
+		"name": "Ceramic Beads",
+		"bulkDensityLbFt3": 70,
+		"densityGml": 1.12
+	},
+	{
+		"name": "Ceramic Beads Powder, Drier Discharge",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Ceramic Beas",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Ceramic Frit",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Ceramic Material",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Ceramic Triangle Stones",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Cereal",
+		"bulkDensityLbFt3": 51.5,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Cereal Pellets",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Cerium Carbonate",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Cerium Oxide",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Charcoal",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Charcoal Chips",
+		"bulkDensityLbFt3": 18,
+		"densityGml": 0.29
+	},
+	{
+		"name": "Charcoal, Ground",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Cheddar Cheese",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Cheddar Seasoning",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Cheese &amp; Shortening",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Cheese Flour Mix",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Cheese Mix",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Cheese Powder",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Cheese, Fine Ground Parmesan",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Cheese, Grated",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Cheese, Grated",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Cheesecake Crumb",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Chesse Powder Blend",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Chestnut Extract Powder",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Chewing Gum Base",
+		"bulkDensityLbFt3": 121,
+		"densityGml": 1.94
+	},
+	{
+		"name": "Chi Wood",
+		"bulkDensityLbFt3": 115,
+		"densityGml": 1.84
+	},
+	{
+		"name": "Chicken Bouillon",
+		"bulkDensityLbFt3": 53,
+		"densityGml": 0.85
+	},
+	{
+		"name": "Chicken Embryos, In Shell",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Chicken Flavored Soup Base",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Chicken Gravy Mix",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Chicken Seasoning",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Chicken Soup With Noodles",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Chile Pods, Dried",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "China Clay",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Chinese Bauxite, Calcined",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Chlorinated Trisodium Phosphate",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Chlorine",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Chlorine",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Chlorine Based Detergent",
+		"bulkDensityLbFt3": 33.5,
+		"densityGml": 0.54
+	},
+	{
+		"name": "Chocolate",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Chocolate Chipsm, Mini",
+		"bulkDensityLbFt3": 12,
+		"densityGml": 0.19
+	},
+	{
+		"name": "Chocolate Pudding Dry Mix",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Chocolate Volcano Cake Base",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Chopped Copper Wire, Coarse",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Chopped Copper Wire, Fine",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Chopped Ethafoam",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Chopped Glass Fibers",
+		"bulkDensityLbFt3": 300,
+		"densityGml": 4.81
+	},
+	{
+		"name": "Chopped Hd Polyethylene",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Chopped Hd Polyethylene (Recycled, Flake-Like)",
+		"bulkDensityLbFt3": 80,
+		"densityGml": 1.28
+	},
+	{
+		"name": "Chopped Nuts",
+		"bulkDensityLbFt3": 11.5,
+		"densityGml": 0.18
+	},
+	{
+		"name": "Chopped Peanuts",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Chopped Polyroylene Fibers",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Chopped Thread",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Chopped Tobacco",
+		"bulkDensityLbFt3": 12,
+		"densityGml": 0.19
+	},
+	{
+		"name": "Chopped Walnuts",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Chopped Wire - Copper, Aluminum, And Insulation",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Chopped Wire With Filler",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Chrome Trioxide",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Chrome Yellow Medium",
+		"bulkDensityLbFt3": 34.5,
+		"densityGml": 0.55
+	},
+	{
+		"name": "Chunk Cheese",
+		"bulkDensityLbFt3": 43.2,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Chunk Chocolate",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Cinnamon",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Cinnamon &amp; Sugar Mixture",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Cinnamon Bark",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Cinnamon Chips",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Cinnamon Chips, Bark",
+		"bulkDensityLbFt3": 17,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Cinnamon Flour With Raisins Mix",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Cinnamon Granola",
+		"bulkDensityLbFt3": 24.8,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Cinnamon / Sugar Mix",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Citric Acid",
+		"bulkDensityLbFt3": 56.8,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Citric Acid, Anhydrous",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Clarion, Bleaching Earth",
+		"bulkDensityLbFt3": 53,
+		"densityGml": 0.85
+	},
+	{
+		"name": "Clary, Kaolin - Thiele Rc-32",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Clay",
+		"bulkDensityLbFt3": 51,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Clay Mixture",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Clay Powder",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Clay, 1% Moisture",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Clay, Kaolin",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Clay, Novacite #200",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Clay, Pyrophyllite",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Clay, Snobrite Kaolin",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Coal",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Coal Sample",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Coal, 1/4\" Screened",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Cobalt Acetate (24%)",
+		"bulkDensityLbFt3": 59,
+		"densityGml": 0.95
+	},
+	{
+		"name": "Cobalt Manganese Oxide",
+		"bulkDensityLbFt3": 30.1,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Cobalt Nitrate",
+		"bulkDensityLbFt3": 250,
+		"densityGml": 4
+	},
+	{
+		"name": "Cobalt Powder, Extra Fine",
+		"bulkDensityLbFt3": 39.5,
+		"densityGml": 0.63
+	},
+	{
+		"name": "Cocoa",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Cocoa Beans (Shell &amp; Nib)",
+		"bulkDensityLbFt3": 5,
+		"densityGml": 0.08
+	},
+	{
+		"name": "Cocoa (Vending Mix)",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Cocoa Beans (Raw)",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Cocoa Beans, Whole In Shells",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Cocoa Mixture",
+		"bulkDensityLbFt3": 49.5,
+		"densityGml": 0.79
+	},
+	{
+		"name": "Cocoa Nibs",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Cocoa Powder",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Cocoa Powder 10/12%",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Cocoa/Powdered Sugar",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Coconut",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Coconut Base Actvated Carbon",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Coconut Chips",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Coconut Chips W/ Candy Pellets",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Coconut Crunch Doughnut Topping",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Coconut Fibers (Coir)",
+		"bulkDensityLbFt3": 80,
+		"densityGml": 1.28
+	},
+	{
+		"name": "Coconut Flakes",
+		"bulkDensityLbFt3": 63,
+		"densityGml": 1.01
+	},
+	{
+		"name": "Coconut Monoethanolamide",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Coconut, Macaroon",
+		"bulkDensityLbFt3": 61,
+		"densityGml": 0.98
+	},
+	{
+		"name": "Coer Hthalocyanne Blue Crude (Dry)",
+		"bulkDensityLbFt3": 67.5,
+		"densityGml": 1.08
+	},
+	{
+		"name": "Coer Hthalocyanne Blue Crude (Wet)",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Coer Recipitate",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Coer Scrap",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Coffee (Decaf)",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Coffee Beans",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Coffee Beans, Green",
+		"bulkDensityLbFt3": 81,
+		"densityGml": 1.3
+	},
+	{
+		"name": "Coffee Beans, Roasted",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Coffee Chaff",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Coffee Creamer",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Coffee Regular",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Coffee Whitener",
+		"bulkDensityLbFt3": 7,
+		"densityGml": 0.11
+	},
+	{
+		"name": "Coffee, Dry Ground",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Coffee, Flaked",
+		"bulkDensityLbFt3": 32.5,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Coffee, Ground",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Coffee, Instant",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Coke Fines",
+		"bulkDensityLbFt3": 44.5,
+		"densityGml": 0.71
+	},
+	{
+		"name": "Coke Maze",
+		"bulkDensityLbFt3": 52.5,
+		"densityGml": 0.84
+	},
+	{
+		"name": "Colenuts (Crushed Soy Beans)",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Colloidal Clay",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Colored Sand",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Como Catalyst",
+		"bulkDensityLbFt3": 12,
+		"densityGml": 0.19
+	},
+	{
+		"name": "Compost",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Compressible Sugar",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Concret",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Concrete Lasticizer",
+		"bulkDensityLbFt3": 125,
+		"densityGml": 2
+	},
+	{
+		"name": "Concrete Water Proofing Admixture",
+		"bulkDensityLbFt3": 72,
+		"densityGml": 1.15
+	},
+	{
+		"name": "Confectionery Sugar With 3% Corn Starch",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Converter Dust",
+		"bulkDensityLbFt3": 52.5,
+		"densityGml": 0.84
+	},
+	{
+		"name": "Cooked Bone",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Cookie Crumbs",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Cookie Wafers",
+		"bulkDensityLbFt3": 42.5,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Cookies",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Copolymer 120",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Copolymer 120 (Ion Exchange Resin)",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Copolymer 353-A (Ion Exchange Resin)",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Copolymer Of Styrene And Isobutyl Acid Maleate",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Copper Carbonate",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Copper Iodide",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Copper Oxide",
+		"bulkDensityLbFt3": 21,
+		"densityGml": 0.34
+	},
+	{
+		"name": "Copper Powder",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Coriander",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Corn",
+		"bulkDensityLbFt3": 16,
+		"densityGml": 0.26
+	},
+	{
+		"name": "Corn Bran, Fine Grind",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Corn Bread Meal",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Corn Feed",
+		"bulkDensityLbFt3": 100,
+		"densityGml": 1.6
+	},
+	{
+		"name": "Corn Flaking Grits",
+		"bulkDensityLbFt3": 62,
+		"densityGml": 0.99
+	},
+	{
+		"name": "Corn Flour",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Corn Glutten Feed",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Corn Grits",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Corn Kernels",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Corn Meal",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Corn Meal Flour",
+		"bulkDensityLbFt3": 51,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Corn Meal Mix",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Corn Silk Powder",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Corn Starch",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Corn Starch",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Corn Starch",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Corn Starch (Refined From Waxy Corn)",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Corn Syrup Solids",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Corn, Large Kernal",
+		"bulkDensityLbFt3": 7.5,
+		"densityGml": 0.12
+	},
+	{
+		"name": "Cornstoner",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Cotton Flock",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Cotton Seed Hulls",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Cottonseed Protein",
+		"bulkDensityLbFt3": 66,
+		"densityGml": 1.06
+	},
+	{
+		"name": "Cracked Black Pepper Blend",
+		"bulkDensityLbFt3": 12,
+		"densityGml": 0.19
+	},
+	{
+		"name": "Cracked Corn",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Cracked Pop Corn",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Cracker Crumbs",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Cracker Meal",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Cranberry Pulp",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Cranberry, Spinach, Carrot Blend",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Cream Powder",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Creatine",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Creping Aid (Glue)",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Crisped Rice",
+		"bulkDensityLbFt3": 7,
+		"densityGml": 0.11
+	},
+	{
+		"name": "Cristobalite",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Crodamide Ebs Micobeads",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Crosslinked Copolymer",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Crude Blue",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Crude Blue (Pigment)",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Crum Rubber",
+		"bulkDensityLbFt3": 30.4,
+		"densityGml": 0.49
+	},
+	{
+		"name": "Crush Cookies",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Crushed Crab Shell",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Crushed Malted Barley",
+		"bulkDensityLbFt3": 32.5,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Crushed Rosin",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Crushed Soy Beans",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Crystal Caustic",
+		"bulkDensityLbFt3": 7,
+		"densityGml": 0.11
+	},
+	{
+		"name": "Crystalline Sulfur",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Cumarone Indene Resin",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Cumin",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Cumin Seads",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Cumin Seed, Pakistan",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Cupric Sulfate",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Cupric Sulfate Pentahydrate",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Cuprous Oxide",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Cutina C",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Cvc Resin Cake",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Decabromodiphenyl Oxide",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Dehydrated Banana Flakes",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Dehydrated Potatoes",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Dehydrated Soup",
+		"bulkDensityLbFt3": 21,
+		"densityGml": 0.34
+	},
+	{
+		"name": "Dehydrated Vegetables",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Dehyrated Whole Black Beans",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Demerara Sugar",
+		"bulkDensityLbFt3": 51,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Densified Rice",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Densified Rise (Rice Crispies)",
+		"bulkDensityLbFt3": 100,
+		"densityGml": 1.6
+	},
+	{
+		"name": "Dental Casting Powder",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Dental Plaster (White)",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Dental Powder",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Denture Cleaner",
+		"bulkDensityLbFt3": 75,
+		"densityGml": 1.2
+	},
+	{
+		"name": "Detergent",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Detergent Tailings",
+		"bulkDensityLbFt3": 32.5,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Dextrin &amp; Kaolin Clay",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Dextros",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Dextros Monohydrated",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Dextrose &amp; Fine Salt",
+		"bulkDensityLbFt3": 84,
+		"densityGml": 1.35
+	},
+	{
+		"name": "Dextrose &amp; Oil",
+		"bulkDensityLbFt3": 33.5,
+		"densityGml": 0.54
+	},
+	{
+		"name": "Dextrose Monohydrate",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Dextrose Sugar",
+		"bulkDensityLbFt3": 53,
+		"densityGml": 0.85
+	},
+	{
+		"name": "Diacalite (Diatomaceous Earth)",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Diammonium Phosphate",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Diatomaceous Earth",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Dibromoneopentyl Glycol",
+		"bulkDensityLbFt3": 22.5,
+		"densityGml": 0.36
+	},
+	{
+		"name": "Dicalcium Phosphate Dihydrate",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Diced Peanuts",
+		"bulkDensityLbFt3": 52.5,
+		"densityGml": 0.84
+	},
+	{
+		"name": "Dichlorohenoxyacetic Acid",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Dicyandiamide",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Die Stone",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Dimodan",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Dipentaerythritol",
+		"bulkDensityLbFt3": 106,
+		"densityGml": 1.7
+	},
+	{
+		"name": "Dipotassium Phosphate",
+		"bulkDensityLbFt3": 64,
+		"densityGml": 1.03
+	},
+	{
+		"name": "Disodium Phosphate",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Disodium Phosphate",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Disodium Sebacate",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Distilled Monoglyceride",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Distilled Monoglyceride",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Dog Food",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Dog Food Regrained",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Dolomite (Raw)",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Dolomitic Lime",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Dolomitic Limestone",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Dough Mix",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Dried Algae",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Dried Alumina Gel Green Grains",
+		"bulkDensityLbFt3": 42.5,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Dried Alumina Gel Green Pellets",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Dried Bone &amp; Meat Scraps",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Dried Brewers Yeast",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Dried Calcuim Carbonate",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Dried Carrots",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Dried Celery, Bell Peppers, Onions",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Dried Dairy Waste Product",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Dried Filter Plant Solids",
+		"bulkDensityLbFt3": 62,
+		"densityGml": 0.99
+	},
+	{
+		"name": "Dried Green Peppers",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Dried Horseradish Powder (Wasabi)",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Dried Meat / Powder Protein",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Dried Pelltized Bi-Mass",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Dried Pepper",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Dried Premium Cranberries",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Dried Skim Milk",
+		"bulkDensityLbFt3": 44.5,
+		"densityGml": 0.71
+	},
+	{
+		"name": "Dried Sludge",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Dried Smoked Yeast",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Dried Whole Whey Powder",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Dried Yeast",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Drimarene Turquoise Powder",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Drink Mix, Powdered",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Dry Batter Mix",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Dry Blend Animal Feed",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Dry Coffee",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Dry Concentrate Fertilizer",
+		"bulkDensityLbFt3": 71.6,
+		"densityGml": 1.15
+	},
+	{
+		"name": "Dry Foundry Silica Sand",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Dry Milk",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Dry Milk Powder (Non-Fat)",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Dry Pulverized Chaff",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Dry Red Beans",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Dry Salt",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Dry Sluge",
+		"bulkDensityLbFt3": 31.5,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Dry Slurry, Powdered Detergent",
+		"bulkDensityLbFt3": 8,
+		"densityGml": 0.13
+	},
+	{
+		"name": "Dryed Celery, Bell Peppers, Onions",
+		"bulkDensityLbFt3": 7,
+		"densityGml": 0.11
+	},
+	{
+		"name": "Drying Powder",
+		"bulkDensityLbFt3": 8,
+		"densityGml": 0.13
+	},
+	{
+		"name": "Durum Semolina Flour",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Echinacea Root",
+		"bulkDensityLbFt3": 80,
+		"densityGml": 1.28
+	},
+	{
+		"name": "Eco Flurries",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Edta Acid",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Egg Bow Noddle",
+		"bulkDensityLbFt3": 72,
+		"densityGml": 1.15
+	},
+	{
+		"name": "Egg Flour",
+		"bulkDensityLbFt3": 73,
+		"densityGml": 1.17
+	},
+	{
+		"name": "Egg Noodle (1/16Wx2 1/2\" - 4\"L)",
+		"bulkDensityLbFt3": 78,
+		"densityGml": 1.25
+	},
+	{
+		"name": "Egg Powder",
+		"bulkDensityLbFt3": 67,
+		"densityGml": 1.07
+	},
+	{
+		"name": "Egg Shell Calcium",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Egg Shell Calcium",
+		"bulkDensityLbFt3": 73,
+		"densityGml": 1.17
+	},
+	{
+		"name": "Elbow Noodles",
+		"bulkDensityLbFt3": 90,
+		"densityGml": 1.44
+	},
+	{
+		"name": "Electrolytic Manganese Dioxide",
+		"bulkDensityLbFt3": 100,
+		"densityGml": 1.6
+	},
+	{
+		"name": "Encasulated Urea",
+		"bulkDensityLbFt3": 42.5,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Entachlorohenal",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Entachlorohenal (Ermatox D-2)",
+		"bulkDensityLbFt3": 60.8,
+		"densityGml": 0.97
+	},
+	{
+		"name": "Entylyn",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Epsom Salt",
+		"bulkDensityLbFt3": 231,
+		"densityGml": 3.7
+	},
+	{
+		"name": "Erucamide (Fatty Acid)",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Erythromycin Base",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Erythromycin Base Dihydrate",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Erythromycin Thiocyanate",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Ester (Similar To Fatty Acid)",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Ethanox",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Ethocell Powder",
+		"bulkDensityLbFt3": 51,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Ethylene-Vinyl Acetate (Eva)",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Ethylene-Vinyl Acetate Copolymer Resin",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Evaorated Salt",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Expanded Pelite",
+		"bulkDensityLbFt3": 66,
+		"densityGml": 1.06
+	},
+	{
+		"name": "Feed Grade Mini-Granular Zinc",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Ferric Citrate",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Ferric Phosphate",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Ferric Sulfate (Citco)",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Ferrite Powder",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Ferromolybdenum Powder",
+		"bulkDensityLbFt3": 17,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Ferrosilcon",
+		"bulkDensityLbFt3": 62,
+		"densityGml": 0.99
+	},
+	{
+		"name": "Ferrouis Sulfate Heptahydrate",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Ferrous Sulfate",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Ferrous Sulfate (Moist)",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Ferrous Sulfate Heptahydrate",
+		"bulkDensityLbFt3": 66.5,
+		"densityGml": 1.07
+	},
+	{
+		"name": "Fertilizer",
+		"bulkDensityLbFt3": 75,
+		"densityGml": 1.2
+	},
+	{
+		"name": "Fertilizer (20-20-20) &amp; (32-10-10)",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Fiber",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Fiber Board",
+		"bulkDensityLbFt3": 11.2,
+		"densityGml": 0.18
+	},
+	{
+		"name": "Fiber Glass Strands",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Fiber Neet Resin",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Fiber Samples",
+		"bulkDensityLbFt3": 80,
+		"densityGml": 1.28
+	},
+	{
+		"name": "Fiberglass",
+		"bulkDensityLbFt3": 80,
+		"densityGml": 1.28
+	},
+	{
+		"name": "Fiberglass Reinforcements",
+		"bulkDensityLbFt3": 112.5,
+		"densityGml": 1.8
+	},
+	{
+		"name": "Fiberglass, Chopped",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Filter Aid",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Filter Aid (Celite)",
+		"bulkDensityLbFt3": 100,
+		"densityGml": 1.6
+	},
+	{
+		"name": "Filter Cake (Oat Bran)",
+		"bulkDensityLbFt3": 68,
+		"densityGml": 1.09
+	},
+	{
+		"name": "Filter Powder",
+		"bulkDensityLbFt3": 83,
+		"densityGml": 1.33
+	},
+	{
+		"name": "Filter Press Cake",
+		"bulkDensityLbFt3": 57,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Fine Flake Salt",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Fine Grog (Crushed Brick)",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Fine Plastic Flakes (Milled Material)",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Finished Detergent",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Fire Extinguishers Chemical",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Fish Food",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Fish Food Wafer",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Fish Powder",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Flake Gelatin",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Flake Wood Carbon (Charcoal)",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Flaked Potatoes",
+		"bulkDensityLbFt3": 44.5,
+		"densityGml": 0.71
+	},
+	{
+		"name": "Flaked Potatoes (Wet)",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Flame Retardant",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Flea Killer For Carpets",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Fledsar",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Flock (Poly)",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Flocking",
+		"bulkDensityLbFt3": 9.6,
+		"densityGml": 0.15
+	},
+	{
+		"name": "Flour",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Flour (High Gluten)",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Flour (Pancake Mix)",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Flour Bedding",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Flour Breading",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Flour Mix",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Flour Salt",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Flourspar",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Fluorescent Powder",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Flux Calcined Diatomaceous Earth",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Fly Ash From Ulverized Coal And Bark",
+		"bulkDensityLbFt3": 56.5,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Flyash",
+		"bulkDensityLbFt3": 33.9,
+		"densityGml": 0.54
+	},
+	{
+		"name": "Food Grade Resin Powder",
+		"bulkDensityLbFt3": 300,
+		"densityGml": 4.81
+	},
+	{
+		"name": "Food Grade Starch",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Foray",
+		"bulkDensityLbFt3": 62.5,
+		"densityGml": 1
+	},
+	{
+		"name": "Foundry Molding Sand",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Foundry Sand",
+		"bulkDensityLbFt3": 75,
+		"densityGml": 1.2
+	},
+	{
+		"name": "Fragrance Compound (Perfume)",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Freeze Dried Beef Stew Mix",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Freeze Dried Coffee Beans",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Freeze Dried Corn (Whole Kernal)",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Freeze Dried Pineapple Juice",
+		"bulkDensityLbFt3": 53,
+		"densityGml": 0.85
+	},
+	{
+		"name": "French Fry Crumb",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "French Fry Mix",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "French Roast Whole Coffee Beans",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "French Vanilla Coffee Creamer",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Frozen Brocoli",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Frozen Cheese Tortellini",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Frozen Mix Vegetable",
+		"bulkDensityLbFt3": 42.5,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Frozen Oatmeal",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Frozen Potato Wedges",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Frozen Potatoes",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Frozen Sausage",
+		"bulkDensityLbFt3": 108,
+		"densityGml": 1.73
+	},
+	{
+		"name": "Frozen Sausage",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Frozen Slice Apples",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Fruit Fill",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Fumaric Acid",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Fumed Silica",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Fungicide",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Gamma Iron Oxide",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Gamma Iron Oxide (Ferrox)",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Garlic",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Garlic Powder",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Garonite (Pourable Hydraulic Cement)",
+		"bulkDensityLbFt3": 97,
+		"densityGml": 1.55
+	},
+	{
+		"name": "Garrageenan &amp; Xanthan",
+		"bulkDensityLbFt3": 90,
+		"densityGml": 1.44
+	},
+	{
+		"name": "Gelatin",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Gelatin, Bone Remelt",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Gelatin, Porkskin Blend",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Geloy Resin Powder",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "General Urose Henolk",
+		"bulkDensityLbFt3": 40.5,
+		"densityGml": 0.65
+	},
+	{
+		"name": "Gilsonite",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Glass Beads Solid Glass Spheres",
+		"bulkDensityLbFt3": 81,
+		"densityGml": 1.3
+	},
+	{
+		"name": "Glass Bubbles",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Glass Fibers",
+		"bulkDensityLbFt3": 153,
+		"densityGml": 2.45
+	},
+	{
+		"name": "Glass Filled Polypropylene",
+		"bulkDensityLbFt3": 44.5,
+		"densityGml": 0.71
+	},
+	{
+		"name": "Glass Frit, Coarse",
+		"bulkDensityLbFt3": 62,
+		"densityGml": 0.99
+	},
+	{
+		"name": "Glass Frit, Fine",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Glass Powder",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Glaze Flavor",
+		"bulkDensityLbFt3": 56.8,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Glitter Material",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Gloss White Powder Coating",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Gloss White Powder Coating (Paint)",
+		"bulkDensityLbFt3": 150,
+		"densityGml": 2.4
+	},
+	{
+		"name": "Glutamine",
+		"bulkDensityLbFt3": 80,
+		"densityGml": 1.28
+	},
+	{
+		"name": "Gluten",
+		"bulkDensityLbFt3": 150,
+		"densityGml": 2.4
+	},
+	{
+		"name": "Glyhosate Technical (Wet Cake)",
+		"bulkDensityLbFt3": 75,
+		"densityGml": 1.2
+	},
+	{
+		"name": "Graham Cracker Crumbs",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Graham Crumbs",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Grahite",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Grahm Cracker Meal",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Grand Gourmet Pre-Mix (90% Soya Flour, 10% Vitamins)",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Granola",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Granola Mix",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Granualted Cermaic Powder",
+		"bulkDensityLbFt3": 17,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Granuated Sugar",
+		"bulkDensityLbFt3": 17,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Granular Activated Carbon",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Granular Carbon Activated",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Granular Carbon Black",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Granular Clay",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Granular Feed",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Granular Powder Coal",
+		"bulkDensityLbFt3": 90,
+		"densityGml": 1.44
+	},
+	{
+		"name": "Granular Roduct (Calcium Hohate)",
+		"bulkDensityLbFt3": 47.5,
+		"densityGml": 0.76
+	},
+	{
+		"name": "Granular Root Zone",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Granulate Plastic",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Granulated Ceramic Powder",
+		"bulkDensityLbFt3": 18,
+		"densityGml": 0.29
+	},
+	{
+		"name": "Granulated Plastic",
+		"bulkDensityLbFt3": 18,
+		"densityGml": 0.29
+	},
+	{
+		"name": "Granulated Sugar",
+		"bulkDensityLbFt3": 53,
+		"densityGml": 0.85
+	},
+	{
+		"name": "Granulated Sugar With Additive (Brown)",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Granulated Sugar With Additive (Pink)",
+		"bulkDensityLbFt3": 42.5,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Graphite",
+		"bulkDensityLbFt3": 25.5,
+		"densityGml": 0.41
+	},
+	{
+		"name": "Graphite (Not Synthetic)",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Graphite Fiber Black",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Graphite, Carbon Mix",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Grated Cheese",
+		"bulkDensityLbFt3": 45.5,
+		"densityGml": 0.73
+	},
+	{
+		"name": "Gravy Mix",
+		"bulkDensityLbFt3": 46.5,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Gravy, Biscuit",
+		"bulkDensityLbFt3": 47.5,
+		"densityGml": 0.76
+	},
+	{
+		"name": "Gravy, Brown",
+		"bulkDensityLbFt3": 40.5,
+		"densityGml": 0.65
+	},
+	{
+		"name": "Gray Carbon Black",
+		"bulkDensityLbFt3": 19,
+		"densityGml": 0.3
+	},
+	{
+		"name": "Green Pepper (1/4\")",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Green Split Peas",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Green Tea",
+		"bulkDensityLbFt3": 53,
+		"densityGml": 0.85
+	},
+	{
+		"name": "Greencake (Pigment)",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Grinding Sludge",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Grits (Pearl)",
+		"bulkDensityLbFt3": 9,
+		"densityGml": 0.14
+	},
+	{
+		"name": "Groud Lime",
+		"bulkDensityLbFt3": 7,
+		"densityGml": 0.11
+	},
+	{
+		"name": "Ground Almonds",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Ground Cinnamon",
+		"bulkDensityLbFt3": 35.7,
+		"densityGml": 0.57
+	},
+	{
+		"name": "Ground Clay",
+		"bulkDensityLbFt3": 76,
+		"densityGml": 1.22
+	},
+	{
+		"name": "Ground Clay (Oil-Dri)",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Ground Cloves",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Ground Coffee",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Ground Corn Cobb (1/8\")",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Ground Fiberglass",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Ground Graham",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Ground Gypsum Boards",
+		"bulkDensityLbFt3": 159,
+		"densityGml": 2.55
+	},
+	{
+		"name": "Ground Iron Ore",
+		"bulkDensityLbFt3": 87,
+		"densityGml": 1.39
+	},
+	{
+		"name": "Ground Lifesavers",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Ground Lime",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Ground Limestone",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Ground Marble",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Ground Melmack",
+		"bulkDensityLbFt3": 43.5,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Ground Oat Hulls",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Ground Or Crack Wheat",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Ground Oyster Shells",
+		"bulkDensityLbFt3": 77.5,
+		"densityGml": 1.24
+	},
+	{
+		"name": "Ground Parmesan Cheese",
+		"bulkDensityLbFt3": 32.5,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Ground Plastics",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Ground Polyurethane",
+		"bulkDensityLbFt3": 41.5,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Ground Potato Flakes",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Ground Rice",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Ground Rubber",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Ground Shale",
+		"bulkDensityLbFt3": 38.5,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Ground Silica",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Ground Sodium Bora-Silicate",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Ground Sulfur",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Ground Tea Leaves",
+		"bulkDensityLbFt3": 71,
+		"densityGml": 1.14
+	},
+	{
+		"name": "Ground Up Tires",
+		"bulkDensityLbFt3": 51,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Grout",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Guar Gum",
+		"bulkDensityLbFt3": 23.5,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Guar Gum Powder",
+		"bulkDensityLbFt3": 104,
+		"densityGml": 1.67
+	},
+	{
+		"name": "Gum Base Pallets (Long Pallets)",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Gum Colloid",
+		"bulkDensityLbFt3": 46.5,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Gum Premix (Guar Gum, Locust Bean Gum, Kappa Carragenan)",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Gummer Animal Glue",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Gummisavers",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Gypsum",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Gypsum &amp; Hydrated Lime Blend",
+		"bulkDensityLbFt3": 110,
+		"densityGml": 1.76
+	},
+	{
+		"name": "Gysum",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Hakuenka",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Hampster Bedding",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Hand Cleaner",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Hard Plastic",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Hazel Nuts, Peanuts, Almonds",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Health Drink Power",
+		"bulkDensityLbFt3": 35.2,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Heat Treated Wheat Flour",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Heat-Dried Biosolids",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Heavy Layer",
+		"bulkDensityLbFt3": 32.8,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Henolic Resin",
+		"bulkDensityLbFt3": 17,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Hepes Free Acid",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Herb &amp; Butter Seasonings",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Herbal Blend",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Herbicide",
+		"bulkDensityLbFt3": 18,
+		"densityGml": 0.29
+	},
+	{
+		"name": "Hexamethylene Tetramine",
+		"bulkDensityLbFt3": 32.5,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Hexamine",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Hiuric Acid",
+		"bulkDensityLbFt3": 6,
+		"densityGml": 0.1
+	},
+	{
+		"name": "Hog &amp; Cattle Sulfa",
+		"bulkDensityLbFt3": 59,
+		"densityGml": 0.95
+	},
+	{
+		"name": "Hogs Hair",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Humus",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Hyddrated Sodium Tripolyphosphate",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Hydralumina",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Hydrated Alumina",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Hydrated Lime",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Hydrated Sodium Tripolyphosphate",
+		"bulkDensityLbFt3": 89,
+		"densityGml": 1.43
+	},
+	{
+		"name": "Hydrated Zeolite",
+		"bulkDensityLbFt3": 120,
+		"densityGml": 1.92
+	},
+	{
+		"name": "Hydro Balls Expanded Clay",
+		"bulkDensityLbFt3": 5,
+		"densityGml": 0.08
+	},
+	{
+		"name": "Hydrofol Acid",
+		"bulkDensityLbFt3": 54.5,
+		"densityGml": 0.87
+	},
+	{
+		"name": "Hydromethyl Aminomethan",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Hydroquinone",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Hydrous Aluminum Silicate",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Hydroxy Stearic Acid",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Hydroxyethyl Cellulose",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Hydroxystearic Acid",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Hypaque",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Hysorb (Sodium Polyacrylate)",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Ice Cream",
+		"bulkDensityLbFt3": 67,
+		"densityGml": 1.07
+	},
+	{
+		"name": "Ice Cream Powder (Chocolate)",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Indigo Blue Dye",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Ink Powder",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Insect Control Dust",
+		"bulkDensityLbFt3": 10,
+		"densityGml": 0.16
+	},
+	{
+		"name": "Instant Coffee",
+		"bulkDensityLbFt3": 150,
+		"densityGml": 2.4
+	},
+	{
+		"name": "Instant Tea W/ Malto Dextron",
+		"bulkDensityLbFt3": 38.5,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Instant Tea Wet Mix",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Iodine Poly-Vinyl Pirrolidone",
+		"bulkDensityLbFt3": 82.5,
+		"densityGml": 1.32
+	},
+	{
+		"name": "Ion Exchange Resin",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Iridescent Flakes",
+		"bulkDensityLbFt3": 68,
+		"densityGml": 1.09
+	},
+	{
+		"name": "Iron Oxide",
+		"bulkDensityLbFt3": 16,
+		"densityGml": 0.26
+	},
+	{
+		"name": "Iron Oxide (Black)",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Iron Oxide (Red)",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Iron Oxide (Red, Brown, &amp; Black)",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Iron Oxide (Suerfine Alhahematite)",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Iron Oxide (Yellow)",
+		"bulkDensityLbFt3": 41.3,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Iron Powder",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Iron Powder, Carbonyl Css",
+		"bulkDensityLbFt3": 67.5,
+		"densityGml": 1.08
+	},
+	{
+		"name": "Iron Powder, Gray",
+		"bulkDensityLbFt3": 32.5,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Iron Pyrites",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Iron Shot",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Iron Silicide",
+		"bulkDensityLbFt3": 82,
+		"densityGml": 1.31
+	},
+	{
+		"name": "Isohthalic",
+		"bulkDensityLbFt3": 23.1,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Isolated Soy Protein",
+		"bulkDensityLbFt3": 89,
+		"densityGml": 1.43
+	},
+	{
+		"name": "Isomalt",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Italian Seasoning",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Japanese Bread Crumbs",
+		"bulkDensityLbFt3": 2,
+		"densityGml": 0.03
+	},
+	{
+		"name": "Kaolin Clay",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "K-Carraggeenan",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Kibble Dry",
+		"bulkDensityLbFt3": 74,
+		"densityGml": 1.19
+	},
+	{
+		"name": "Kibble Wet",
+		"bulkDensityLbFt3": 49.5,
+		"densityGml": 0.79
+	},
+	{
+		"name": "Kidney Beans",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "L - Tryptophan 97%",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Lacotse",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Lanthanom Oxide",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "L-Arginine",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Latte Mix",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Laundry Detergent",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Laundry Detergent Dust",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Lead Chloride",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Lead Chromated Pigment",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Lead Dust",
+		"bulkDensityLbFt3": 47.5,
+		"densityGml": 0.76
+	},
+	{
+		"name": "Lead Monoxide (Litharge)",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Lead Oxide (Powdered &amp; Pelletized)",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Lead Oxide, Granular",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Lemon Pepper Breading",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Lentil Soup Mix",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Lentils Beans Soaked For 24 Hours",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Lignite",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Lignosol",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Lime",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Lime , Soda Ash, Glass Sand",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Lime Stone",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Lime White",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Lime, Hydrated",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Lime, Pulverized Quick",
+		"bulkDensityLbFt3": 27.5,
+		"densityGml": 0.44
+	},
+	{
+		"name": "Limestone",
+		"bulkDensityLbFt3": 84,
+		"densityGml": 1.35
+	},
+	{
+		"name": "Limestone (Calcium Carbonate)",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Limestone (Marble Chips)",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Limestone Powder",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Lite Salt",
+		"bulkDensityLbFt3": 38.5,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Litharge Lead Oxide",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Lithium Carbonate",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Lithium Iron Phosphate",
+		"bulkDensityLbFt3": 8,
+		"densityGml": 0.13
+	},
+	{
+		"name": "Lithium Potassium Carbonate Eutectic",
+		"bulkDensityLbFt3": 19.1,
+		"densityGml": 0.31
+	},
+	{
+		"name": "Lithogum",
+		"bulkDensityLbFt3": 18.5,
+		"densityGml": 0.3
+	},
+	{
+		"name": "Liver Powder",
+		"bulkDensityLbFt3": 16.5,
+		"densityGml": 0.26
+	},
+	{
+		"name": "Loose Biomass-Shredded Fiber",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Loose Facial Powder",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Macadama Nuts (No Shell)",
+		"bulkDensityLbFt3": 10,
+		"densityGml": 0.16
+	},
+	{
+		"name": "Macadama Nuts (Chopped)",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Mackamide Cma",
+		"bulkDensityLbFt3": 82,
+		"densityGml": 1.31
+	},
+	{
+		"name": "Magnesia",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Magnesium",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Magnesium Carbonate",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Magnesium Chips",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Magnesium Chloride",
+		"bulkDensityLbFt3": 17.5,
+		"densityGml": 0.28
+	},
+	{
+		"name": "Magnesium Flakes",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Magnesium Hydroxide Powder",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Magnesium Oxide",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Magnesium Silicate",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Magnesium Sulphate (Ground)",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Magnesium Sulphate (Unground)",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Magnesium Swarf",
+		"bulkDensityLbFt3": 48.5,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Magnetic Iron Oxide",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Magnetite",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Magnetite Concentrate",
+		"bulkDensityLbFt3": 51.5,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Maleic Anhydride",
+		"bulkDensityLbFt3": 112,
+		"densityGml": 1.79
+	},
+	{
+		"name": "Malfalda",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Malic Acid",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Malt Mix",
+		"bulkDensityLbFt3": 31.5,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Malted Barley (Partially Sprouted)",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Malted Milk Powder",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Maltitol Nutriose Blend",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Malto - Dextrim",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Maltrin",
+		"bulkDensityLbFt3": 23.5,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Manganese",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Manganese Dioxide",
+		"bulkDensityLbFt3": 86.5,
+		"densityGml": 1.39
+	},
+	{
+		"name": "Manganese Dioxide, Graphite, Potash Liquid Mix",
+		"bulkDensityLbFt3": 64,
+		"densityGml": 1.03
+	},
+	{
+		"name": "Manganese Powder",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Mannitol",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Marasperse",
+		"bulkDensityLbFt3": 64,
+		"densityGml": 1.03
+	},
+	{
+		"name": "Marbelwhite",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Marigold Seeds",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Marshmallow Mix",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Marvinol",
+		"bulkDensityLbFt3": 8,
+		"densityGml": 0.13
+	},
+	{
+		"name": "Marvinol",
+		"bulkDensityLbFt3": 74.4,
+		"densityGml": 1.19
+	},
+	{
+		"name": "Meatloaf Spice",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Melamine",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Melamine Chemicals",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Melamine Powder",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Melfluidide",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Meron Pellets",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Metallic Brake Ad Mix (Gray)",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Methocel Cellulose Ether",
+		"bulkDensityLbFt3": 70,
+		"densityGml": 1.12
+	},
+	{
+		"name": "Methoxyphenylacetic",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Methyl Cellulose",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Methylanthraquinone",
+		"bulkDensityLbFt3": 20.8,
+		"densityGml": 0.33
+	},
+	{
+		"name": "Methyltin Mercatide Filter Cake",
+		"bulkDensityLbFt3": 53,
+		"densityGml": 0.85
+	},
+	{
+		"name": "Metrex",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Mevchem 140 (Resin)",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Mica",
+		"bulkDensityLbFt3": 28.8,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Micro Abrasives -25 Aluminum Oxide",
+		"bulkDensityLbFt3": 70,
+		"densityGml": 1.12
+	},
+	{
+		"name": "Micro Abrasives 9-25 Aluminum Oxide",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Micro Mx (Cattle Mineral Suplement)",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Microcrystalline Cellulose",
+		"bulkDensityLbFt3": 24.8,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Microcrystalline Wax",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Microglass Fine Flake",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Micronized Calcium Carbonate",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Micronized Polyurethane Powder",
+		"bulkDensityLbFt3": 8,
+		"densityGml": 0.13
+	},
+	{
+		"name": "Microsized Salt",
+		"bulkDensityLbFt3": 260,
+		"densityGml": 4.16
+	},
+	{
+		"name": "Microsoy Flakes",
+		"bulkDensityLbFt3": 53,
+		"densityGml": 0.85
+	},
+	{
+		"name": "Micro-Spheres",
+		"bulkDensityLbFt3": 4,
+		"densityGml": 0.06
+	},
+	{
+		"name": "Midlings (Ground Copper Wire &amp; Insulation)",
+		"bulkDensityLbFt3": 36.5,
+		"densityGml": 0.57
+	},
+	{
+		"name": "Milk Powder",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Milk Powder Based Feed",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Milk Powder, Non-Fat Dry",
+		"bulkDensityLbFt3": 61,
+		"densityGml": 0.98
+	},
+	{
+		"name": "Milk Powder, Whole",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Milled Bread Crumbs",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Milled Fiberglass",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Milled Lime",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Milled Lime Dust",
+		"bulkDensityLbFt3": 5.5,
+		"densityGml": 0.09
+	},
+	{
+		"name": "Milled Monosodium Phosphate",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Minced Garlic",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Minex",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Miniature Chocolate Chips",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Mini-Tots",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Mint Tea",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Mircoessentials Powder",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Mixed Spices",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Modified Hydroxyethyl Cellulose",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Molybdenum",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Molybdenum Disulfide",
+		"bulkDensityLbFt3": 140,
+		"densityGml": 2.24
+	},
+	{
+		"name": "Molybdenum Sulphide",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Molysulfide",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Monocalcium Phophate Monohydrate",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Monootassium Phoshate",
+		"bulkDensityLbFt3": 300,
+		"densityGml": 4.81
+	},
+	{
+		"name": "Monosodium Glutamate",
+		"bulkDensityLbFt3": 18,
+		"densityGml": 0.29
+	},
+	{
+		"name": "Monosodium Phophate",
+		"bulkDensityLbFt3": 18,
+		"densityGml": 0.29
+	},
+	{
+		"name": "Morthane Ca-100",
+		"bulkDensityLbFt3": 29.5,
+		"densityGml": 0.47
+	},
+	{
+		"name": "Mozzarella Cheese",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Muffin Mix",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Mung Bean Starch",
+		"bulkDensityLbFt3": 67,
+		"densityGml": 1.07
+	},
+	{
+		"name": "Muriate Of Potash",
+		"bulkDensityLbFt3": 73,
+		"densityGml": 1.17
+	},
+	{
+		"name": "Mustard Flour",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Mustard Powder",
+		"bulkDensityLbFt3": 63,
+		"densityGml": 1.01
+	},
+	{
+		"name": "Mustard Seed",
+		"bulkDensityLbFt3": 76,
+		"densityGml": 1.22
+	},
+	{
+		"name": "Mystic White (Pool Filter Sand)",
+		"bulkDensityLbFt3": 13,
+		"densityGml": 0.21
+	},
+	{
+		"name": "Nacho Cheese",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Nacho Seasoning",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Nailax",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Natural Calcium Carbonate (Lime)",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Natural Vanilla",
+		"bulkDensityLbFt3": 35.5,
+		"densityGml": 0.57
+	},
+	{
+		"name": "Natural Zeolite",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Niacin",
+		"bulkDensityLbFt3": 31.2,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Nickel Alloy Powder",
+		"bulkDensityLbFt3": 300,
+		"densityGml": 4.81
+	},
+	{
+		"name": "Nickel Cyclone Dust",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Nine Grain Blend",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Nitrobenzoic Acid",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "No Bake Foundry Sand",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Non-Asbestos Brake Lining Powder",
+		"bulkDensityLbFt3": 64,
+		"densityGml": 1.03
+	},
+	{
+		"name": "Non-Dairy Creamer",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Non-Fat Dry Milk",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Noodle",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Novacite",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Nutritional Powder",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Nylon Insulation",
+		"bulkDensityLbFt3": 8,
+		"densityGml": 0.13
+	},
+	{
+		"name": "Nylon Polyamide Fibers",
+		"bulkDensityLbFt3": 27.5,
+		"densityGml": 0.44
+	},
+	{
+		"name": "Oak Pellets",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Oak Saw Dust",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Oat Bran",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Oat Flour",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Oat Grouts",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Oatmeal &amp; Rice Baby Ceral",
+		"bulkDensityLbFt3": 61,
+		"densityGml": 0.98
+	},
+	{
+		"name": "Oats",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Oil Dry",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Oil Saturated Clay",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Oil Saturated Clay (Fines Fromoil Well Drilling Solids)",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Oil-Dri Fragrance",
+		"bulkDensityLbFt3": 63,
+		"densityGml": 1.01
+	},
+	{
+		"name": "Oily Cake",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Olyetyrene",
+		"bulkDensityLbFt3": 125,
+		"densityGml": 2
+	},
+	{
+		"name": "Olymer Fibers",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Onion Flakes",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Onion Powder",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Onion Salt",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Onyx",
+		"bulkDensityLbFt3": 74,
+		"densityGml": 1.19
+	},
+	{
+		"name": "Orange Peel (Dried)",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Orcelain Enamel Frit",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Oregano, Whole Mexican, Greek Cut",
+		"bulkDensityLbFt3": 7,
+		"densityGml": 0.11
+	},
+	{
+		"name": "Orgainic Whole Grain Flour",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Organic Animal Feed",
+		"bulkDensityLbFt3": 64,
+		"densityGml": 1.03
+	},
+	{
+		"name": "Organic Cane Sugar",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Organic Fertilizer (Biosolids)",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Organic Spring Wheat Flour",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Orzo",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Otassium Acetate",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Otassium Citrate",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Otassium Hydroxide",
+		"bulkDensityLbFt3": 52.5,
+		"densityGml": 0.84
+	},
+	{
+		"name": "Pacake Premix (Originally Frozen)",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Pacific Chai (Vanilla) Drink Mix",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Palm Oil Flakes",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Pancake Mix",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Pancake Premix",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Pancake Premix (Originally Frozen)",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Panodan",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Paper",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Paper Cellulose",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Paper Dust",
+		"bulkDensityLbFt3": 23.5,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Paper Mache",
+		"bulkDensityLbFt3": 21,
+		"densityGml": 0.34
+	},
+	{
+		"name": "Paratac",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Parcream",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Parmesan Cheese",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Parmesan Starter Culture",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Parsley",
+		"bulkDensityLbFt3": 3,
+		"densityGml": 0.05
+	},
+	{
+		"name": "Parsley Flakes (Dry)",
+		"bulkDensityLbFt3": 100,
+		"densityGml": 1.6
+	},
+	{
+		"name": "Parsley Salt Blend",
+		"bulkDensityLbFt3": 34.4,
+		"densityGml": 0.55
+	},
+	{
+		"name": "Pasta",
+		"bulkDensityLbFt3": 100,
+		"densityGml": 1.6
+	},
+	{
+		"name": "Pasturized Grade A Whole Milk Powder",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Peanut Butter Cookie",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Peanut Butter Cracker Meal",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Peanut Cake",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Peanut Fines",
+		"bulkDensityLbFt3": 95,
+		"densityGml": 1.52
+	},
+	{
+		"name": "Peanut Meal",
+		"bulkDensityLbFt3": 210,
+		"densityGml": 3.36
+	},
+	{
+		"name": "Peanuts, Whole Shelled, Raw",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Peas (Quartered) Green",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Peat Moss",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Peat Moss With Coconut Fibers",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Pecan Halves",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Pecan Pieces",
+		"bulkDensityLbFt3": 34.4,
+		"densityGml": 0.55
+	},
+	{
+		"name": "Pecans",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Pectin",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Pelletized Pvc Alloy",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Pentaerythritol",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Peppercorns",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Pepperoni Spice",
+		"bulkDensityLbFt3": 19,
+		"densityGml": 0.3
+	},
+	{
+		"name": "Peptona De Caseina",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Peralite (Sheetrock)",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Perlite (Sodium Potassium Alluminum Silicate)",
+		"bulkDensityLbFt3": 5,
+		"densityGml": 0.08
+	},
+	{
+		"name": "Perlite And Silicate Mix",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Perlite Powder (Expanded)",
+		"bulkDensityLbFt3": 6,
+		"densityGml": 0.1
+	},
+	{
+		"name": "Pet Food (Dried, Bone Shaped)",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Petroleum Coke",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Petroleum Coke Fines",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Petroleum Coke Flour",
+		"bulkDensityLbFt3": 180,
+		"densityGml": 2.88
+	},
+	{
+		"name": "Pharmaceutical Powder, Unground",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Pharmaceutical Starch",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Phenolic Novolac Thermalsetting Molding Compound",
+		"bulkDensityLbFt3": 61,
+		"densityGml": 0.98
+	},
+	{
+		"name": "Phtalic Anhydrite",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Pie Crust Mix (Bran Meal, Sugar, Shortening)",
+		"bulkDensityLbFt3": 17,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Pigment",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Pigment (Red)",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Pigment, Blue",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Pigment, Yellow",
+		"bulkDensityLbFt3": 11,
+		"densityGml": 0.18
+	},
+	{
+		"name": "Pine Resin-Flaked",
+		"bulkDensityLbFt3": 32.5,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Pine Shavings With 5% Alpha Dry Paper Squares",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Pinto Beans",
+		"bulkDensityLbFt3": 41.5,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Pinto Beans, Whole Raw",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Pistachio'S",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Pizza Dough Mix",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Pizza Dough Mix (Franchise Mix)",
+		"bulkDensityLbFt3": 47.5,
+		"densityGml": 0.76
+	},
+	{
+		"name": "Pizza Dough Mix (In House Sweet Dough)",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Plant Protein",
+		"bulkDensityLbFt3": 14,
+		"densityGml": 0.22
+	},
+	{
+		"name": "Plaster",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Plaster Powder",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Plaster, Moulding",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Plasterboard Dust",
+		"bulkDensityLbFt3": 46.5,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Plastic",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Plastic Abrasive (With 30% Water)",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Plastic Beads",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Plastic Cigar Tips",
+		"bulkDensityLbFt3": 13.6,
+		"densityGml": 0.22
+	},
+	{
+		"name": "Plastic Crystals",
+		"bulkDensityLbFt3": 32.5,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Plastic Cubes",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Plastic Film Chips",
+		"bulkDensityLbFt3": 90,
+		"densityGml": 1.44
+	},
+	{
+		"name": "Plastic Flake",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Plastic Pellet",
+		"bulkDensityLbFt3": 57,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Plastic Powder",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Plastic Regrind",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Plastic Regrind (.0105\")",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Plastic Regrind (.025\")",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Plastic Regrind (.025\")",
+		"bulkDensityLbFt3": 80,
+		"densityGml": 1.28
+	},
+	{
+		"name": "Plastic Resin Pellets",
+		"bulkDensityLbFt3": 69,
+		"densityGml": 1.11
+	},
+	{
+		"name": "Plasticized Metallic Pellets",
+		"bulkDensityLbFt3": 73.5,
+		"densityGml": 1.18
+	},
+	{
+		"name": "Plywood Adhesive Filler",
+		"bulkDensityLbFt3": 37.6,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Polishing Media",
+		"bulkDensityLbFt3": 51.5,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Poloxame",
+		"bulkDensityLbFt3": 90,
+		"densityGml": 1.44
+	},
+	{
+		"name": "Poltethylene Glycol",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Polyad Preblend",
+		"bulkDensityLbFt3": 90,
+		"densityGml": 1.44
+	},
+	{
+		"name": "Polyalphamethystyrene",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Polyblend",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Polyehtylene Pellets &amp; Mica Mixture",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Polyester Flake",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Polyester Flock",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Polyester Pellets",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Polyester Powder",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Polyester Resin Flake",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Polyethlene / Carnauba Wax Blend",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Polyethylen Wax Homopolymer",
+		"bulkDensityLbFt3": 57,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Polyethylene",
+		"bulkDensityLbFt3": 28.4,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Polyethylene Glycol",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Polyethylene Pellets",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Polyethylene Pellets &amp; Mica Mixture",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Polyethylene Powder",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Polyethylene Resin - 35 Mesh",
+		"bulkDensityLbFt3": 35.8,
+		"densityGml": 0.57
+	},
+	{
+		"name": "Polyethylene Scrap",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Polyolefin Powder",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Polypropolene, Pellet",
+		"bulkDensityLbFt3": 100,
+		"densityGml": 1.6
+	},
+	{
+		"name": "Polypropylene",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Polypropylene Flake",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Polypropylene Homopolymer",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Polypropylene Pellets",
+		"bulkDensityLbFt3": 46.5,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Polyramix (Salt) Waste",
+		"bulkDensityLbFt3": 73,
+		"densityGml": 1.17
+	},
+	{
+		"name": "Polyster Chips",
+		"bulkDensityLbFt3": 100,
+		"densityGml": 1.6
+	},
+	{
+		"name": "Polyster Flake",
+		"bulkDensityLbFt3": 62,
+		"densityGml": 0.99
+	},
+	{
+		"name": "Polystrene Regrind Plastic",
+		"bulkDensityLbFt3": 53,
+		"densityGml": 0.85
+	},
+	{
+		"name": "Polystyrene",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Polystyrene Beads",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Polystyrene Flakes",
+		"bulkDensityLbFt3": 68,
+		"densityGml": 1.09
+	},
+	{
+		"name": "Polystyrene Pellet",
+		"bulkDensityLbFt3": 93,
+		"densityGml": 1.49
+	},
+	{
+		"name": "Polystyrene Regrind Plastic",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Polystyrene / Zinc Stearate Compound",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Polytetrafluoroethylene (Ptfe) Powder",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Polytetramethylene Terephthalate",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Polyvinyl Alcohol",
+		"bulkDensityLbFt3": 66,
+		"densityGml": 1.06
+	},
+	{
+		"name": "Polyvinyl Chloride, Powder",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Polyvinylidenfluoride",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Pop Corn Meal",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Pop Corn Meal &amp; Cracked Pop Corn Mix (50/50)",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Popcorn (Popped)",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Popcorn Kernels",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Popcorn Kernels (Soak In Water 48 Hours)",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Poppy Seed",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Porcelain Enamal",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Pork Rinds (Hot, Pork Skin)",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Potassium Alumina Silcates",
+		"bulkDensityLbFt3": 63.2,
+		"densityGml": 1.01
+	},
+	{
+		"name": "Potassium Bichromate",
+		"bulkDensityLbFt3": 44.5,
+		"densityGml": 0.71
+	},
+	{
+		"name": "Potassium Carbonate",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Potassium Chloride",
+		"bulkDensityLbFt3": 11,
+		"densityGml": 0.18
+	},
+	{
+		"name": "Potassium Chloride (Blended With 1.2% Cabosil)",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Potassium Humate",
+		"bulkDensityLbFt3": 3,
+		"densityGml": 0.05
+	},
+	{
+		"name": "Potassium Nitrate",
+		"bulkDensityLbFt3": 76,
+		"densityGml": 1.22
+	},
+	{
+		"name": "Potassium Permanganate",
+		"bulkDensityLbFt3": 93,
+		"densityGml": 1.49
+	},
+	{
+		"name": "Potassium Sorbate",
+		"bulkDensityLbFt3": 4,
+		"densityGml": 0.06
+	},
+	{
+		"name": "Potato",
+		"bulkDensityLbFt3": 56.8,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Potato Chips",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Potato Flakes",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Potato Flour",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Potato Pancake Mix",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Potato Starch",
+		"bulkDensityLbFt3": 16,
+		"densityGml": 0.26
+	},
+	{
+		"name": "Potato Starch Flake",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Potato Starch Powder",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Poultry",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Poultry Bone Residue",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Poultry Gravy",
+		"bulkDensityLbFt3": 33.6,
+		"densityGml": 0.54
+	},
+	{
+		"name": "Poultry Seasoning",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Powder Coating",
+		"bulkDensityLbFt3": 34.4,
+		"densityGml": 0.55
+	},
+	{
+		"name": "Powder Pesticide",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Powder Salt Mix, Flavoring,Sodium Bicarbonate",
+		"bulkDensityLbFt3": 61.6,
+		"densityGml": 0.99
+	},
+	{
+		"name": "Powdered Acrylic Resin",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Powdered Activated Carbon",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Powdered Alpha Gary Pvc",
+		"bulkDensityLbFt3": 21,
+		"densityGml": 0.34
+	},
+	{
+		"name": "Powdered Brown Sugar",
+		"bulkDensityLbFt3": 17,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Powdered Candy Ingredients",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Powdered Caramel Color",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Powdered Cellulose",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Powdered Coke/Calcined",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Powdered Dessert",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Powdered Egg White",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Powdered Fabric Softener",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Powdered Laundry Detergent",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Powdered Metal",
+		"bulkDensityLbFt3": 47.5,
+		"densityGml": 0.76
+	},
+	{
+		"name": "Powdered Paint",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Powdered Salt",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Powdered Soybean Lecithin",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Powdered Steel",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Powdered Sugar",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Powdered Sugar (3% Starch)",
+		"bulkDensityLbFt3": 46.5,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Powdered Sugar With 3% Corn Starch",
+		"bulkDensityLbFt3": 43.5,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Preblend Tortilla",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Precipitated Silica",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Premium Hardwood Pellets Fuel",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Premium Wood Pellets Fuel",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Promazine Granules",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Propyl Paraben",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Protein",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Protein Drink Mix - Whey, Sweetener, Nutrients",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Protein Drink Mixes (Vanilla, Chocolate)",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Protein Mix (French Vanilla)",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Protein Powder",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Protient",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Pulp Dust",
+		"bulkDensityLbFt3": 73,
+		"densityGml": 1.17
+	},
+	{
+		"name": "Pulverized Limestone",
+		"bulkDensityLbFt3": 12,
+		"densityGml": 0.19
+	},
+	{
+		"name": "Quarternary Amines, Dried Product",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Quick Oat",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Quicklime (Ca0)",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Quick-Solid Absorbant (Sodium Polyacrylate)",
+		"bulkDensityLbFt3": 41.6,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Quiona",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Raisins &amp; Dates",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Ranch Seasoning",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Rasins",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Rat Feed (1/4\" H X 1/2\" W X 1\" L)",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Raw Cellulose",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Raw Cement",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Raw Plastic Flakes",
+		"bulkDensityLbFt3": 69,
+		"densityGml": 1.11
+	},
+	{
+		"name": "Rawhide &amp; Starch Blend",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Reclaim Waste Cement",
+		"bulkDensityLbFt3": 3,
+		"densityGml": 0.05
+	},
+	{
+		"name": "Recycled Acrylic",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Recycled Tire Rubber",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Red Cedar",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Red Iron Oxide",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Red Pepper (3/8\")",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Red Peppermint Flakes",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Red Skinned Peanuts",
+		"bulkDensityLbFt3": 95,
+		"densityGml": 1.52
+	},
+	{
+		"name": "Reground Polyethylene",
+		"bulkDensityLbFt3": 47.5,
+		"densityGml": 0.76
+	},
+	{
+		"name": "Rennet Casin",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Resi-Flake",
+		"bulkDensityLbFt3": 65,
+		"densityGml": 1.04
+	},
+	{
+		"name": "Resi-Flake And Phenoli Resin",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Resimene",
+		"bulkDensityLbFt3": 51.5,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Resin",
+		"bulkDensityLbFt3": 10,
+		"densityGml": 0.16
+	},
+	{
+		"name": "Rice Crispies",
+		"bulkDensityLbFt3": 90,
+		"densityGml": 1.44
+	},
+	{
+		"name": "Rice Crispy Treat Cereal",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Rice Flour",
+		"bulkDensityLbFt3": 70,
+		"densityGml": 1.12
+	},
+	{
+		"name": "Rice Hull Ash",
+		"bulkDensityLbFt3": 62,
+		"densityGml": 0.99
+	},
+	{
+		"name": "Rice Hulls",
+		"bulkDensityLbFt3": 69,
+		"densityGml": 1.11
+	},
+	{
+		"name": "Rice Hulls, Dry",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Rice Hulls, Wet",
+		"bulkDensityLbFt3": 67,
+		"densityGml": 1.07
+	},
+	{
+		"name": "Rice Hulls/Limstone",
+		"bulkDensityLbFt3": 75,
+		"densityGml": 1.2
+	},
+	{
+		"name": "Rice Short Grain",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Roast Chicken Seasoning For Rice",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Roasted Coffee Beans",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Roasted Coffee Beans Whole",
+		"bulkDensityLbFt3": 8,
+		"densityGml": 0.13
+	},
+	{
+		"name": "Roasted Garlic And Herb",
+		"bulkDensityLbFt3": 125,
+		"densityGml": 2
+	},
+	{
+		"name": "Roasted Peanuts",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Roasted Soy Beans",
+		"bulkDensityLbFt3": 10,
+		"densityGml": 0.16
+	},
+	{
+		"name": "Roasted Whole Bean Coffee",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Roasting Seasoning",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Rock Salt",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Roduct Fines",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Rolled Corn",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Rolled Oats (Thick)",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Roofing Granules",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Rooibos Dried Tea",
+		"bulkDensityLbFt3": 69,
+		"densityGml": 1.11
+	},
+	{
+		"name": "Rosemary Seasoning",
+		"bulkDensityLbFt3": 49,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Rosin",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Rubber",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Rubber (Ground Tires)",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Rubber Buffings",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Rubber Flake",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Rubber Powder",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Rubber, Ground",
+		"bulkDensityLbFt3": 3.5,
+		"densityGml": 0.06
+	},
+	{
+		"name": "Rubber, Nitrile (Baker Rubber)",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Rug And Room Deoderant",
+		"bulkDensityLbFt3": 69.5,
+		"densityGml": 1.11
+	},
+	{
+		"name": "Rye Flour",
+		"bulkDensityLbFt3": 89,
+		"densityGml": 1.43
+	},
+	{
+		"name": "Saccharin Sodium",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Salt",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Salt &amp; Milk Powder Mix",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Salt &amp; Vinager Seasoning Mix",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Salt (Fine)",
+		"bulkDensityLbFt3": 68,
+		"densityGml": 1.09
+	},
+	{
+		"name": "Salt (Medical Grade)",
+		"bulkDensityLbFt3": 85,
+		"densityGml": 1.36
+	},
+	{
+		"name": "Salt (Modern Cure-Pink)",
+		"bulkDensityLbFt3": 68,
+		"densityGml": 1.09
+	},
+	{
+		"name": "Salt (Sodium Chloride)",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Salt And Calcium Chloride Mixture",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Salt Blend (Salt And Sucrose)",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Salt Brine",
+		"bulkDensityLbFt3": 77,
+		"densityGml": 1.23
+	},
+	{
+		"name": "Salt Granulated General Purpose",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Salt Marination With Shortening",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Salt, Evaporated, Granulated",
+		"bulkDensityLbFt3": 84,
+		"densityGml": 1.35
+	},
+	{
+		"name": "Salt, Ground",
+		"bulkDensityLbFt3": 87,
+		"densityGml": 1.39
+	},
+	{
+		"name": "Salt, Microsized",
+		"bulkDensityLbFt3": 80,
+		"densityGml": 1.28
+	},
+	{
+		"name": "Salt, Prepared Flour",
+		"bulkDensityLbFt3": 95,
+		"densityGml": 1.52
+	},
+	{
+		"name": "Salt/Seasoning Mixture",
+		"bulkDensityLbFt3": 85,
+		"densityGml": 1.36
+	},
+	{
+		"name": "Salted Caramel Almonds",
+		"bulkDensityLbFt3": 56,
+		"densityGml": 0.9
+	},
+	{
+		"name": "Salt-Granulated General Purpose",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Sand &amp; Shale Mix",
+		"bulkDensityLbFt3": 47,
+		"densityGml": 0.75
+	},
+	{
+		"name": "Sand Additives",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Sandstone With Granite A",
+		"bulkDensityLbFt3": 18,
+		"densityGml": 0.29
+	},
+	{
+		"name": "Sandy Seasoning",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Santonox",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Satintone Clay",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Sawdust",
+		"bulkDensityLbFt3": 70.5,
+		"densityGml": 1.13
+	},
+	{
+		"name": "Scheelite Ground Ore",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Scrap Metal",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Sea Coal",
+		"bulkDensityLbFt3": 42.5,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Seafood Scampi Preblend",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Seasoning For Rice-A-Roni",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Seasoning Salt",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Seasonings",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Seasonings (Pizza)",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Seaweed Powder",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Sebacic Acid",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Sebacoc Acid",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Seldane",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Sequestrene",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Sesame",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Sesame Flour",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Sesame Seed",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Shellac",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Shiitake",
+		"bulkDensityLbFt3": 57,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Shorting Powder",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Shredded Beef Jerkey",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Shredded Foam Polystyrene",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Shredded Olar Chips",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Sika Grout",
+		"bulkDensityLbFt3": 220,
+		"densityGml": 3.52
+	},
+	{
+		"name": "Silcon Carbide",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Silcon Metal",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Silica",
+		"bulkDensityLbFt3": 15,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Silica Flour",
+		"bulkDensityLbFt3": 300,
+		"densityGml": 4.81
+	},
+	{
+		"name": "Silica Gel",
+		"bulkDensityLbFt3": 140,
+		"densityGml": 2.24
+	},
+	{
+		"name": "Silica Microballoons",
+		"bulkDensityLbFt3": 18.4,
+		"densityGml": 0.29
+	},
+	{
+		"name": "Silica Sand",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Silica Smoke",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Silica, Fumed (Degussa Aerosil R972)",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Silicate Powder",
+		"bulkDensityLbFt3": 31.5,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Silicates",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Silico Aluminates Mix",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Silicon Carbide",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Silicon Dioxide",
+		"bulkDensityLbFt3": 13.6,
+		"densityGml": 0.22
+	},
+	{
+		"name": "Silicon Dioxide Amorphnos",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Silicon Metal",
+		"bulkDensityLbFt3": 33.8,
+		"densityGml": 0.54
+	},
+	{
+		"name": "Silicone Powder",
+		"bulkDensityLbFt3": 37.5,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Siliconized Monoammonium Hoshate",
+		"bulkDensityLbFt3": 41,
+		"densityGml": 0.66
+	},
+	{
+		"name": "Skim Milk",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Sliced Almonds",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Slimicide",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Sludge",
+		"bulkDensityLbFt3": 43.5,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Sludge From A Rotary Filter",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Snowflake Crystals",
+		"bulkDensityLbFt3": 51.5,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Snuff",
+		"bulkDensityLbFt3": 64,
+		"densityGml": 1.03
+	},
+	{
+		"name": "Soap Flakes",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Soap Noodles",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Soap Powder",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Soda Ash (Sodium Carbonate)",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Sodasorb",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Sodiium Tripolyphosphate",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Sodim Ercarbonate",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Sodium Alumino Silcate",
+		"bulkDensityLbFt3": 24.8,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Sodium Benzoate",
+		"bulkDensityLbFt3": 23,
+		"densityGml": 0.37
+	},
+	{
+		"name": "Sodium Bicarbinate",
+		"bulkDensityLbFt3": 31.5,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Sodium Bisulfate",
+		"bulkDensityLbFt3": 65.6,
+		"densityGml": 1.05
+	},
+	{
+		"name": "Sodium Bromide Biocide",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Sodium Carbonate",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Sodium Caseinate",
+		"bulkDensityLbFt3": 11,
+		"densityGml": 0.18
+	},
+	{
+		"name": "Sodium Chloride",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Sodium Chloride ( Salt)",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Sodium Chloride (Pink Salt)",
+		"bulkDensityLbFt3": 69.6,
+		"densityGml": 1.11
+	},
+	{
+		"name": "Sodium Chloride, De-Icer",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Sodium Citrate",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Sodium Citrate (Citric Acid)",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Sodium Cmc (Sodium Carboxymethyl Cellulose",
+		"bulkDensityLbFt3": 71.3,
+		"densityGml": 1.14
+	},
+	{
+		"name": "Sodium Cyclamate",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Sodium Ercarbonate",
+		"bulkDensityLbFt3": 52.8,
+		"densityGml": 0.85
+	},
+	{
+		"name": "Sodium Hexametaphosphate",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Sodium Lasalocid",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Sodium Lasalocid (Animal Antibiotic)",
+		"bulkDensityLbFt3": 43.5,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Sodium Metabisulfate",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Sodium Metabisulfite",
+		"bulkDensityLbFt3": 51,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Sodium Monochloroacetate",
+		"bulkDensityLbFt3": 59,
+		"densityGml": 0.95
+	},
+	{
+		"name": "Sodium Nitrite",
+		"bulkDensityLbFt3": 27.2,
+		"densityGml": 0.44
+	},
+	{
+		"name": "Sodium Novobiocin",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Sodium Phophate Monobasic",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Sodium Phosphate Diabasic",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Sodium Silicate",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Sodium Silico",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Sodium Solico Aluminate",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Sodium Stearate",
+		"bulkDensityLbFt3": 43.2,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Sodium Stearate",
+		"bulkDensityLbFt3": 42.5,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Sodium Stearoyl",
+		"bulkDensityLbFt3": 49.6,
+		"densityGml": 0.79
+	},
+	{
+		"name": "Sodium Sulfamethazine",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Sodium Sulfate",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Sodium Sulphate Salt",
+		"bulkDensityLbFt3": 26.5,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Sodium Sulphate, Anhydrous",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Sodium Teraborate Pentahydrate",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Sodium Thiosulfate",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Sodium Thiosylfate (Hypo)",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Sodium Trichloroyridino",
+		"bulkDensityLbFt3": 41.6,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Sodium Trimetaphosphate",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Sodium Trioly Hoshate",
+		"bulkDensityLbFt3": 19.2,
+		"densityGml": 0.31
+	},
+	{
+		"name": "Sodium Tripoly Phosphate",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Sodium, Perborate Tetrahydrate",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Softener Fines",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Soldium Lasalocid (Animal Antibiotic)",
+		"bulkDensityLbFt3": 6.4,
+		"densityGml": 0.1
+	},
+	{
+		"name": "Solid Epoxy",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Solid Plastic Resin",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Solid Resin Flakes",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Sorbacal",
+		"bulkDensityLbFt3": 55,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Sorbitol (Powder)",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Soup Base",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Soup Mix 13 Bean",
+		"bulkDensityLbFt3": 120,
+		"densityGml": 1.92
+	},
+	{
+		"name": "Soup Mix With Noodles",
+		"bulkDensityLbFt3": 120,
+		"densityGml": 1.92
+	},
+	{
+		"name": "Soup Mix, Potato",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Sour Cream Powder",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Soy Bean Hulls (Chopped)",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Soy Bean Mill",
+		"bulkDensityLbFt3": 22,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Soy Flour Chunk",
+		"bulkDensityLbFt3": 10,
+		"densityGml": 0.16
+	},
+	{
+		"name": "Soy Nuts",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Soy Nuts",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Soy Oil Beads (Prills)",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Soy Protein With Lecithin",
+		"bulkDensityLbFt3": 38.4,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Soya Flour",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Soyisolate (Soy Powder)",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Spaghetti",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Spandex (Polyurethane)",
+		"bulkDensityLbFt3": 43.2,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Spanish Flavorings Seasonings",
+		"bulkDensityLbFt3": 22.4,
+		"densityGml": 0.36
+	},
+	{
+		"name": "Spectinomycin Sulfate",
+		"bulkDensityLbFt3": 62,
+		"densityGml": 0.99
+	},
+	{
+		"name": "Spent Clay",
+		"bulkDensityLbFt3": 39.5,
+		"densityGml": 0.63
+	},
+	{
+		"name": "Spent Coffee Grounds",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Spent Grain",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Sponge Iron",
+		"bulkDensityLbFt3": 99.2,
+		"densityGml": 1.59
+	},
+	{
+		"name": "Spray Dried Clay Powder",
+		"bulkDensityLbFt3": 27.2,
+		"densityGml": 0.44
+	},
+	{
+		"name": "Sprayable Concrete Mix",
+		"bulkDensityLbFt3": 36.6,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Stainless Steel Shot",
+		"bulkDensityLbFt3": 42.6,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Starch (Corn)",
+		"bulkDensityLbFt3": 36.8,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Starch (Pregelatnized)",
+		"bulkDensityLbFt3": 46.4,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Starch (Stadex)",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Starch, Cabosil, Ibuprofen",
+		"bulkDensityLbFt3": 33.6,
+		"densityGml": 0.54
+	},
+	{
+		"name": "Starch, Gluten, Germ, Fiber Mixture",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Starch, Modified Industrial",
+		"bulkDensityLbFt3": 47.2,
+		"densityGml": 0.76
+	},
+	{
+		"name": "Starch, Moulding",
+		"bulkDensityLbFt3": 44.8,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Starch, Potato",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Starch, Wheat",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Steamed Bone Meal",
+		"bulkDensityLbFt3": 17.6,
+		"densityGml": 0.28
+	},
+	{
+		"name": "Steatite (85% Talc, 5% Kaolin, 10% Feldsar)",
+		"bulkDensityLbFt3": 30.6,
+		"densityGml": 0.49
+	},
+	{
+		"name": "Steel Fibers, Chopped",
+		"bulkDensityLbFt3": 32.8,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Steel Shot, 3/8\"",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Steel Wool",
+		"bulkDensityLbFt3": 14.4,
+		"densityGml": 0.23
+	},
+	{
+		"name": "Steel Wool Fibers",
+		"bulkDensityLbFt3": 36.8,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Steric Acid",
+		"bulkDensityLbFt3": 72,
+		"densityGml": 1.15
+	},
+	{
+		"name": "Stigmasterol (Steroid)",
+		"bulkDensityLbFt3": 60.8,
+		"densityGml": 0.97
+	},
+	{
+		"name": "Stone Aggregate 3/16\"",
+		"bulkDensityLbFt3": 33.6,
+		"densityGml": 0.54
+	},
+	{
+		"name": "Stones",
+		"bulkDensityLbFt3": 22.4,
+		"densityGml": 0.36
+	},
+	{
+		"name": "Strawberry Protein Powder",
+		"bulkDensityLbFt3": 51,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Strawberry Sprinkles",
+		"bulkDensityLbFt3": 65.6,
+		"densityGml": 1.05
+	},
+	{
+		"name": "Styrene",
+		"bulkDensityLbFt3": 30.4,
+		"densityGml": 0.49
+	},
+	{
+		"name": "Styrene Acrylic Polymer",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Styrene Maleic Anhydride Resin",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Sudafed",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Sugar",
+		"bulkDensityLbFt3": 49.6,
+		"densityGml": 0.79
+	},
+	{
+		"name": "Sugar Beet Pulp",
+		"bulkDensityLbFt3": 24,
+		"densityGml": 0.38
+	},
+	{
+		"name": "Sugar Blend",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Sugar, Granulated",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Sugar, Light Brown",
+		"bulkDensityLbFt3": 34.5,
+		"densityGml": 0.55
+	},
+	{
+		"name": "Sugar, Powdered",
+		"bulkDensityLbFt3": 35.5,
+		"densityGml": 0.57
+	},
+	{
+		"name": "Sugar, White",
+		"bulkDensityLbFt3": 76.8,
+		"densityGml": 1.23
+	},
+	{
+		"name": "Sugar / Salt / Frotex Mixture",
+		"bulkDensityLbFt3": 61,
+		"densityGml": 0.98
+	},
+	{
+		"name": "Sugar / Sorbitol / Phosphate Mixture",
+		"bulkDensityLbFt3": 3.2,
+		"densityGml": 0.05
+	},
+	{
+		"name": "Sugar-Gelatin Mix (92%-8%)",
+		"bulkDensityLbFt3": 21.6,
+		"densityGml": 0.35
+	},
+	{
+		"name": "Sulfanilic Acid",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Sulfasan",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Sulfonic Acid",
+		"bulkDensityLbFt3": 41.6,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Sulfur",
+		"bulkDensityLbFt3": 40.6,
+		"densityGml": 0.65
+	},
+	{
+		"name": "Sulfur Granulars",
+		"bulkDensityLbFt3": 28.8,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Sulfur Powder",
+		"bulkDensityLbFt3": 152,
+		"densityGml": 2.43
+	},
+	{
+		"name": "Sulphur / Rubber Makers",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "Sumed Silica",
+		"bulkDensityLbFt3": 27,
+		"densityGml": 0.43
+	},
+	{
+		"name": "Sumikathene G201",
+		"bulkDensityLbFt3": 35.2,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Sunflour Seeds",
+		"bulkDensityLbFt3": 44.8,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Sunflower Seeds, Salted &amp; Roasted",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Super White Cleanser",
+		"bulkDensityLbFt3": 35.2,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Surlyn",
+		"bulkDensityLbFt3": 32.4,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Susta",
+		"bulkDensityLbFt3": 36.8,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Sweet Cake",
+		"bulkDensityLbFt3": 19.2,
+		"densityGml": 0.31
+	},
+	{
+		"name": "Synthetic Amorhous Silicas Gels",
+		"bulkDensityLbFt3": 35.2,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Synthetic Calcium Silcate",
+		"bulkDensityLbFt3": 43.2,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Synthetic Gysum (Bucket)",
+		"bulkDensityLbFt3": 33.6,
+		"densityGml": 0.54
+	},
+	{
+		"name": "Synthetic Iron Oxide",
+		"bulkDensityLbFt3": 38.4,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Synthetic Plastic Pellets",
+		"bulkDensityLbFt3": 38.4,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Synthetic Rubber",
+		"bulkDensityLbFt3": 39.2,
+		"densityGml": 0.63
+	},
+	{
+		"name": "Tabacco Dust",
+		"bulkDensityLbFt3": 43.2,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Tabular Alumia",
+		"bulkDensityLbFt3": 43.2,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Taco Seasoning",
+		"bulkDensityLbFt3": 32.5,
+		"densityGml": 0.52
+	},
+	{
+		"name": "Talc",
+		"bulkDensityLbFt3": 16,
+		"densityGml": 0.26
+	},
+	{
+		"name": "Talc &amp; Nitohard Batch Mix",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Talc Powder",
+		"bulkDensityLbFt3": 39.2,
+		"densityGml": 0.63
+	},
+	{
+		"name": "Talc, Hydrous Magnesium Silicate",
+		"bulkDensityLbFt3": 29.6,
+		"densityGml": 0.47
+	},
+	{
+		"name": "Talc, Magnesium Silicate",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Talcum Powder",
+		"bulkDensityLbFt3": 46.4,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Tang Premix",
+		"bulkDensityLbFt3": 45.6,
+		"densityGml": 0.73
+	},
+	{
+		"name": "Tangy Ranch Powder",
+		"bulkDensityLbFt3": 6.4,
+		"densityGml": 0.1
+	},
+	{
+		"name": "Tapioca Starch (Binosol)",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Tartrazine Lake",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Tasmar",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Taurine",
+		"bulkDensityLbFt3": 46.4,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Tea",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Tech Entaerythritol",
+		"bulkDensityLbFt3": 43.2,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Techolymer Exm",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Teflon Powder",
+		"bulkDensityLbFt3": 31.5,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Terephtahlic Acid, Purified",
+		"bulkDensityLbFt3": 37,
+		"densityGml": 0.59
+	},
+	{
+		"name": "Terphthalic Acid",
+		"bulkDensityLbFt3": 54.4,
+		"densityGml": 0.87
+	},
+	{
+		"name": "Textured Vegtable Protein",
+		"bulkDensityLbFt3": 20.8,
+		"densityGml": 0.33
+	},
+	{
+		"name": "Theic - Isocyanurate",
+		"bulkDensityLbFt3": 89.617,
+		"densityGml": 1.44
+	},
+	{
+		"name": "Themoplastic Polymer",
+		"bulkDensityLbFt3": 30.4,
+		"densityGml": 0.49
+	},
+	{
+		"name": "Theraffin Wax",
+		"bulkDensityLbFt3": 35.2,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Thermbond",
+		"bulkDensityLbFt3": 11.2,
+		"densityGml": 0.18
+	},
+	{
+		"name": "Thermo Polyurethane",
+		"bulkDensityLbFt3": 32.8,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Thermoplastic Polyolefin",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Thermoplastic Polyurethane",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Thermoplastic Rubber",
+		"bulkDensityLbFt3": 43.2,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Tigercrete",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Tile Compound",
+		"bulkDensityLbFt3": 22.4,
+		"densityGml": 0.36
+	},
+	{
+		"name": "Tin Flour",
+		"bulkDensityLbFt3": 25.6,
+		"densityGml": 0.41
+	},
+	{
+		"name": "Tisand Rutile",
+		"bulkDensityLbFt3": 78.4,
+		"densityGml": 1.26
+	},
+	{
+		"name": "Titanium Dioxide",
+		"bulkDensityLbFt3": 22.4,
+		"densityGml": 0.36
+	},
+	{
+		"name": "Titanium Dioxide Titanox 2020",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Titanium Dioxide, Diatomaceous Earth Mixture",
+		"bulkDensityLbFt3": 13.7,
+		"densityGml": 0.22
+	},
+	{
+		"name": "Toasted Orzo",
+		"bulkDensityLbFt3": 30.1,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Toatsted Coconut / Cornflake Crumb",
+		"bulkDensityLbFt3": 38.4,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Tobacco",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Tobacco Dust",
+		"bulkDensityLbFt3": 40.8,
+		"densityGml": 0.65
+	},
+	{
+		"name": "Tobacco Products",
+		"bulkDensityLbFt3": 54.8,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Tobacoo",
+		"bulkDensityLbFt3": 42.4,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Toner",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Tricalcium Phosphate",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Trisodium Citrate",
+		"bulkDensityLbFt3": 31,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Trisodium Citrate Dihydrate",
+		"bulkDensityLbFt3": 4,
+		"densityGml": 0.06
+	},
+	{
+		"name": "Tromethamine",
+		"bulkDensityLbFt3": 46.4,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Tubettini (Macaroni)",
+		"bulkDensityLbFt3": 34.4,
+		"densityGml": 0.55
+	},
+	{
+		"name": "Tungsten Oxide",
+		"bulkDensityLbFt3": 100.8,
+		"densityGml": 1.61
+	},
+	{
+		"name": "Turf Builder -Oasis Bulk",
+		"bulkDensityLbFt3": 102.4,
+		"densityGml": 1.64
+	},
+	{
+		"name": "Turmeric, Paprika, Clove Mix",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Turmeric, Whole Alleppy",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Ulverized Vinsol Resin",
+		"bulkDensityLbFt3": 14.4,
+		"densityGml": 0.23
+	},
+	{
+		"name": "Umber Iron Oxide",
+		"bulkDensityLbFt3": 38.4,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Unimin Silica",
+		"bulkDensityLbFt3": 15.2,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Unitane (Cyanimid)",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Untreated Thermal Silica",
+		"bulkDensityLbFt3": 58.4,
+		"densityGml": 0.94
+	},
+	{
+		"name": "Urea",
+		"bulkDensityLbFt3": 53.5,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Urea Formaldehyde",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "Urea Granular",
+		"bulkDensityLbFt3": 68,
+		"densityGml": 1.09
+	},
+	{
+		"name": "Urea Industrial (46% Nitrogen)",
+		"bulkDensityLbFt3": 56.8,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Urea, Fertilizer",
+		"bulkDensityLbFt3": 54,
+		"densityGml": 0.86
+	},
+	{
+		"name": "Urea, Gertilizer (Van Waters &amp; Rogers)",
+		"bulkDensityLbFt3": 80,
+		"densityGml": 1.28
+	},
+	{
+		"name": "Urethane And Salt Mix",
+		"bulkDensityLbFt3": 42,
+		"densityGml": 0.67
+	},
+	{
+		"name": "Vagisil Powder",
+		"bulkDensityLbFt3": 46,
+		"densityGml": 0.74
+	},
+	{
+		"name": "Vanadium Trioxide",
+		"bulkDensityLbFt3": 70,
+		"densityGml": 1.12
+	},
+	{
+		"name": "Vanilla",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Vanilla Beans Exhausted Wet",
+		"bulkDensityLbFt3": 12,
+		"densityGml": 0.19
+	},
+	{
+		"name": "Vanilla Deryrated Marshmallows",
+		"bulkDensityLbFt3": 12,
+		"densityGml": 0.19
+	},
+	{
+		"name": "Vanilla Frosting Bakery Mix",
+		"bulkDensityLbFt3": 15.2,
+		"densityGml": 0.24
+	},
+	{
+		"name": "Vanillin",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Vegetable Powder",
+		"bulkDensityLbFt3": 56.8,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Vermiculite (Magnesiuam Aluminosilicate)",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Vermiculite, Steel Wool, Graphite Mixture",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Versaro Fired Bavxite",
+		"bulkDensityLbFt3": 70,
+		"densityGml": 1.12
+	},
+	{
+		"name": "Vinyl Powder",
+		"bulkDensityLbFt3": 15.8,
+		"densityGml": 0.25
+	},
+	{
+		"name": "Vinyl Resin",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Virgin Aer And Mouse Food",
+		"bulkDensityLbFt3": 40.8,
+		"densityGml": 0.65
+	},
+	{
+		"name": "Vitacel",
+		"bulkDensityLbFt3": 18.4,
+		"densityGml": 0.29
+	},
+	{
+		"name": "Vitasul Fertilizer Grade (Cured)",
+		"bulkDensityLbFt3": 13.6,
+		"densityGml": 0.22
+	},
+	{
+		"name": "Vitreous Fiber",
+		"bulkDensityLbFt3": 10.4,
+		"densityGml": 0.17
+	},
+	{
+		"name": "Vrllulose Acatate-Butyrate",
+		"bulkDensityLbFt3": 52,
+		"densityGml": 0.83
+	},
+	{
+		"name": "Vulcanizate Rubber (Powder)",
+		"bulkDensityLbFt3": 24.8,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Wallpaper Adhesive",
+		"bulkDensityLbFt3": 316,
+		"densityGml": 5.06
+	},
+	{
+		"name": "Wasabi Powder",
+		"bulkDensityLbFt3": 80,
+		"densityGml": 1.28
+	},
+	{
+		"name": "Washed Natural Sesame Seeds",
+		"bulkDensityLbFt3": 100,
+		"densityGml": 1.6
+	},
+	{
+		"name": "Water Dispersible",
+		"bulkDensityLbFt3": 33.6,
+		"densityGml": 0.54
+	},
+	{
+		"name": "Water Dispersible",
+		"bulkDensityLbFt3": 37.6,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Water Softener Salt Pettets, 99.6% Pure Salt",
+		"bulkDensityLbFt3": 28,
+		"densityGml": 0.45
+	},
+	{
+		"name": "Wax Beads",
+		"bulkDensityLbFt3": 29.6,
+		"densityGml": 0.47
+	},
+	{
+		"name": "Wax Compound",
+		"bulkDensityLbFt3": 38,
+		"densityGml": 0.61
+	},
+	{
+		"name": "Wax Granular",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Wax Pearls",
+		"bulkDensityLbFt3": 31.4,
+		"densityGml": 0.5
+	},
+	{
+		"name": "Welding Exhaust Dust",
+		"bulkDensityLbFt3": 47.8,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Western Bentonite 200",
+		"bulkDensityLbFt3": 26.4,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Wet Cellulose",
+		"bulkDensityLbFt3": 114.4,
+		"densityGml": 1.83
+	},
+	{
+		"name": "Wet Corn",
+		"bulkDensityLbFt3": 66.4,
+		"densityGml": 1.06
+	},
+	{
+		"name": "Wet Distillers Grain",
+		"bulkDensityLbFt3": 16.8,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Wet Gravel",
+		"bulkDensityLbFt3": 48.8,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Wheat Bran Fiber",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Wheat Germ",
+		"bulkDensityLbFt3": 30,
+		"densityGml": 0.48
+	},
+	{
+		"name": "Wheat Germ Epllets/Granules Mix",
+		"bulkDensityLbFt3": 56.8,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Wheat Germ Granuals (Defatted)",
+		"bulkDensityLbFt3": 58.4,
+		"densityGml": 0.94
+	},
+	{
+		"name": "Wheat Germ Pellets",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Wheat Germ Pellets/Granules Mix",
+		"bulkDensityLbFt3": 37.6,
+		"densityGml": 0.6
+	},
+	{
+		"name": "Wheat Gluten",
+		"bulkDensityLbFt3": 50.9,
+		"densityGml": 0.82
+	},
+	{
+		"name": "Wheat Paste",
+		"bulkDensityLbFt3": 29,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Wheat Roll",
+		"bulkDensityLbFt3": 58.4,
+		"densityGml": 0.94
+	},
+	{
+		"name": "Wheat Starch",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Wheatfield",
+		"bulkDensityLbFt3": 8,
+		"densityGml": 0.13
+	},
+	{
+		"name": "Whey (Hygroscopic)",
+		"bulkDensityLbFt3": 25,
+		"densityGml": 0.4
+	},
+	{
+		"name": "Whey (Protein) Powder",
+		"bulkDensityLbFt3": 42.8,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Whey Feed Supplement",
+		"bulkDensityLbFt3": 32.8,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Whey Powder",
+		"bulkDensityLbFt3": 28.5,
+		"densityGml": 0.46
+	},
+	{
+		"name": "Whey Protein",
+		"bulkDensityLbFt3": 26,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Whey Protein Concentrate",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "Whey, Lo-Lac Reduced Lactose",
+		"bulkDensityLbFt3": 45.6,
+		"densityGml": 0.73
+	},
+	{
+		"name": "Whey, Pellets",
+		"bulkDensityLbFt3": 50,
+		"densityGml": 0.8
+	},
+	{
+		"name": "White Basmati Rice",
+		"bulkDensityLbFt3": 12,
+		"densityGml": 0.19
+	},
+	{
+		"name": "White Cheddar Cheese Powder",
+		"bulkDensityLbFt3": 48,
+		"densityGml": 0.77
+	},
+	{
+		"name": "White Flakes",
+		"bulkDensityLbFt3": 34,
+		"densityGml": 0.545
+	},
+	{
+		"name": "White Hulled Sesame Seeds",
+		"bulkDensityLbFt3": 8,
+		"densityGml": 0.13
+	},
+	{
+		"name": "White Pepper",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "White Plastic",
+		"bulkDensityLbFt3": 84,
+		"densityGml": 1.35
+	},
+	{
+		"name": "White Powder",
+		"bulkDensityLbFt3": 11.2,
+		"densityGml": 0.18
+	},
+	{
+		"name": "White Powder Resin",
+		"bulkDensityLbFt3": 10.4,
+		"densityGml": 0.17
+	},
+	{
+		"name": "Whole Dry Halbenero Chili",
+		"bulkDensityLbFt3": 42.4,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Whole Graham",
+		"bulkDensityLbFt3": 8,
+		"densityGml": 0.13
+	},
+	{
+		"name": "Whole Milk (Powder)",
+		"bulkDensityLbFt3": 39.2,
+		"densityGml": 0.63
+	},
+	{
+		"name": "Whole Oat",
+		"bulkDensityLbFt3": 8.8,
+		"densityGml": 0.14
+	},
+	{
+		"name": "Whole Red Beans (Dehydrated)",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Whole Walnuts",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Wild Rice",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Wild Rice Pancake Base",
+		"bulkDensityLbFt3": 32.8,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Wire Nuts",
+		"bulkDensityLbFt3": 33,
+		"densityGml": 0.53
+	},
+	{
+		"name": "Wollastocoat",
+		"bulkDensityLbFt3": 52.8,
+		"densityGml": 0.85
+	},
+	{
+		"name": "Wollastonite (Calcium Oxide)",
+		"bulkDensityLbFt3": 58,
+		"densityGml": 0.93
+	},
+	{
+		"name": "Wollastonite (Calcium Silicate)",
+		"bulkDensityLbFt3": 44.8,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Wood Ash",
+		"bulkDensityLbFt3": 58.4,
+		"densityGml": 0.94
+	},
+	{
+		"name": "Wood Chips",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Wood Dust",
+		"bulkDensityLbFt3": 34.4,
+		"densityGml": 0.55
+	},
+	{
+		"name": "Wood Fiber",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Wood Fiber Black Laquor",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Wood Flakes With Resin Owder",
+		"bulkDensityLbFt3": 43.8,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Wood Flour",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Wood Flour And Asbestos",
+		"bulkDensityLbFt3": 55.2,
+		"densityGml": 0.88
+	},
+	{
+		"name": "Wood Pellets",
+		"bulkDensityLbFt3": 34.4,
+		"densityGml": 0.55
+	},
+	{
+		"name": "Wood Slivers",
+		"bulkDensityLbFt3": 45.6,
+		"densityGml": 0.73
+	},
+	{
+		"name": "Wood Ul &amp; Sodium Hydroxide-Calkali Cellulose",
+		"bulkDensityLbFt3": 40.8,
+		"densityGml": 0.65
+	},
+	{
+		"name": "Wool Dust",
+		"bulkDensityLbFt3": 33.4,
+		"densityGml": 0.54
+	},
+	{
+		"name": "Xanthan",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Xanthum Gum",
+		"bulkDensityLbFt3": 43,
+		"densityGml": 0.689
+	},
+	{
+		"name": "Xenolite",
+		"bulkDensityLbFt3": 40.8,
+		"densityGml": 0.65
+	},
+	{
+		"name": "Yeast",
+		"bulkDensityLbFt3": 40.8,
+		"densityGml": 0.65
+	},
+	{
+		"name": "Yellotone Sulfur",
+		"bulkDensityLbFt3": 40,
+		"densityGml": 0.64
+	},
+	{
+		"name": "Yellow Bread Crumbs",
+		"bulkDensityLbFt3": 16.8,
+		"densityGml": 0.27
+	},
+	{
+		"name": "Yellow Cake",
+		"bulkDensityLbFt3": 112,
+		"densityGml": 1.79
+	},
+	{
+		"name": "Yellow Dye",
+		"bulkDensityLbFt3": 45,
+		"densityGml": 0.72
+	},
+	{
+		"name": "Yellow Igment (Dry Ress Cake)",
+		"bulkDensityLbFt3": 48.8,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Yellow Igment (Wet)",
+		"bulkDensityLbFt3": 26.4,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Yellow Paint Pigment",
+		"bulkDensityLbFt3": 66.4,
+		"densityGml": 1.06
+	},
+	{
+		"name": "Yellow Pigment",
+		"bulkDensityLbFt3": 43.5,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Yellow Plastic Regrind",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Yrolyzed Tire Char",
+		"bulkDensityLbFt3": 48.4,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Yuca (Cassaba) Mass",
+		"bulkDensityLbFt3": 13.6,
+		"densityGml": 0.22
+	},
+	{
+		"name": "Yucca Powder",
+		"bulkDensityLbFt3": 50.4,
+		"densityGml": 0.81
+	},
+	{
+		"name": "Zeolox",
+		"bulkDensityLbFt3": 35,
+		"densityGml": 0.561
+	},
+	{
+		"name": "Zinc Calcine",
+		"bulkDensityLbFt3": 64,
+		"densityGml": 1.03
+	},
+	{
+		"name": "Zinc Diacrylate",
+		"bulkDensityLbFt3": 20,
+		"densityGml": 0.32
+	},
+	{
+		"name": "Zinc Dust",
+		"bulkDensityLbFt3": 44,
+		"densityGml": 0.7
+	},
+	{
+		"name": "Zinc Methionine",
+		"bulkDensityLbFt3": 44.5,
+		"densityGml": 0.71
+	},
+	{
+		"name": "Zinc Oxide",
+		"bulkDensityLbFt3": 39,
+		"densityGml": 0.62
+	},
+	{
+		"name": "Zinc Oxide / Lead Oxide",
+		"bulkDensityLbFt3": 56.8,
+		"densityGml": 0.91
+	},
+	{
+		"name": "Zinc Oxide, H 55 Resin",
+		"bulkDensityLbFt3": 136.8,
+		"densityGml": 2.19
+	},
+	{
+		"name": "Zinc Oxidic (Granules)",
+		"bulkDensityLbFt3": 42.4,
+		"densityGml": 0.68
+	},
+	{
+		"name": "Zinc Skims",
+		"bulkDensityLbFt3": 36,
+		"densityGml": 0.58
+	},
+	{
+		"name": "Zinc Stearate",
+		"bulkDensityLbFt3": 29.6,
+		"densityGml": 0.47
+	},
+	{
+		"name": "Zinc-Gor Maxi Granular",
+		"bulkDensityLbFt3": 48.8,
+		"densityGml": 0.78
+	},
+	{
+		"name": "Zinc-Gor Owder",
+		"bulkDensityLbFt3": 6.8,
+		"densityGml": 0.11
+	},
+	{
+		"name": "Zinconium Dioxide",
+		"bulkDensityLbFt3": 60,
+		"densityGml": 0.96
+	},
+	{
+		"name": "Zircon",
+		"bulkDensityLbFt3": 32,
+		"densityGml": 0.51
+	},
+	{
+		"name": "Zircon Flour",
+		"bulkDensityLbFt3": 26.5,
+		"densityGml": 0.42
+	},
+	{
+		"name": "Zircumium Basic Carbonate",
+		"bulkDensityLbFt3": 7.2,
+		"densityGml": 0.12
+	}
+]

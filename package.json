@@ -2,6 +2,7 @@
   "name": "recipe-measurements-converter",
   "version": "0.1.0",
   "private": true,
+  "license": "Apache-2.0",
   "type": "module",
   "scripts": {
     "dev": "vite dev",
@@ -11,7 +12,8 @@
     "test": "vitest run",
     "test:watch": "vitest",
     "test:e2e": "playwright test",
-    "clean-data": "tsx scripts/clean-data.ts"
+    "clean-data": "tsx scripts/clean-data.ts",
+    "generate-embeddings": "tsx scripts/generate-embeddings.ts"
   },
   "devDependencies": {
     "@playwright/test": "^1.48.0",

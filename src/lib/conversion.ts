@@ -1,5 +1,5 @@
 import type { DensityValue } from './data/types.js';
-import { getMeasureById } from './measures.js';
+import { getMeasureById, isWeightMeasure } from './measures.js';
 
 export interface ConversionResult {
 	grams: number;
@@ -16,6 +16,7 @@ export interface ConversionInput {
 export function volumeToMl(quantity: number, measureId: string): number {
 	const measure = getMeasureById(measureId);
 	if (!measure) throw new Error(`Unknown measure: "${measureId}"`);
+	if (isWeightMeasure(measure)) throw new Error(`"${measureId}" is a weight measure, not volume`);
 	return quantity * measure.mlPerUnit;
 }
 
@@ -25,7 +26,14 @@ export function mlToGrams(ml: number, density: number): number {
 
 export function convert(input: ConversionInput): ConversionResult {
 	const { quantity, measureId, density } = input;
-	const ml = volumeToMl(quantity, measureId);
+	const measure = getMeasureById(measureId);
+	if (!measure) throw new Error(`Unknown measure: "${measureId}"`);
+
+	if (isWeightMeasure(measure)) {
+		return { grams: Math.round(quantity * measure.gramsPerUnit * 10) / 10 };
+	}
+
+	const ml = quantity * measure.mlPerUnit;
 	const grams = Math.round(mlToGrams(ml, density.avg) * 10) / 10;
 
 	const result: ConversionResult = { grams };

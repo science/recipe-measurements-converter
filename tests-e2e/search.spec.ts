@@ -62,4 +62,24 @@ test.describe('Food search', () => {
 		await input.press('Escape');
 		await expect(page.getByTestId('food-search-dropdown')).not.toBeVisible();
 	});
+
+	test('dropdown shows friendly display names', async ({ page }) => {
+		const input = page.getByTestId('food-search-input');
+		await input.fill('maple syrup');
+		const dropdown = page.getByTestId('food-search-dropdown');
+		await expect(dropdown).toBeVisible();
+		// "Syrup, maple" has displayName "Maple syrup" — dropdown should show the friendly name
+		const firstOption = dropdown.getByTestId('food-search-option').first();
+		await expect(firstOption).toContainText('Maple syrup');
+	});
+
+	test('selecting a friendly-named item fills input with friendly name', async ({ page }) => {
+		const input = page.getByTestId('food-search-input');
+		await input.fill('maple syrup');
+		const dropdown = page.getByTestId('food-search-dropdown');
+		await expect(dropdown).toBeVisible();
+		await dropdown.getByTestId('food-search-option').first().click();
+		const value = await input.inputValue();
+		expect(value).toBe('Maple syrup');
+	});
 });

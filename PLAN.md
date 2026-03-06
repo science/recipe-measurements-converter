@@ -1,187 +1,95 @@
-# Recipe Measurements Converter - Implementation Plan
+# Recipe Measurements Converter — Plan
 
-## Context
+## Current State
 
-We have a raw pipe delimited data file (`food-density.psv`, ~375 food items with density in g/ml) that needs to become a standalone webapp for converting volume measures (cups, tbsp, etc.) to grams. The project will eventually support LLM-powered ingredient list parsing and conversion (paste the entire plain text ingredient list in, and it will convert all measures).
-
-Product name: **recipe-measurements-converter**
+The app is functional with 772 ingredients, 9 measures (volume + weight), multi-source data pipeline, commonality-ranked search, and accessible keyboard navigation. All unit and E2E tests pass.
 
 ---
 
-## Phase 0: Project Setup
+## Planned: LLM Bulk Ingredient Conversion
 
-1. **Create CLAUDE.md** in project root (content below)
-2. **`git init`**, add Apache 2.0 LICENSE, basic README.md
-3. **Create GitHub remote**: `gh repo create science/recipe-measurements-converter --public --source=. --remote=origin`
-4. **Scaffold project**: SvelteKit with static adapter (`npx sv create`), Svelte 5 with runes
-5. Add vitest, playwright, tsx (for running cleaner script)
-6. Initial commit + push
+**Goal**: Paste a full recipe ingredient list, get all measurements converted at once.
 
-### CLAUDE.md Content
+### Approach
 
-```markdown
-# Recipe Measurements Converter
+New route (`/bulk` or `/paste`) with:
+1. **Textarea input** — user pastes plain-text ingredient list (e.g., from a recipe)
+2. **LLM parsing** — send the list to an LLM (Claude or OpenAI) with a structured output prompt:
+   - Extract each line into `{ quantity, unit, ingredient, original_text }`
+   - Handle natural language variations: "2 cups flour", "1/2 tsp vanilla", "a pinch of salt", "3 large eggs"
+3. **Matching** — fuzzy-match parsed ingredient names against the 772-item database
+   - Exact substring match first, then consider Fuse.js for fuzzy fallback
+   - Show match confidence; let user correct mismatches
+4. **Batch conversion** — run each matched item through `convert()` and display results table
+5. **API key handling** — user provides their own API key (stored in localStorage, never sent to a server)
+   - Or: use a lightweight proxy with rate limiting if we add a server component
 
-Standalone webapp (no server) that converts volume measures (cups, tbsp, tsp, etc.)
-to grams using food density data. SvelteKit with static adapter for zero-server deployment.
-
-## Commands
-
-### Development
-- `npm run dev` - Start dev server
-- `npm run build` - Production build (static site)
-- `npm run preview` - Preview production build
-
-### Testing
-- `npm test` - Run Vitest unit tests
-- `npm run test:e2e` - Run Playwright E2E tests
-- `npm run test` -- runs all tests
-
-### Data Pipeline
-- `npm run clean-data` - Parse raw PSV into src/lib/data/food-density.json
-- Raw data: food-density-precleaned.txt (original dirty source)
-- Cleaned data: food-density.psv (pipe-delimited, verified against raw)
-
-## Architecture
-
-### Data Flow
-Raw text → food-density.psv → scripts/clean-data.ts → food-density.json → food-database.ts → UI
-
-### Source Layout
-- `scripts/clean-data.ts` - PSV → structured JSON converter
-- `scripts/verify-psv.js` - Verifies PSV accuracy against raw text
-- `src/lib/data/types.ts` - FoodItem, DensityValue, FoodDatabase interfaces
-- `src/lib/data/food-density.json` - Generated clean data (~375 items)
-- `src/lib/data/food-database.ts` - Search, filter, lookup functions
-- `src/lib/conversion.ts` - Pure volume→grams conversion math
-- `src/lib/measures.ts` - Volume measure definitions (cup, tbsp, tsp, etc.)
-- `src/routes/` - SvelteKit pages
-- `src/lib/components/` - Svelte UI components
-
-### Key Design Decisions
-1. SvelteKit with static adapter (extensible, community standard for Svelte 5)
-2. JSON data bundled at build time (no runtime fetch/localStorage)
-3. Density ranges stored as {min, max, avg}
-4. All conversion logic is pure functions with full test coverage
-5. Categories preserved from source data for filtering
-6. Duplicates flagged for manual review, excluded from main database until resolved
-
-## Testing & TDD
-Red/green/refactor. Write failing test first, then implement.
-All pure logic (conversion, parsing, search) has unit tests.
-E2E tests cover the main user flow.
-
-## Data Source
-food-density-precleaned.txt contains ~375 food density values (g/ml)
-from various sources (ASI, KEN, RC, USDA, etc.). The PSV was AI-generated
-from this raw file and verified with scripts/verify-psv.js (375/375 match).
+### UX Flow
+```
+[Paste ingredient list] → [Parse with LLM] → [Review matches] → [See all conversions]
 ```
 
----
+### Key Decisions to Make
+- Which LLM provider(s) to support (Claude API, OpenAI, both?)
+  - Start with OpenAI. Use OpenAI's JS SDK: incorporate that into the app
+  - You can refer to the ~/dev/book-translate project for a simple example of API management and SDK use. You can borrow code from that project if you want or just use it as reference.
+- Client-side API calls vs. lightweight server proxy
+  - Client side API calls, with API keys being user-provided and stored securely in Browser LocalStorage
+  - Create a simple settings menu for setting up the LLM interaction: provide the API key, choose the model to use (default to gpt-5-mini)
+- How to handle ingredients not in the database (show "not found" vs. ask LLM to estimate density)
+  - "Not found" for ingredients which are not found in the DB.
+  - However, fuzzy matching for intention is allowed by the LLM. So in a recipe "70% dark chocolate baking squares" should be matched by the LLM to "Chocolate, chunk" -- so "not found" is a grey subject, and the LLM must be given good latitude to make probablistic guesses. Consider whether we should build a RAG for the user in OpenAI for our ingredient database and just make calls to that, and set a "cosine radius" match for an ingredient, instead of having a full LLM do the matching.
+- Structured output format (tool_use / function calling vs. JSON mode)
+  - Analyze these options during further planning and make recommendations.
 
-## Phase 1: Data Cleaner (`scripts/clean-data.ts`)
-
-Since we now have a verified PSV file, the cleaner is much simpler — it parses the
-pipe-delimited file rather than the messy raw text.
-
-### Data Schema
-
-```typescript
-interface DensityValue { min: number; max: number; avg: number; }
-
-interface FoodItem {
-  id: string;           // slug: "barley-flour"
-  name: string;         // "Barley, flour"
-  category: string;     // "Grains and cereals"
-  density: DensityValue; // g/ml
-  source: string;       // "ASI", "KEN", etc.
-}
-
-interface FoodDatabase {
-  version: string;
-  itemCount: number;
-  categories: string[];
-  items: FoodItem[];
-}
-```
-
-### Parsing pipeline (each step is a tested function)
-
-1. **`parsePsvLine(line)`** - Split pipe-delimited line into fields
-2. **`parseDensity(value)`** - Handle single values (`0.61`), ranges (`0.38-0.42`), integers (`1`)
-3. **`slugify(name)`** - Generate IDs
-4. **`fixTypos(text)`** - Known fixes: "Herbes" → "Herbs", "Bulrush mille" → "Bulrush millet", missing spaces after commas
-5. **`findDuplicates(items)`** - Detect entries with same/very similar names but different densities
-6. **`separateDuplicates(items)`** - Output clean items to `food-density.json`, duplicates to `duplicates-review.json` for manual resolution
-
-### TDD sequence
-- Write `scripts/clean-data.test.ts` with tests for each function (RED)
-- Implement each function, making tests pass (GREEN)
-- Integration test: full pipeline produces expected item count
-- Run script to generate `src/lib/data/food-density.json`
+### Implementation Steps
+1. Design the structured output schema for ingredient parsing
+2. Build the LLM integration module (API call + response parsing)
+3. Build fuzzy matching between LLM output and food database
+4. Build the bulk conversion UI (textarea → results table)
+5. Add review/correction step for ambiguous matches
+6. E2E tests for the full flow (mock LLM responses)
 
 ---
 
-## Phase 2: Food Database Module
+## Planned: Density & Metadata Display
 
-**File**: `src/lib/data/food-database.ts`
+**Goal**: Show users the density value and source used for each conversion, increasing transparency and trust.
 
-Functions:
-- `getAllItems(): FoodItem[]`
-- `getCategories(): string[]`
-- `getItemById(id: string): FoodItem | undefined`
-- `searchItems(query: string): FoodItem[]` - case-insensitive substring match
-- `getItemsByCategory(category: string): FoodItem[]`
+### Features
+- After selecting a food and measure, display:
+  - Density value used (e.g., "0.521 g/ml")
+  - Density range if applicable (e.g., "0.38–0.42 g/ml")
+  - Data source tag (e.g., "USDA", "ASI", "OC-USDA", "HAP")
+  - Category
+- Collapsible or secondary display so it doesn't clutter the primary conversion result
+- Useful for bakers who want to verify or cross-reference density values
 
-Tests: item count, categories present, search correctness, no invalid densities.
-
----
-
-## Phase 3: Conversion Logic
-
-**Files**: `src/lib/measures.ts`, `src/lib/conversion.ts`
-
-### Measures (volume → ml)
-| Measure | ml/unit |
-|---------|---------|
-| Cup | 236.588 |
-| Tablespoon | 14.787 |
-| Teaspoon | 4.929 |
-| Fluid ounce | 29.574 |
-| Milliliter | 1 |
-| Liter | 1000 |
-
-### Conversion: `grams = quantity × ml_per_unit × density_g_per_ml`
-
-Functions:
-- `volumeToMl(quantity, measureId): number`
-- `mlToGrams(ml, density): number`
-- `convert({ quantity, measureId, density }): ConversionResult` - returns `{ grams, gramsMin?, gramsMax? }`
-
-Tests: known conversions, edge cases (0, negative, unknown measure), range densities.
+### Implementation Steps
+1. Add `data-testid="density-detail"` section to ConversionResult or +page.svelte
+2. Show density avg (and range if min ≠ max), source, category
+3. Only display for volume measures (weight measures don't use density)
+4. Style as secondary/muted info below the main grams result
+5. E2E test: select food, verify density/source displayed
 
 ---
 
-## Phase 4: UI
+## Planned: Downloadable Density Data
 
-Single-page app with:
-1. **FoodSearch** - text input with autocomplete dropdown, keyboard nav
-2. **MeasureSelector** - `<select>` for the 6 measures
-3. **Quantity input** - number field (default 1)
-4. **ConversionResult** - displays grams, shows range when applicable
-5. **CategoryFilter** - optional chips to narrow food list
+**Goal**: Let users download the full density dataset (open data principle).
 
-Svelte 5 runes: `$state` for `selectedFood`, `quantity`, `selectedMeasure`; `$derived` for computed `result`.
+### Features
+- Link/button on the page: "Download density data (JSON)"
+- Serves `food-density.json` directly (already generated, 772 items)
+- Brief description of the data format and fields
+- Consider also offering CSV export for spreadsheet users
 
-E2E tests: search + select food, change quantity, switch measure, verify results.
-
----
-
-## Future: LLM Ingredient Parser
-
-Second page/route where users paste an ingredient list + API key (OpenAI or Claude).
-The LLM parses ingredient measures and feeds them to the conversion functions.
-SvelteKit's routing makes adding this page straightforward.
+### Implementation Steps
+1. Add download link to the UI (footer or info section)
+2. Point to `/food-density.json` (copy to static/ during build, or serve from lib/data/)
+3. Add a small `/data` or `/about` section describing the dataset schema
+4. Optional: add a CSV export button (generate client-side from JSON)
+5. E2E test: verify download link exists and points to valid JSON
 
 ---
 
@@ -189,49 +97,48 @@ SvelteKit's routing makes adding this page straightforward.
 
 ```
 recipe-measurements-converter/
-  CLAUDE.md
-  PLAN.md                              # This file
-  LICENSE                              # Apache 2.0
-  README.md
+  CLAUDE.md                              # Developer reference
+  PLAN.md                               # This file
+  README.md                             # User-facing docs
+  LICENSE                               # Apache 2.0
   package.json
-  svelte.config.js                     # SvelteKit + static adapter
+  svelte.config.js                      # SvelteKit + static adapter
   vite.config.ts
-  food-density-precleaned.txt          # Raw source (kept in repo)
-  food-density.psv                     # Cleaned PSV (verified against raw)
+  food-density-precleaned.txt           # Raw source data
+  food-density.psv                      # Primary cleaned data (357 items)
+  food-density-onlineconversion.json    # Supplemental: 400 USDA items
+  food-density-hapman.json              # Supplemental: 23 curated items
+  food-density-hapman-raw.json          # Raw Hapman scrape (1685 items)
   scripts/
-    clean-data.ts                      # PSV → JSON converter
+    clean-data.ts                       # Multi-source merge → JSON
     clean-data.test.ts
-    verify-psv.js                      # Raw vs PSV verification
+    verify-psv.js                       # Raw vs PSV verification
+    scrape-onlineconversion.ts          # One-time scraper
+    scrape-hapman.ts                    # One-time scraper
+    generate-scores.ts                  # One-time commonality scoring
   src/
     routes/
-      +page.svelte                     # Main converter page
-      +layout.svelte                   # App layout
+      +page.svelte                      # Main converter page
+      +layout.svelte                    # App layout
     lib/
       data/
-        types.ts
-        food-density.json              # Generated from PSV
-        food-database.ts
+        types.ts                        # FoodItem, DensityValue, FoodDatabase
+        food-density.json               # Generated (772 items, 25 categories)
+        food-database.ts                # Search, filter, lookup
         food-database.test.ts
-      conversion.ts
+        commonality-scores.json         # Per-item scores (1-10)
+      conversion.ts                     # Volume + weight → grams
       conversion.test.ts
-      measures.ts
+      measures.ts                       # Discriminated union measures
       measures.test.ts
       components/
-        FoodSearch.svelte
+        FoodSearch.svelte               # Combobox with keyboard nav
         ConversionResult.svelte
-        MeasureSelector.svelte
-        CategoryFilter.svelte
+        MeasureSelector.svelte          # Volume/Weight optgroups
   tests-e2e/
-    conversion-flow.spec.ts
+    search.spec.ts
+    conversion.spec.ts
+    weight-conversion.spec.ts
+    keyboard-nav.spec.ts
+    edge-cases.spec.ts
 ```
-
----
-
-## Verification
-
-After each phase:
-- `npm test` - all unit tests pass
-- After Phase 1: spot-check 10+ entries in generated JSON against PSV
-- After Phase 3: verify known conversion (e.g., 1 cup wheat flour ≈ 123g at density 0.521)
-- After Phase 4: `npm run test:e2e` - full user flow works
-- `npm run build` - production build succeeds (static output)

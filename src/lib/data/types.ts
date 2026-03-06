@@ -7,9 +7,11 @@ export interface DensityValue {
 export interface FoodItem {
 	id: string;
 	name: string;
+	displayName?: string;
 	category: string;
 	density: DensityValue;
 	source: string;
+	commonality: number;
 }
 
 export interface FoodDatabase {

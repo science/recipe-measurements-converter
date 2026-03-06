@@ -21,6 +21,10 @@ describe('volumeToMl', () => {
 	it('throws on unknown measure', () => {
 		expect(() => volumeToMl(1, 'unknown')).toThrow('Unknown measure');
 	});
+
+	it('throws on weight measure', () => {
+		expect(() => volumeToMl(1, 'oz')).toThrow('weight measure');
+	});
 });
 
 describe('mlToGrams', () => {
@@ -74,5 +78,67 @@ describe('convert', () => {
 		});
 		// 14.787 * 0.9 ≈ 13.3
 		expect(result.grams).toBeCloseTo(13.3, 0);
+	});
+});
+
+describe('weight conversion', () => {
+	it('converts 1 oz to 28.3g', () => {
+		const result = convert({
+			quantity: 1,
+			measureId: 'oz',
+			density: { min: 0.5, max: 0.5, avg: 0.5 }
+		});
+		expect(result.grams).toBeCloseTo(28.3, 0);
+	});
+
+	it('converts 1 lb to 453.6g', () => {
+		const result = convert({
+			quantity: 1,
+			measureId: 'lb',
+			density: { min: 0.5, max: 0.5, avg: 0.5 }
+		});
+		expect(result.grams).toBeCloseTo(453.6, 0);
+	});
+
+	it('converts 1 kg to 1000g', () => {
+		const result = convert({
+			quantity: 1,
+			measureId: 'kg',
+			density: { min: 0.5, max: 0.5, avg: 0.5 }
+		});
+		expect(result.grams).toBe(1000);
+	});
+
+	it('weight ignores density completely', () => {
+		const lowDensity = convert({
+			quantity: 1,
+			measureId: 'oz',
+			density: { min: 0.1, max: 0.1, avg: 0.1 }
+		});
+		const highDensity = convert({
+			quantity: 1,
+			measureId: 'oz',
+			density: { min: 2.0, max: 2.0, avg: 2.0 }
+		});
+		expect(lowDensity.grams).toBe(highDensity.grams);
+	});
+
+	it('weight never produces range output', () => {
+		const result = convert({
+			quantity: 1,
+			measureId: 'oz',
+			density: { min: 0.3, max: 0.9, avg: 0.6 }
+		});
+		expect(result.gramsMin).toBeUndefined();
+		expect(result.gramsMax).toBeUndefined();
+	});
+
+	it('converts fractional weight quantities', () => {
+		const result = convert({
+			quantity: 0.5,
+			measureId: 'lb',
+			density: { min: 1, max: 1, avg: 1 }
+		});
+		expect(result.grams).toBeCloseTo(226.8, 0);
 	});
 });

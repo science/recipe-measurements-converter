@@ -1,0 +1,140 @@
+[
+	{
+		"name": "Brown sugar",
+		"density": 0.93,
+		"source": "HAP",
+		"category": "Sweets"
+	},
+	{
+		"name": "Chocolate chips, mini",
+		"density": 0.19,
+		"source": "HAP",
+		"category": "Sweets"
+	},
+	{
+		"name": "Peanuts, chopped",
+		"density": 0.561,
+		"source": "HAP",
+		"category": "Nuts and seeds"
+	},
+	{
+		"name": "Walnuts, chopped",
+		"density": 0.48,
+		"source": "HAP",
+		"category": "Nuts and seeds"
+	},
+	{
+		"name": "Chocolate, chunk",
+		"density": 0.64,
+		"source": "HAP",
+		"category": "Sweets"
+	},
+	{
+		"name": "Cocoa nibs",
+		"density": 0.86,
+		"source": "HAP",
+		"category": "Sweets"
+	},
+	{
+		"name": "Cocoa powder",
+		"density": 0.8,
+		"source": "HAP",
+		"category": "Sweets"
+	},
+	{
+		"name": "Coconut chips",
+		"density": 0.51,
+		"source": "HAP",
+		"category": "Nuts and seeds"
+	},
+	{
+		"name": "Coconut flakes",
+		"density": 1.01,
+		"source": "HAP",
+		"category": "Nuts and seeds"
+	},
+	{
+		"name": "Demerara sugar",
+		"density": 0.82,
+		"source": "HAP",
+		"category": "Sweets"
+	},
+	{
+		"name": "Almonds, ground",
+		"density": 0.35,
+		"source": "HAP",
+		"category": "Nuts and seeds"
+	},
+	{
+		"name": "Cinnamon, ground",
+		"density": 0.57,
+		"source": "HAP",
+		"category": "Herbs and spices"
+	},
+	{
+		"name": "Chocolate chips, miniature",
+		"density": 0.5,
+		"source": "HAP",
+		"category": "Sweets"
+	},
+	{
+		"name": "Pecan halves",
+		"density": 0.7,
+		"source": "HAP",
+		"category": "Nuts and seeds"
+	},
+	{
+		"name": "Pecan pieces",
+		"density": 0.55,
+		"source": "HAP",
+		"category": "Nuts and seeds"
+	},
+	{
+		"name": "Pectin",
+		"density": 0.72,
+		"source": "HAP",
+		"category": "Baking ingredients"
+	},
+	{
+		"name": "Peppercorns",
+		"density": 0.53,
+		"source": "HAP",
+		"category": "Herbs and spices"
+	},
+	{
+		"name": "Almonds, sliced",
+		"density": 0.8,
+		"source": "HAP",
+		"category": "Nuts and seeds"
+	},
+	{
+		"name": "Tapioca starch",
+		"density": 0.72,
+		"source": "HAP",
+		"category": "Baking ingredients"
+	},
+	{
+		"name": "White pepper",
+		"density": 0.32,
+		"source": "HAP",
+		"category": "Herbs and spices"
+	},
+	{
+		"name": "Walnuts, whole",
+		"density": 0.64,
+		"source": "HAP",
+		"category": "Nuts and seeds"
+	},
+	{
+		"name": "Wild rice",
+		"density": 0.96,
+		"source": "HAP",
+		"category": "Grains and cereals"
+	},
+	{
+		"name": "Xanthan gum",
+		"density": 0.7,
+		"source": "HAP",
+		"category": "Baking ingredients"
+	}
+]

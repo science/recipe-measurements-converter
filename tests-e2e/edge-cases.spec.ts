@@ -13,7 +13,7 @@ test.describe('Edge cases', () => {
 
 	test('zero quantity shows 0g', async ({ page }) => {
 		const input = page.getByTestId('food-search-input');
-		await input.fill('Barley, flour');
+		await input.fill('Millet flour');
 		await page.getByTestId('food-search-option').first().click();
 
 		await page.getByTestId('quantity-input').fill('0');

@@ -1,51 +1,12 @@
 import { describe, it, expect } from 'vitest';
 import {
-	parsePsvLine,
 	parseDensity,
 	slugify,
-	fixTypos,
 	findDuplicates,
 	separateDuplicates,
-	buildDatabase
+	validateDensities,
+	buildFromSupplemental
 } from './clean-data.js';
-
-describe('parsePsvLine', () => {
-	it('parses a standard line', () => {
-		const result = parsePsvLine('Grains and cereals|Barley, flour|0.61||ASI');
-		expect(result).toEqual({
-			category: 'Grains and cereals',
-			name: 'Barley, flour',
-			density: '0.61',
-			specificGravity: '',
-			source: 'ASI'
-		});
-	});
-
-	it('parses a line with specific gravity', () => {
-		const result = parsePsvLine('Sweets|Syrup, corn, light|1.40|1.41|USDA');
-		expect(result).toEqual({
-			category: 'Sweets',
-			name: 'Syrup, corn, light',
-			density: '1.40',
-			specificGravity: '1.41',
-			source: 'USDA'
-		});
-	});
-
-	it('parses a line with density range', () => {
-		const result = parsePsvLine('Grains and cereals|Barley, ground|0.38-0.42||ASI');
-		expect(result.density).toBe('0.38-0.42');
-	});
-
-	it('returns null for header line', () => {
-		const result = parsePsvLine('Category|Food Name|Density (g/ml)|Specific Gravity|Source');
-		expect(result).toBeNull();
-	});
-
-	it('returns null for empty line', () => {
-		expect(parsePsvLine('')).toBeNull();
-	});
-});
 
 describe('parseDensity', () => {
 	it('parses single decimal value', () => {
@@ -96,37 +57,11 @@ describe('slugify', () => {
 	});
 });
 
-describe('fixTypos', () => {
-	it('fixes "Herbes" to "Herbs"', () => {
-		expect(fixTypos('Herbes and spices')).toBe('Herbs and spices');
-	});
-
-	it('fixes "Bulrush mille" to "Bulrush millet"', () => {
-		expect(fixTypos('Bulrush mille, fermented flour')).toBe(
-			'Bulrush millet, fermented flour'
-		);
-	});
-
-	it('fixes missing space after comma', () => {
-		expect(fixTypos('Cassava,flour')).toBe('Cassava, flour');
-	});
-
-	it('fixes missing space in "Alfalfa,meal"', () => {
-		expect(fixTypos('Alfalfa,meal, dehydrated 13%')).toBe(
-			'Alfalfa, meal, dehydrated 13%'
-		);
-	});
-
-	it('leaves correct text unchanged', () => {
-		expect(fixTypos('Barley, flour')).toBe('Barley, flour');
-	});
-});
-
 describe('findDuplicates', () => {
-	it('detects items with same name', () => {
+	it('detects items with same id', () => {
 		const items = [
-			{ id: 'corn-ear', name: 'Corn, ear', category: 'Grains', density: { min: 0.9, max: 0.9, avg: 0.9 }, source: 'TB' },
-			{ id: 'corn-ear', name: 'Corn, ear', category: 'Grains', density: { min: 0.9, max: 0.9, avg: 0.9 }, source: 'ASI' }
+			{ id: 'corn-ear', name: 'Corn, ear', category: 'Grains', density: { min: 0.9, max: 0.9, avg: 0.9 }, source: 'OC-USDA', commonality: 3 },
+			{ id: 'corn-ear', name: 'Corn, ear', category: 'Grains', density: { min: 0.9, max: 0.9, avg: 0.9 }, source: 'OC-USDA', commonality: 3 }
 		];
 		const dupes = findDuplicates(items);
 		expect(dupes.length).toBeGreaterThan(0);
@@ -134,8 +69,8 @@ describe('findDuplicates', () => {
 
 	it('returns empty for unique items', () => {
 		const items = [
-			{ id: 'a', name: 'A', category: 'X', density: { min: 1, max: 1, avg: 1 }, source: 'S' },
-			{ id: 'b', name: 'B', category: 'X', density: { min: 2, max: 2, avg: 2 }, source: 'S' }
+			{ id: 'a', name: 'A', category: 'X', density: { min: 1, max: 1, avg: 1 }, source: 'S', commonality: 3 },
+			{ id: 'b', name: 'B', category: 'X', density: { min: 2, max: 2, avg: 2 }, source: 'S', commonality: 3 }
 		];
 		expect(findDuplicates(items)).toEqual([]);
 	});
@@ -144,9 +79,9 @@ describe('findDuplicates', () => {
 describe('separateDuplicates', () => {
 	it('separates duplicate items from clean items', () => {
 		const items = [
-			{ id: 'a', name: 'A', category: 'X', density: { min: 1, max: 1, avg: 1 }, source: 'S1' },
-			{ id: 'a', name: 'A', category: 'X', density: { min: 2, max: 2, avg: 2 }, source: 'S2' },
-			{ id: 'b', name: 'B', category: 'X', density: { min: 3, max: 3, avg: 3 }, source: 'S1' }
+			{ id: 'a', name: 'A', category: 'X', density: { min: 1, max: 1, avg: 1 }, source: 'S1', commonality: 3 },
+			{ id: 'a', name: 'A', category: 'X', density: { min: 2, max: 2, avg: 2 }, source: 'S2', commonality: 3 },
+			{ id: 'b', name: 'B', category: 'X', density: { min: 3, max: 3, avg: 3 }, source: 'S1', commonality: 3 }
 		];
 		const { clean, duplicates } = separateDuplicates(items);
 		expect(clean).toHaveLength(1);
@@ -155,46 +90,81 @@ describe('separateDuplicates', () => {
 	});
 });
 
-describe('buildDatabase (integration)', () => {
-	it('produces a valid database from the PSV file', async () => {
+describe('validateDensities', () => {
+	it('warns about items with density > 1.4', () => {
+		const items = [
+			{ id: 'honey', name: 'Honey', category: 'Sweets', density: { min: 1.42, max: 1.42, avg: 1.42 }, source: 'OC-USDA', commonality: 3 },
+			{ id: 'flour', name: 'Flour', category: 'Grains', density: { min: 0.6, max: 0.6, avg: 0.6 }, source: 'OC-USDA', commonality: 3 }
+		];
+		const warnings = validateDensities(items);
+		expect(warnings).toHaveLength(1);
+		expect(warnings[0].name).toBe('Honey');
+		expect(warnings[0].reason).toContain('> 1.4');
+	});
+
+	it('warns about items with density < 0.01', () => {
+		const items = [
+			{ id: 'bad-item', name: 'Bad Item', category: 'Other', density: { min: 0.005, max: 0.005, avg: 0.005 }, source: 'OC-USDA', commonality: 3 }
+		];
+		const warnings = validateDensities(items);
+		expect(warnings).toHaveLength(1);
+		expect(warnings[0].reason).toContain('< 0.01');
+	});
+
+	it('returns empty for items in normal range', () => {
+		const items = [
+			{ id: 'sugar', name: 'Sugar', category: 'Sweets', density: { min: 0.85, max: 0.85, avg: 0.85 }, source: 'OC-USDA', commonality: 3 },
+			{ id: 'water', name: 'Water', category: 'Liquids', density: { min: 1.0, max: 1.0, avg: 1.0 }, source: 'OC-USDA', commonality: 3 }
+		];
+		expect(validateDensities(items)).toHaveLength(0);
+	});
+});
+
+describe('buildFromSupplemental', () => {
+	it('converts supplemental items to FoodItems', () => {
+		const items = buildFromSupplemental([
+			{ name: 'Honey', density: 1.42, source: 'OC-USDA', category: 'Sweets' },
+			{ name: 'Corn/maize flour, white', density: 0.5, source: 'OC-USDA', category: 'Grains' }
+		]);
+		expect(items).toHaveLength(2);
+		expect(items[0].id).toBe('honey');
+		expect(items[0].density).toEqual({ min: 1.42, max: 1.42, avg: 1.42 });
+		expect(items[0].commonality).toBe(3);
+		expect(items[1].id).toBe('corn-maize-flour-white');
+	});
+});
+
+describe('OC-USDA integration', () => {
+	it('builds a valid database from OC-USDA JSON', async () => {
 		const fs = await import('fs');
 		const path = await import('path');
-		const psvPath = path.resolve(import.meta.dirname, '..', 'food-density.psv');
-		const psvContent = fs.readFileSync(psvPath, 'utf-8');
+		const ocPath = path.resolve(import.meta.dirname, '..', 'food-density-onlineconversion.json');
+		const rawItems = JSON.parse(fs.readFileSync(ocPath, 'utf-8'));
+		const allItems = buildFromSupplemental(rawItems);
+		const { clean } = separateDuplicates(allItems);
 
-		const db = buildDatabase(psvContent);
-
-		// 375 data rows in PSV, minus duplicates
-		expect(db.itemCount).toBeGreaterThan(340);
-		expect(db.itemCount).toBeLessThan(376);
-		expect(db.items.length).toBe(db.itemCount);
+		// 400 items in OC-USDA, minus any duplicates
+		expect(clean.length).toBeGreaterThan(380);
+		expect(clean.length).toBeLessThanOrEqual(400);
 
 		// All items have required fields
-		for (const item of db.items) {
+		for (const item of clean) {
 			expect(item.id).toBeTruthy();
 			expect(item.name).toBeTruthy();
 			expect(item.category).toBeTruthy();
 			expect(item.density.avg).toBeGreaterThan(0);
 			expect(item.density.min).toBeLessThanOrEqual(item.density.max);
-			expect(item.source).toBeTruthy();
+			expect(item.source).toBe('OC-USDA');
+			expect(item.commonality).toBe(3);
 		}
 
-		// Categories present
-		expect(db.categories.length).toBeGreaterThanOrEqual(13);
-
-		// Typo fixes applied
-		expect(db.categories).not.toContain('Herbes and spices');
-		expect(db.categories).toContain('Herbs and spices');
-
 		// No duplicate IDs in clean data
-		const ids = db.items.map((i) => i.id);
+		const ids = clean.map((i) => i.id);
 		const uniqueIds = new Set(ids);
 		expect(uniqueIds.size).toBe(ids.length);
 
-		// Spot check: Barley flour exists
-		const barleyFlour = db.items.find((i) => i.name === 'Barley, flour');
-		expect(barleyFlour).toBeDefined();
-		expect(barleyFlour!.density.avg).toBe(0.61);
-		expect(barleyFlour!.category).toBe('Grains and cereals');
+		// Categories present
+		const categories = [...new Set(clean.map((i) => i.category))];
+		expect(categories.length).toBeGreaterThanOrEqual(5);
 	});
 });

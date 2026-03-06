@@ -2,28 +2,11 @@ import type { DensityValue, FoodItem, FoodDatabase } from '../src/lib/data/types
 import { readFileSync, writeFileSync, mkdirSync } from 'fs';
 import { resolve, dirname } from 'path';
 
-interface PsvRow {
-	category: string;
+interface SupplementalItem {
 	name: string;
-	density: string;
-	specificGravity: string;
+	density: number;
 	source: string;
-}
-
-export function parsePsvLine(line: string): PsvRow | null {
-	const trimmed = line.trim();
-	if (!trimmed || trimmed.startsWith('Category|')) return null;
-
-	const parts = trimmed.split('|');
-	if (parts.length < 5) return null;
-
-	return {
-		category: parts[0],
-		name: parts[1],
-		density: parts[2],
-		specificGravity: parts[3],
-		source: parts[4]
-	};
+	category: string;
 }
 
 export function parseDensity(value: string): DensityValue {
@@ -47,17 +30,6 @@ export function slugify(name: string): string {
 		.replace(/[\s]+/g, '-')
 		.replace(/-+/g, '-')
 		.replace(/^-|-$/g, '');
-}
-
-export function fixTypos(text: string): string {
-	let fixed = text;
-	// Fix "Herbes" → "Herbs"
-	fixed = fixed.replace(/\bHerbes\b/g, 'Herbs');
-	// Fix "Bulrush mille," → "Bulrush millet,"
-	fixed = fixed.replace(/\bBulrush mille\b/g, 'Bulrush millet');
-	// Fix missing space after comma (e.g., "Cassava,flour" → "Cassava, flour")
-	fixed = fixed.replace(/,([^ ])/g, ', $1');
-	return fixed;
 }
 
 export function findDuplicates(items: FoodItem[]): string[] {
@@ -84,76 +56,87 @@ export function separateDuplicates(items: FoodItem[]): {
 	};
 }
 
-export function buildDatabase(psvContent: string): FoodDatabase {
-	const lines = psvContent.split('\n');
-	const allItems: FoodItem[] = [];
+export interface DensityWarning {
+	name: string;
+	density: number;
+	reason: string;
+}
 
-	for (const line of lines) {
-		const row = parsePsvLine(line);
-		if (!row) continue;
-
-		const fixedName = fixTypos(row.name);
-		const fixedCategory = fixTypos(row.category);
-
-		allItems.push({
-			id: slugify(fixedName),
-			name: fixedName,
-			category: fixedCategory,
-			density: parseDensity(row.density),
-			source: row.source
-		});
+export function validateDensities(items: FoodItem[]): DensityWarning[] {
+	const warnings: DensityWarning[] = [];
+	for (const item of items) {
+		if (item.density.avg > 1.4) {
+			warnings.push({
+				name: item.name,
+				density: item.density.avg,
+				reason: 'density > 1.4 g/ml (suspicious unless liquid/syrup/mineral)'
+			});
+		}
+		if (item.density.avg < 0.01) {
+			warnings.push({
+				name: item.name,
+				density: item.density.avg,
+				reason: 'density < 0.01 g/ml (likely data error)'
+			});
+		}
 	}
+	return warnings;
+}
 
+export function buildFromSupplemental(supplementalItems: SupplementalItem[]): FoodItem[] {
+	return supplementalItems.map((item) => ({
+		id: slugify(item.name),
+		name: item.name,
+		category: item.category,
+		density: { min: item.density, max: item.density, avg: item.density },
+		source: item.source,
+		commonality: 3
+	}));
+}
+
+// CLI: run as script
+if (import.meta.url === `file://${process.argv[1]}`) {
+	const projectRoot = resolve(dirname(import.meta.url.replace('file://', '')), '..');
+
+	// Load OC-USDA as sole source
+	const ocPath = resolve(projectRoot, 'food-density-onlineconversion.json');
+	const rawItems: SupplementalItem[] = JSON.parse(readFileSync(ocPath, 'utf-8'));
+	const allItems = buildFromSupplemental(rawItems);
+
+	console.log(`Loaded ${allItems.length} items from OC-USDA`);
+
+	// Deduplicate
 	const { clean, duplicates } = separateDuplicates(allItems);
-
 	if (duplicates.length > 0) {
-		console.log(`Found ${duplicates.length} duplicate entries (excluded from main database):`);
+		console.log(`\nRemoved ${duplicates.length} duplicate entries:`);
 		for (const d of duplicates) {
 			console.log(`  - ${d.name} (${d.source}): ${d.density.avg} g/ml`);
 		}
 	}
 
+	// Density validation warnings
+	const densityWarnings = validateDensities(clean);
+	if (densityWarnings.length > 0) {
+		console.log(`\nDensity warnings (${densityWarnings.length} items):`);
+		for (const w of densityWarnings) {
+			console.log(`  ${w.name}: ${w.density} g/ml — ${w.reason}`);
+		}
+	}
+
 	const categories = [...new Set(clean.map((i) => i.category))].sort();
 
-	return {
+	const db: FoodDatabase = {
 		version: '1.0.0',
 		itemCount: clean.length,
 		categories,
 		items: clean
 	};
-}
 
-// CLI: run as script
-if (import.meta.url === `file://${process.argv[1]}`) {
-	const psvPath = resolve(dirname(import.meta.url.replace('file://', '')), '..', 'food-density.psv');
-	const psvContent = readFileSync(psvPath, 'utf-8');
-
-	const db = buildDatabase(psvContent);
-
-	const outDir = resolve(dirname(import.meta.url.replace('file://', '')), '..', 'src', 'lib', 'data');
+	const outDir = resolve(projectRoot, 'src', 'lib', 'data');
 	mkdirSync(outDir, { recursive: true });
 
 	const outPath = resolve(outDir, 'food-density.json');
 	writeFileSync(outPath, JSON.stringify(db, null, '\t'));
-	console.log(`Wrote ${db.itemCount} items to ${outPath}`);
-
-	// Also write duplicates for review
-	const { duplicates } = separateDuplicates(
-		psvContent.split('\n')
-			.map(parsePsvLine)
-			.filter((r): r is PsvRow => r !== null)
-			.map((row) => ({
-				id: slugify(fixTypos(row.name)),
-				name: fixTypos(row.name),
-				category: fixTypos(row.category),
-				density: parseDensity(row.density),
-				source: row.source
-			}))
-	);
-
-	if (duplicates.length > 0) {
-		const dupPath = resolve(outDir, 'duplicates-review.json');
-		writeFileSync(dupPath, JSON.stringify(duplicates, null, '\t'));
-		console.log(`Wrote ${duplicates.length} duplicates to ${dupPath}`);
-	}
+	console.log(`\nWrote ${db.itemCount} items to ${outPath}`);
+	console.log(`Categories: ${categories.join(', ')}`);
 }

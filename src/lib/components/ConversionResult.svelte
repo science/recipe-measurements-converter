@@ -39,17 +39,17 @@
 
 	.unit {
 		font-size: 1.2rem;
-		color: #666;
+		color: var(--color-text-secondary);
 	}
 
 	.range {
 		font-size: 0.9rem;
-		color: #666;
+		color: var(--color-text-secondary);
 		margin-top: 0.25rem;
 	}
 
 	.empty {
-		color: #999;
+		color: var(--color-text-muted);
 		font-style: italic;
 	}
 </style>

@@ -2,15 +2,19 @@
 	import type { FoodItem } from '$lib/data/types.js';
 	import type { ConversionResult } from '$lib/conversion.js';
 	import { convert } from '$lib/conversion.js';
+	import { getMeasureById, isWeightMeasure } from '$lib/measures.js';
 	import FoodSearch from '$lib/components/FoodSearch.svelte';
 	import MeasureSelector from '$lib/components/MeasureSelector.svelte';
 	import ConversionResultDisplay from '$lib/components/ConversionResult.svelte';
-	import CategoryFilter from '$lib/components/CategoryFilter.svelte';
 
 	let selectedFood = $state<FoodItem | null>(null);
 	let selectedMeasureId = $state('cup');
 	let quantity = $state(1);
-	let selectedCategory = $state('');
+
+	let isWeight = $derived(() => {
+		const m = getMeasureById(selectedMeasureId);
+		return m ? isWeightMeasure(m) : false;
+	});
 
 	let result = $derived<ConversionResult | null>(
 		selectedFood
@@ -21,12 +25,12 @@
 
 <div class="app">
 	<h1>Recipe Measurements Converter</h1>
-	<p class="subtitle">Convert volume measurements to grams using food density data</p>
+	<p class="subtitle">Convert volume or weight measurements to grams using food density data</p>
 
 	<section class="converter">
 		<div class="search-section">
 			<label for="food-search">Ingredient</label>
-			<FoodSearch bind:selectedFood bind:selectedCategory />
+			<FoodSearch bind:selectedFood />
 		</div>
 
 		<div class="controls">
@@ -50,7 +54,7 @@
 
 		<ConversionResultDisplay {result} />
 
-		{#if selectedFood}
+		{#if selectedFood && !isWeight()}
 			<div class="selected-info" data-testid="selected-info">
 				<strong>{selectedFood.name}</strong> — density: {selectedFood.density.avg} g/ml
 				{#if selectedFood.density.min !== selectedFood.density.max}
@@ -61,10 +65,6 @@
 		{/if}
 	</section>
 
-	<section class="categories">
-		<h2>Filter by category</h2>
-		<CategoryFilter bind:selectedCategory />
-	</section>
 </div>
 
 <style>
@@ -80,7 +80,7 @@
 	}
 
 	.subtitle {
-		color: #666;
+		color: var(--color-text-secondary);
 		margin-top: 0;
 	}
 
@@ -97,6 +97,7 @@
 		font-weight: 600;
 		margin-bottom: 0.25rem;
 		font-size: 0.9rem;
+		color: var(--color-text);
 	}
 
 	.controls {
@@ -117,16 +118,18 @@
 		width: 100%;
 		padding: 0.5rem 0.75rem;
 		font-size: 1rem;
-		border: 1px solid #ccc;
+		border: 1px solid var(--color-border);
 		border-radius: 4px;
 		box-sizing: border-box;
+		background: var(--color-input-bg);
+		color: var(--color-text);
 	}
 
 	.selected-info {
 		font-size: 0.85rem;
-		color: #555;
+		color: var(--color-text-secondary);
 		padding: 0.75rem;
-		background: #f8f8f8;
+		background: var(--color-surface);
 		border-radius: 4px;
 		margin-top: 0.5rem;
 	}
@@ -134,15 +137,7 @@
 	.source {
 		display: block;
 		margin-top: 0.25rem;
-		color: #888;
+		color: var(--color-text-muted);
 	}
 
-	.categories {
-		margin-top: 2rem;
-	}
-
-	h2 {
-		font-size: 1.1rem;
-		margin-bottom: 0.75rem;
-	}
 </style>
